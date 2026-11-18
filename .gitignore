@@ -5,3 +5,10 @@ __pycache__/
 runs/
 primary/part_b_images/data/raw/
 primary/part_b_images/rebuild/cache/
+
+# Keep generated environments, credentials and release archives out of Git.
+*.zip
+.env
+.env.*
+secrets.toml
+kaggle.json

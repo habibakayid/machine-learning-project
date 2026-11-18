@@ -1,4 +1,37 @@
-# Complete Part B team handover
+# Five-Class Flower Classification — Part B
+
+A classical machine learning project for **Daisy, Dandelion, Rose, Sunflower and Tulip**, using handcrafted image features and three algorithms: Logistic Regression, KNN and K-Means. No pretrained networks, transfer learning or deep learning are used.
+
+## Verified primary results
+
+All results below use Kaggle only. Each cell is **Accuracy / Macro F1 (%)**; CV averages three group-separated folds.
+
+| Model | Train | Grouped CV | Validation |
+|---|---:|---:|---:|
+| Logistic Regression | 94.03 / 94.01 | 77.49 / 77.35 | 76.90 / 76.55 |
+| KNN | 85.68 / 85.58 | 77.00 / 76.82 | 77.52 / 77.09 |
+| K-Means | 50.98 / 49.82 | 49.29 / 48.87 | 53.49 / 53.22 |
+
+These are development estimates, not a new independent test. See [full results](MODEL_RESULTS.md), [structure](FILE_STRUCTURE.md), [training guide](TRAINING_GUIDE.md), and [limitations](MISSING_ARTIFACTS.md).
+
+## Clone and retrieve model artifacts
+
+Install Git for Windows with Git LFS, then run in PowerShell:
+
+```powershell
+git lfs install
+git clone https://github.com/malakmohamed172/machine-learning-project.git
+cd machine-learning-project
+git lfs pull
+.\setup_windows.bat
+.\run_gui.bat
+```
+
+Python **3.11 x64** and the Windows Python Launcher are required. `app/models/logistic_regression.joblib`, `app/models/knn_classifier.joblib`, and `app/models/kmeans.joblib` are the frozen application bundles. The oversized historical `supplemental_field/research_project/models/part_b_knn_96.joblib` uses Git LFS. Downloading GitHub's automatic source ZIP does not guarantee retrieval of LFS content; use a full clone plus `git lfs pull`, or the complete team ZIP from [GitHub Releases](https://github.com/malakmohamed172/machine-learning-project/releases) when available.
+
+The Git working tree includes the licensed supplemental photos omitted by inherited research ignore rules. The giant team ZIP is a release asset, never an ordinary Git commit. Verification inventories describe the frozen team ZIP; Git-specific README, ignore rules and attributes are documented changes and do not change models or experiment evidence.
+
+## Reproducible project guide
 
 Release date: 2026-11-18. Five classes: Daisy, Dandelion, Rose, Sunflower, Tulip. The saved Kaggle-only models are frozen. Packaging did not fit a model, optimize a parameter, or replace any original file. This release contains a working inference application, the actual feature and research code, all 124 final optimization records, historical studies and model bundles, frozen splits, and reproducibility entry points.
 
@@ -15,7 +48,7 @@ Release date: 2026-11-18. Five classes: Daisy, Dandelion, Rose, Sunflower, Tulip
 
 ## A. Environment setup (Windows)
 
-Use 64-bit Python 3.11 and the Windows Python Launcher. Extract the entire ZIP into a writable folder. Open PowerShell in FULL_PART_B_TEAM_RELEASE:
+Use 64-bit Python 3.11 and the Windows Python Launcher. Clone the repository with LFS, or extract the complete release ZIP into a writable folder. Open PowerShell in that project root:
 
 ```powershell
 .\setup_windows.bat
