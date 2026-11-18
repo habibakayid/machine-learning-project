@@ -1,0 +1,31 @@
+candidate,source,split,label,precision,recall,f1-score,support
+Existing Nystrom,fresh_iNat_2026,fresh_test,daisy,0.5,0.5,0.5,38.0
+Existing Nystrom,fresh_iNat_2026,fresh_test,dandelion,0.4393939393939394,0.7631578947368421,0.5576923076923077,38.0
+Existing Nystrom,fresh_iNat_2026,fresh_test,rose,0.7777777777777778,0.18421052631578946,0.2978723404255319,38.0
+Existing Nystrom,fresh_iNat_2026,fresh_test,sunflower,0.76,0.76,0.76,25.0
+Existing Nystrom,fresh_iNat_2026,fresh_test,tulip,0.4166666666666667,0.45454545454545453,0.43478260869565216,11.0
+Existing Nystrom,fresh_iNat_2026,fresh_test,macro avg,0.5787676767676767,0.5323827751196173,0.5100694513626983,150.0
+Foreground crop balanced C=1,fresh_iNat_2026,fresh_test,daisy,0.6904761904761905,0.7631578947368421,0.725,38.0
+Foreground crop balanced C=1,fresh_iNat_2026,fresh_test,dandelion,0.6585365853658537,0.7105263157894737,0.6835443037974683,38.0
+Foreground crop balanced C=1,fresh_iNat_2026,fresh_test,rose,0.9,0.7105263157894737,0.7941176470588235,38.0
+Foreground crop balanced C=1,fresh_iNat_2026,fresh_test,sunflower,0.85,0.68,0.7555555555555555,25.0
+Foreground crop balanced C=1,fresh_iNat_2026,fresh_test,tulip,0.4117647058823529,0.6363636363636364,0.5,11.0
+Foreground crop balanced C=1,fresh_iNat_2026,fresh_test,macro avg,0.7021554963448794,0.7001148325358851,0.6916435012823695,150.0
+K-Means compact mixed,fresh_iNat_2026,fresh_test,daisy,0.26956521739130435,0.8157894736842105,0.40522875816993464,38.0
+K-Means compact mixed,fresh_iNat_2026,fresh_test,dandelion,0.0,0.0,0.0,38.0
+K-Means compact mixed,fresh_iNat_2026,fresh_test,rose,0.6666666666666666,0.05263157894736842,0.0975609756097561,38.0
+K-Means compact mixed,fresh_iNat_2026,fresh_test,sunflower,0.5333333333333333,0.32,0.4,25.0
+K-Means compact mixed,fresh_iNat_2026,fresh_test,tulip,0.0,0.0,0.0,11.0
+K-Means compact mixed,fresh_iNat_2026,fresh_test,macro avg,0.29391304347826086,0.2376842105263158,0.18055794675593814,150.0
+KNN compact mixed,fresh_iNat_2026,fresh_test,daisy,0.46808510638297873,0.5789473684210527,0.5176470588235295,38.0
+KNN compact mixed,fresh_iNat_2026,fresh_test,dandelion,0.4264705882352941,0.7631578947368421,0.5471698113207547,38.0
+KNN compact mixed,fresh_iNat_2026,fresh_test,rose,1.0,0.34210526315789475,0.5098039215686274,38.0
+KNN compact mixed,fresh_iNat_2026,fresh_test,sunflower,0.8181818181818182,0.36,0.5,25.0
+KNN compact mixed,fresh_iNat_2026,fresh_test,tulip,0.45454545454545453,0.45454545454545453,0.45454545454545453,11.0
+KNN compact mixed,fresh_iNat_2026,fresh_test,macro avg,0.6334565934691091,0.4997511961722488,0.5058332492516733,150.0
+Nystrom mixed,fresh_iNat_2026,fresh_test,daisy,0.7317073170731707,0.7894736842105263,0.759493670886076,38.0
+Nystrom mixed,fresh_iNat_2026,fresh_test,dandelion,0.7380952380952381,0.8157894736842105,0.775,38.0
+Nystrom mixed,fresh_iNat_2026,fresh_test,rose,0.9,0.7105263157894737,0.7941176470588235,38.0
+Nystrom mixed,fresh_iNat_2026,fresh_test,sunflower,0.7727272727272727,0.68,0.723404255319149,25.0
+Nystrom mixed,fresh_iNat_2026,fresh_test,tulip,0.4666666666666667,0.6363636363636364,0.5384615384615384,11.0
+Nystrom mixed,fresh_iNat_2026,fresh_test,macro avg,0.7218392989124697,0.7264306220095694,0.7180954223451173,150.0

@@ -1,0 +1,230 @@
+{
+  "url": "http://127.0.0.1:8508/",
+  "browser": "Chromium / Playwright",
+  "desktop": [
+    1280,
+    940
+  ],
+  "mobile": [
+    390,
+    844
+  ],
+  "browser_plugin": "not available",
+  "cases": [
+    {
+      "scope": "primary",
+      "family": "Logistic Regression",
+      "actual": "daisy",
+      "predicted": "daisy",
+      "result": "passed"
+    },
+    {
+      "scope": "primary",
+      "family": "Logistic Regression",
+      "actual": "dandelion",
+      "predicted": "dandelion",
+      "result": "passed"
+    },
+    {
+      "scope": "primary",
+      "family": "Logistic Regression",
+      "actual": "rose",
+      "predicted": "rose",
+      "result": "passed"
+    },
+    {
+      "scope": "primary",
+      "family": "Logistic Regression",
+      "actual": "sunflower",
+      "predicted": "sunflower",
+      "result": "passed"
+    },
+    {
+      "scope": "primary",
+      "family": "Logistic Regression",
+      "actual": "tulip",
+      "predicted": "tulip",
+      "result": "passed"
+    },
+    {
+      "scope": "primary",
+      "family": "KNN Classifier",
+      "actual": "daisy",
+      "predicted": "daisy",
+      "result": "passed"
+    },
+    {
+      "scope": "primary",
+      "family": "KNN Classifier",
+      "actual": "dandelion",
+      "predicted": "dandelion",
+      "result": "passed"
+    },
+    {
+      "scope": "primary",
+      "family": "KNN Classifier",
+      "actual": "rose",
+      "predicted": "rose",
+      "result": "passed"
+    },
+    {
+      "scope": "primary",
+      "family": "KNN Classifier",
+      "actual": "sunflower",
+      "predicted": "sunflower",
+      "result": "passed"
+    },
+    {
+      "scope": "primary",
+      "family": "KNN Classifier",
+      "actual": "tulip",
+      "predicted": "tulip",
+      "result": "passed"
+    },
+    {
+      "scope": "primary",
+      "family": "K-Means",
+      "actual": "daisy",
+      "predicted": "daisy",
+      "result": "passed"
+    },
+    {
+      "scope": "primary",
+      "family": "K-Means",
+      "actual": "dandelion",
+      "predicted": "dandelion",
+      "result": "passed"
+    },
+    {
+      "scope": "primary",
+      "family": "K-Means",
+      "actual": "rose",
+      "predicted": "rose",
+      "result": "passed"
+    },
+    {
+      "scope": "primary",
+      "family": "K-Means",
+      "actual": "sunflower",
+      "predicted": "sunflower",
+      "result": "passed"
+    },
+    {
+      "scope": "primary",
+      "family": "K-Means",
+      "actual": "tulip",
+      "predicted": "tulip",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "Logistic Regression",
+      "actual": "daisy",
+      "predicted": "daisy",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "Logistic Regression",
+      "actual": "dandelion",
+      "predicted": "dandelion",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "Logistic Regression",
+      "actual": "rose",
+      "predicted": "rose",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "Logistic Regression",
+      "actual": "sunflower",
+      "predicted": "sunflower",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "Logistic Regression",
+      "actual": "tulip",
+      "predicted": "tulip",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "KNN Classifier",
+      "actual": "daisy",
+      "predicted": "daisy",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "KNN Classifier",
+      "actual": "dandelion",
+      "predicted": "dandelion",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "KNN Classifier",
+      "actual": "rose",
+      "predicted": "rose",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "KNN Classifier",
+      "actual": "sunflower",
+      "predicted": "sunflower",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "KNN Classifier",
+      "actual": "tulip",
+      "predicted": "tulip",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "K-Means",
+      "actual": "daisy",
+      "predicted": "daisy",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "K-Means",
+      "actual": "dandelion",
+      "predicted": "dandelion",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "K-Means",
+      "actual": "rose",
+      "predicted": "rose",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "K-Means",
+      "actual": "sunflower",
+      "predicted": "sunflower",
+      "result": "passed"
+    },
+    {
+      "scope": "supplemental",
+      "family": "K-Means",
+      "actual": "tulip",
+      "predicted": "tulip",
+      "result": "passed"
+    }
+  ],
+  "corrupt_upload": "passed",
+  "unsupported_format": "passed",
+  "recovery": "passed",
+  "console_errors": [],
+  "mobile_layout": "passed"
+}

@@ -1,0 +1,212 @@
+[
+  {
+    "scope": "primary",
+    "family": "Logistic Regression",
+    "actual": "daisy",
+    "path": "samples/daisy/11023214096_b5b39fab08.jpg",
+    "predicted": "daisy",
+    "probabilities": {
+      "daisy": 0.928867461989394,
+      "dandelion": 0.018049757999185675,
+      "rose": 0.011546921804695425,
+      "sunflower": 0.0026579994348180985,
+      "tulip": 0.03887785877190685
+    },
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": null
+  },
+  {
+    "scope": "primary",
+    "family": "Logistic Regression",
+    "actual": "dandelion",
+    "path": "samples/dandelion/10683189_bd6e371b97.jpg",
+    "predicted": "dandelion",
+    "probabilities": {
+      "daisy": 0.20356061191874683,
+      "dandelion": 0.7845303202899242,
+      "rose": 0.004322777735924228,
+      "sunflower": 0.003727370691381378,
+      "tulip": 0.0038589193640233745
+    },
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": null
+  },
+  {
+    "scope": "primary",
+    "family": "Logistic Regression",
+    "actual": "rose",
+    "path": "samples/rose/10894627425_ec76bbc757_n.jpg",
+    "predicted": "rose",
+    "probabilities": {
+      "daisy": 0.011174964606668255,
+      "dandelion": 0.0044412884642493645,
+      "rose": 0.5251435303739567,
+      "sunflower": 0.04382303699077517,
+      "tulip": 0.41541717956435054
+    },
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": null
+  },
+  {
+    "scope": "primary",
+    "family": "Logistic Regression",
+    "actual": "sunflower",
+    "path": "samples/sunflower/1244774242_25a20d99a9.jpg",
+    "predicted": "sunflower",
+    "probabilities": {
+      "daisy": 0.12576965882967023,
+      "dandelion": 0.12100877802308985,
+      "rose": 0.026768610202111045,
+      "sunflower": 0.7130763280467188,
+      "tulip": 0.013376624898410064
+    },
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": null
+  },
+  {
+    "scope": "primary",
+    "family": "Logistic Regression",
+    "actual": "tulip",
+    "path": "samples/tulip/10163955604_ae0b830975_n.jpg",
+    "predicted": "tulip",
+    "probabilities": {
+      "daisy": 0.01786407561735759,
+      "dandelion": 0.006504327221940347,
+      "rose": 0.03246419788488096,
+      "sunflower": 0.048540711811282326,
+      "tulip": 0.8946266874645388
+    },
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": null
+  },
+  {
+    "scope": "primary",
+    "family": "KNN Classifier",
+    "actual": "daisy",
+    "path": "samples/daisy/11023214096_b5b39fab08.jpg",
+    "predicted": "daisy",
+    "probabilities": {
+      "daisy": 0.9032258064516129,
+      "dandelion": 0.0,
+      "rose": 0.0,
+      "sunflower": 0.0,
+      "tulip": 0.0967741935483871
+    },
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": null
+  },
+  {
+    "scope": "primary",
+    "family": "KNN Classifier",
+    "actual": "dandelion",
+    "path": "samples/dandelion/10683189_bd6e371b97.jpg",
+    "predicted": "dandelion",
+    "probabilities": {
+      "daisy": 0.12903225806451613,
+      "dandelion": 0.8709677419354839,
+      "rose": 0.0,
+      "sunflower": 0.0,
+      "tulip": 0.0
+    },
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": null
+  },
+  {
+    "scope": "primary",
+    "family": "KNN Classifier",
+    "actual": "rose",
+    "path": "samples/rose/11694025703_9a906fedc1_n.jpg",
+    "predicted": "rose",
+    "probabilities": {
+      "daisy": 0.06451612903225806,
+      "dandelion": 0.0967741935483871,
+      "rose": 0.5483870967741935,
+      "sunflower": 0.2903225806451613,
+      "tulip": 0.0
+    },
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": null
+  },
+  {
+    "scope": "primary",
+    "family": "KNN Classifier",
+    "actual": "sunflower",
+    "path": "samples/sunflower/1244774242_25a20d99a9.jpg",
+    "predicted": "sunflower",
+    "probabilities": {
+      "daisy": 0.03225806451612903,
+      "dandelion": 0.25806451612903225,
+      "rose": 0.0,
+      "sunflower": 0.6774193548387096,
+      "tulip": 0.03225806451612903
+    },
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": null
+  },
+  {
+    "scope": "primary",
+    "family": "KNN Classifier",
+    "actual": "tulip",
+    "path": "samples/tulip/10163955604_ae0b830975_n.jpg",
+    "predicted": "tulip",
+    "probabilities": {
+      "daisy": 0.03225806451612903,
+      "dandelion": 0.0,
+      "rose": 0.0967741935483871,
+      "sunflower": 0.0,
+      "tulip": 0.8709677419354839
+    },
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": null
+  },
+  {
+    "scope": "primary",
+    "family": "K-Means",
+    "actual": "daisy",
+    "path": "samples/daisy/11023214096_b5b39fab08.jpg",
+    "predicted": "daisy",
+    "probabilities": null,
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": 10
+  },
+  {
+    "scope": "primary",
+    "family": "K-Means",
+    "actual": "dandelion",
+    "path": "samples/dandelion/10683189_bd6e371b97.jpg",
+    "predicted": "dandelion",
+    "probabilities": null,
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": 7
+  },
+  {
+    "scope": "primary",
+    "family": "K-Means",
+    "actual": "rose",
+    "path": "samples/rose/10894627425_ec76bbc757_n.jpg",
+    "predicted": "rose",
+    "probabilities": null,
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": 4
+  },
+  {
+    "scope": "primary",
+    "family": "K-Means",
+    "actual": "sunflower",
+    "path": "samples/sunflower/14646282112_447cc7d1f9.jpg",
+    "predicted": "sunflower",
+    "probabilities": null,
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": 2
+  },
+  {
+    "scope": "primary",
+    "family": "K-Means",
+    "actual": "tulip",
+    "path": "samples/tulip/116343334_9cb4acdc57_n.jpg",
+    "predicted": "tulip",
+    "probabilities": null,
+    "purpose": "Correctly classified validation fixture for output rendering; not an accuracy sample",
+    "cluster_display": 5
+  }
+]

@@ -1,0 +1,2776 @@
+candidate,source,split,actual,predicted,count,row_percent
+Compact crop C=1,field,cv,daisy,daisy,34,35.416666666666664
+Compact crop C=1,field,cv,daisy,dandelion,47,48.958333333333336
+Compact crop C=1,field,cv,daisy,rose,3,3.125
+Compact crop C=1,field,cv,daisy,sunflower,5,5.208333333333333
+Compact crop C=1,field,cv,daisy,tulip,7,7.291666666666667
+Compact crop C=1,field,cv,dandelion,daisy,4,4.166666666666667
+Compact crop C=1,field,cv,dandelion,dandelion,80,83.33333333333333
+Compact crop C=1,field,cv,dandelion,rose,0,0.0
+Compact crop C=1,field,cv,dandelion,sunflower,12,12.5
+Compact crop C=1,field,cv,dandelion,tulip,0,0.0
+Compact crop C=1,field,cv,rose,daisy,26,27.083333333333332
+Compact crop C=1,field,cv,rose,dandelion,33,34.375
+Compact crop C=1,field,cv,rose,rose,26,27.083333333333332
+Compact crop C=1,field,cv,rose,sunflower,0,0.0
+Compact crop C=1,field,cv,rose,tulip,11,11.458333333333334
+Compact crop C=1,field,cv,sunflower,daisy,4,6.0606060606060606
+Compact crop C=1,field,cv,sunflower,dandelion,38,57.57575757575758
+Compact crop C=1,field,cv,sunflower,rose,0,0.0
+Compact crop C=1,field,cv,sunflower,sunflower,22,33.333333333333336
+Compact crop C=1,field,cv,sunflower,tulip,2,3.0303030303030303
+Compact crop C=1,field,cv,tulip,daisy,2,2.0833333333333335
+Compact crop C=1,field,cv,tulip,dandelion,63,65.625
+Compact crop C=1,field,cv,tulip,rose,6,6.25
+Compact crop C=1,field,cv,tulip,sunflower,12,12.5
+Compact crop C=1,field,cv,tulip,tulip,13,13.541666666666666
+Compact crop C=1,field,validation,daisy,daisy,9,37.5
+Compact crop C=1,field,validation,daisy,dandelion,12,50.0
+Compact crop C=1,field,validation,daisy,rose,1,4.166666666666667
+Compact crop C=1,field,validation,daisy,sunflower,0,0.0
+Compact crop C=1,field,validation,daisy,tulip,2,8.333333333333334
+Compact crop C=1,field,validation,dandelion,daisy,1,4.166666666666667
+Compact crop C=1,field,validation,dandelion,dandelion,18,75.0
+Compact crop C=1,field,validation,dandelion,rose,0,0.0
+Compact crop C=1,field,validation,dandelion,sunflower,4,16.666666666666668
+Compact crop C=1,field,validation,dandelion,tulip,1,4.166666666666667
+Compact crop C=1,field,validation,rose,daisy,10,41.666666666666664
+Compact crop C=1,field,validation,rose,dandelion,3,12.5
+Compact crop C=1,field,validation,rose,rose,4,16.666666666666668
+Compact crop C=1,field,validation,rose,sunflower,2,8.333333333333334
+Compact crop C=1,field,validation,rose,tulip,5,20.833333333333332
+Compact crop C=1,field,validation,sunflower,daisy,2,12.5
+Compact crop C=1,field,validation,sunflower,dandelion,9,56.25
+Compact crop C=1,field,validation,sunflower,rose,0,0.0
+Compact crop C=1,field,validation,sunflower,sunflower,5,31.25
+Compact crop C=1,field,validation,sunflower,tulip,0,0.0
+Compact crop C=1,field,validation,tulip,daisy,1,4.166666666666667
+Compact crop C=1,field,validation,tulip,dandelion,16,66.66666666666667
+Compact crop C=1,field,validation,tulip,rose,0,0.0
+Compact crop C=1,field,validation,tulip,sunflower,3,12.5
+Compact crop C=1,field,validation,tulip,tulip,4,16.666666666666668
+Compact crop C=1,kaggle,cv,daisy,daisy,365,68.09701492537313
+Compact crop C=1,kaggle,cv,daisy,dandelion,80,14.925373134328359
+Compact crop C=1,kaggle,cv,daisy,rose,32,5.970149253731344
+Compact crop C=1,kaggle,cv,daisy,sunflower,32,5.970149253731344
+Compact crop C=1,kaggle,cv,daisy,tulip,27,5.037313432835821
+Compact crop C=1,kaggle,cv,dandelion,daisy,59,8.005427408412483
+Compact crop C=1,kaggle,cv,dandelion,dandelion,579,78.561736770692
+Compact crop C=1,kaggle,cv,dandelion,rose,19,2.5780189959294435
+Compact crop C=1,kaggle,cv,dandelion,sunflower,59,8.005427408412483
+Compact crop C=1,kaggle,cv,dandelion,tulip,21,2.8493894165535956
+Compact crop C=1,kaggle,cv,rose,daisy,38,6.95970695970696
+Compact crop C=1,kaggle,cv,rose,dandelion,49,8.974358974358974
+Compact crop C=1,kaggle,cv,rose,rose,351,64.28571428571429
+Compact crop C=1,kaggle,cv,rose,sunflower,17,3.1135531135531136
+Compact crop C=1,kaggle,cv,rose,tulip,91,16.666666666666668
+Compact crop C=1,kaggle,cv,sunflower,daisy,18,3.515625
+Compact crop C=1,kaggle,cv,sunflower,dandelion,57,11.1328125
+Compact crop C=1,kaggle,cv,sunflower,rose,11,2.1484375
+Compact crop C=1,kaggle,cv,sunflower,sunflower,400,78.125
+Compact crop C=1,kaggle,cv,sunflower,tulip,26,5.078125
+Compact crop C=1,kaggle,cv,tulip,daisy,34,4.956268221574344
+Compact crop C=1,kaggle,cv,tulip,dandelion,34,4.956268221574344
+Compact crop C=1,kaggle,cv,tulip,rose,76,11.078717201166182
+Compact crop C=1,kaggle,cv,tulip,sunflower,42,6.122448979591836
+Compact crop C=1,kaggle,cv,tulip,tulip,500,72.8862973760933
+Compact crop C=1,kaggle,train,daisy,daisy,404,75.3731343283582
+Compact crop C=1,kaggle,train,daisy,dandelion,72,13.432835820895523
+Compact crop C=1,kaggle,train,daisy,rose,22,4.104477611940299
+Compact crop C=1,kaggle,train,daisy,sunflower,21,3.917910447761194
+Compact crop C=1,kaggle,train,daisy,tulip,17,3.171641791044776
+Compact crop C=1,kaggle,train,dandelion,daisy,45,6.1058344640434195
+Compact crop C=1,kaggle,train,dandelion,dandelion,616,83.58208955223881
+Compact crop C=1,kaggle,train,dandelion,rose,17,2.306648575305292
+Compact crop C=1,kaggle,train,dandelion,sunflower,47,6.377204884667571
+Compact crop C=1,kaggle,train,dandelion,tulip,12,1.6282225237449117
+Compact crop C=1,kaggle,train,rose,daisy,27,4.945054945054945
+Compact crop C=1,kaggle,train,rose,dandelion,37,6.7765567765567765
+Compact crop C=1,kaggle,train,rose,rose,409,74.9084249084249
+Compact crop C=1,kaggle,train,rose,sunflower,12,2.197802197802198
+Compact crop C=1,kaggle,train,rose,tulip,61,11.172161172161172
+Compact crop C=1,kaggle,train,sunflower,daisy,14,2.734375
+Compact crop C=1,kaggle,train,sunflower,dandelion,36,7.03125
+Compact crop C=1,kaggle,train,sunflower,rose,6,1.171875
+Compact crop C=1,kaggle,train,sunflower,sunflower,439,85.7421875
+Compact crop C=1,kaggle,train,sunflower,tulip,17,3.3203125
+Compact crop C=1,kaggle,train,tulip,daisy,27,3.935860058309038
+Compact crop C=1,kaggle,train,tulip,dandelion,26,3.7900874635568513
+Compact crop C=1,kaggle,train,tulip,rose,51,7.434402332361516
+Compact crop C=1,kaggle,train,tulip,sunflower,30,4.373177842565598
+Compact crop C=1,kaggle,train,tulip,tulip,552,80.466472303207
+Compact crop C=1,kaggle,validation,daisy,daisy,75,65.78947368421052
+Compact crop C=1,kaggle,validation,daisy,dandelion,23,20.17543859649123
+Compact crop C=1,kaggle,validation,daisy,rose,5,4.385964912280702
+Compact crop C=1,kaggle,validation,daisy,sunflower,5,4.385964912280702
+Compact crop C=1,kaggle,validation,daisy,tulip,6,5.2631578947368425
+Compact crop C=1,kaggle,validation,dandelion,daisy,14,8.9171974522293
+Compact crop C=1,kaggle,validation,dandelion,dandelion,112,71.3375796178344
+Compact crop C=1,kaggle,validation,dandelion,rose,4,2.5477707006369426
+Compact crop C=1,kaggle,validation,dandelion,sunflower,18,11.464968152866241
+Compact crop C=1,kaggle,validation,dandelion,tulip,9,5.732484076433121
+Compact crop C=1,kaggle,validation,rose,daisy,15,12.820512820512821
+Compact crop C=1,kaggle,validation,rose,dandelion,8,6.837606837606837
+Compact crop C=1,kaggle,validation,rose,rose,67,57.26495726495727
+Compact crop C=1,kaggle,validation,rose,sunflower,8,6.837606837606837
+Compact crop C=1,kaggle,validation,rose,tulip,19,16.23931623931624
+Compact crop C=1,kaggle,validation,sunflower,daisy,7,6.363636363636363
+Compact crop C=1,kaggle,validation,sunflower,dandelion,7,6.363636363636363
+Compact crop C=1,kaggle,validation,sunflower,rose,0,0.0
+Compact crop C=1,kaggle,validation,sunflower,sunflower,87,79.0909090909091
+Compact crop C=1,kaggle,validation,sunflower,tulip,9,8.181818181818182
+Compact crop C=1,kaggle,validation,tulip,daisy,4,2.7210884353741496
+Compact crop C=1,kaggle,validation,tulip,dandelion,10,6.802721088435374
+Compact crop C=1,kaggle,validation,tulip,rose,10,6.802721088435374
+Compact crop C=1,kaggle,validation,tulip,sunflower,6,4.081632653061225
+Compact crop C=1,kaggle,validation,tulip,tulip,117,79.59183673469387
+Compact full frame C=0.1,field,cv,daisy,daisy,11,11.458333333333334
+Compact full frame C=0.1,field,cv,daisy,dandelion,57,59.375
+Compact full frame C=0.1,field,cv,daisy,rose,3,3.125
+Compact full frame C=0.1,field,cv,daisy,sunflower,12,12.5
+Compact full frame C=0.1,field,cv,daisy,tulip,13,13.541666666666666
+Compact full frame C=0.1,field,cv,dandelion,daisy,1,1.0416666666666667
+Compact full frame C=0.1,field,cv,dandelion,dandelion,71,73.95833333333333
+Compact full frame C=0.1,field,cv,dandelion,rose,0,0.0
+Compact full frame C=0.1,field,cv,dandelion,sunflower,15,15.625
+Compact full frame C=0.1,field,cv,dandelion,tulip,9,9.375
+Compact full frame C=0.1,field,cv,rose,daisy,15,15.625
+Compact full frame C=0.1,field,cv,rose,dandelion,33,34.375
+Compact full frame C=0.1,field,cv,rose,rose,16,16.666666666666668
+Compact full frame C=0.1,field,cv,rose,sunflower,4,4.166666666666667
+Compact full frame C=0.1,field,cv,rose,tulip,28,29.166666666666668
+Compact full frame C=0.1,field,cv,sunflower,daisy,3,4.545454545454546
+Compact full frame C=0.1,field,cv,sunflower,dandelion,33,50.0
+Compact full frame C=0.1,field,cv,sunflower,rose,1,1.5151515151515151
+Compact full frame C=0.1,field,cv,sunflower,sunflower,25,37.878787878787875
+Compact full frame C=0.1,field,cv,sunflower,tulip,4,6.0606060606060606
+Compact full frame C=0.1,field,cv,tulip,daisy,2,2.0833333333333335
+Compact full frame C=0.1,field,cv,tulip,dandelion,53,55.208333333333336
+Compact full frame C=0.1,field,cv,tulip,rose,5,5.208333333333333
+Compact full frame C=0.1,field,cv,tulip,sunflower,19,19.791666666666668
+Compact full frame C=0.1,field,cv,tulip,tulip,17,17.708333333333332
+Compact full frame C=0.1,field,validation,daisy,daisy,5,20.833333333333332
+Compact full frame C=0.1,field,validation,daisy,dandelion,11,45.833333333333336
+Compact full frame C=0.1,field,validation,daisy,rose,0,0.0
+Compact full frame C=0.1,field,validation,daisy,sunflower,3,12.5
+Compact full frame C=0.1,field,validation,daisy,tulip,5,20.833333333333332
+Compact full frame C=0.1,field,validation,dandelion,daisy,0,0.0
+Compact full frame C=0.1,field,validation,dandelion,dandelion,15,62.5
+Compact full frame C=0.1,field,validation,dandelion,rose,1,4.166666666666667
+Compact full frame C=0.1,field,validation,dandelion,sunflower,7,29.166666666666668
+Compact full frame C=0.1,field,validation,dandelion,tulip,1,4.166666666666667
+Compact full frame C=0.1,field,validation,rose,daisy,7,29.166666666666668
+Compact full frame C=0.1,field,validation,rose,dandelion,4,16.666666666666668
+Compact full frame C=0.1,field,validation,rose,rose,2,8.333333333333334
+Compact full frame C=0.1,field,validation,rose,sunflower,2,8.333333333333334
+Compact full frame C=0.1,field,validation,rose,tulip,9,37.5
+Compact full frame C=0.1,field,validation,sunflower,daisy,1,6.25
+Compact full frame C=0.1,field,validation,sunflower,dandelion,6,37.5
+Compact full frame C=0.1,field,validation,sunflower,rose,0,0.0
+Compact full frame C=0.1,field,validation,sunflower,sunflower,8,50.0
+Compact full frame C=0.1,field,validation,sunflower,tulip,1,6.25
+Compact full frame C=0.1,field,validation,tulip,daisy,0,0.0
+Compact full frame C=0.1,field,validation,tulip,dandelion,17,70.83333333333333
+Compact full frame C=0.1,field,validation,tulip,rose,0,0.0
+Compact full frame C=0.1,field,validation,tulip,sunflower,1,4.166666666666667
+Compact full frame C=0.1,field,validation,tulip,tulip,6,25.0
+Compact full frame C=0.1,kaggle,cv,daisy,daisy,303,56.52985074626866
+Compact full frame C=0.1,kaggle,cv,daisy,dandelion,145,27.05223880597015
+Compact full frame C=0.1,kaggle,cv,daisy,rose,26,4.850746268656716
+Compact full frame C=0.1,kaggle,cv,daisy,sunflower,31,5.7835820895522385
+Compact full frame C=0.1,kaggle,cv,daisy,tulip,31,5.7835820895522385
+Compact full frame C=0.1,kaggle,cv,dandelion,daisy,64,8.683853459972863
+Compact full frame C=0.1,kaggle,cv,dandelion,dandelion,541,73.40569877883311
+Compact full frame C=0.1,kaggle,cv,dandelion,rose,23,3.1207598371777476
+Compact full frame C=0.1,kaggle,cv,dandelion,sunflower,86,11.668928086838534
+Compact full frame C=0.1,kaggle,cv,dandelion,tulip,23,3.1207598371777476
+Compact full frame C=0.1,kaggle,cv,rose,daisy,27,4.945054945054945
+Compact full frame C=0.1,kaggle,cv,rose,dandelion,67,12.271062271062272
+Compact full frame C=0.1,kaggle,cv,rose,rose,298,54.57875457875458
+Compact full frame C=0.1,kaggle,cv,rose,sunflower,19,3.47985347985348
+Compact full frame C=0.1,kaggle,cv,rose,tulip,135,24.725274725274726
+Compact full frame C=0.1,kaggle,cv,sunflower,daisy,18,3.515625
+Compact full frame C=0.1,kaggle,cv,sunflower,dandelion,64,12.5
+Compact full frame C=0.1,kaggle,cv,sunflower,rose,10,1.953125
+Compact full frame C=0.1,kaggle,cv,sunflower,sunflower,384,75.0
+Compact full frame C=0.1,kaggle,cv,sunflower,tulip,36,7.03125
+Compact full frame C=0.1,kaggle,cv,tulip,daisy,37,5.393586005830904
+Compact full frame C=0.1,kaggle,cv,tulip,dandelion,42,6.122448979591836
+Compact full frame C=0.1,kaggle,cv,tulip,rose,70,10.204081632653061
+Compact full frame C=0.1,kaggle,cv,tulip,sunflower,45,6.559766763848397
+Compact full frame C=0.1,kaggle,cv,tulip,tulip,492,71.7201166180758
+Compact full frame C=0.1,kaggle,train,daisy,daisy,334,62.3134328358209
+Compact full frame C=0.1,kaggle,train,daisy,dandelion,123,22.94776119402985
+Compact full frame C=0.1,kaggle,train,daisy,rose,26,4.850746268656716
+Compact full frame C=0.1,kaggle,train,daisy,sunflower,28,5.223880597014926
+Compact full frame C=0.1,kaggle,train,daisy,tulip,25,4.664179104477612
+Compact full frame C=0.1,kaggle,train,dandelion,daisy,53,7.191316146540027
+Compact full frame C=0.1,kaggle,train,dandelion,dandelion,563,76.39077340569878
+Compact full frame C=0.1,kaggle,train,dandelion,rose,21,2.8493894165535956
+Compact full frame C=0.1,kaggle,train,dandelion,sunflower,78,10.583446404341927
+Compact full frame C=0.1,kaggle,train,dandelion,tulip,22,2.985074626865672
+Compact full frame C=0.1,kaggle,train,rose,daisy,28,5.128205128205129
+Compact full frame C=0.1,kaggle,train,rose,dandelion,59,10.805860805860807
+Compact full frame C=0.1,kaggle,train,rose,rose,332,60.8058608058608
+Compact full frame C=0.1,kaggle,train,rose,sunflower,19,3.47985347985348
+Compact full frame C=0.1,kaggle,train,rose,tulip,108,19.78021978021978
+Compact full frame C=0.1,kaggle,train,sunflower,daisy,20,3.90625
+Compact full frame C=0.1,kaggle,train,sunflower,dandelion,57,11.1328125
+Compact full frame C=0.1,kaggle,train,sunflower,rose,9,1.7578125
+Compact full frame C=0.1,kaggle,train,sunflower,sunflower,396,77.34375
+Compact full frame C=0.1,kaggle,train,sunflower,tulip,30,5.859375
+Compact full frame C=0.1,kaggle,train,tulip,daisy,31,4.518950437317784
+Compact full frame C=0.1,kaggle,train,tulip,dandelion,36,5.247813411078718
+Compact full frame C=0.1,kaggle,train,tulip,rose,53,7.725947521865889
+Compact full frame C=0.1,kaggle,train,tulip,sunflower,40,5.830903790087463
+Compact full frame C=0.1,kaggle,train,tulip,tulip,526,76.67638483965014
+Compact full frame C=0.1,kaggle,validation,daisy,daisy,57,50.0
+Compact full frame C=0.1,kaggle,validation,daisy,dandelion,40,35.08771929824562
+Compact full frame C=0.1,kaggle,validation,daisy,rose,7,6.140350877192983
+Compact full frame C=0.1,kaggle,validation,daisy,sunflower,4,3.508771929824561
+Compact full frame C=0.1,kaggle,validation,daisy,tulip,6,5.2631578947368425
+Compact full frame C=0.1,kaggle,validation,dandelion,daisy,12,7.643312101910828
+Compact full frame C=0.1,kaggle,validation,dandelion,dandelion,109,69.4267515923567
+Compact full frame C=0.1,kaggle,validation,dandelion,rose,2,1.2738853503184713
+Compact full frame C=0.1,kaggle,validation,dandelion,sunflower,24,15.286624203821656
+Compact full frame C=0.1,kaggle,validation,dandelion,tulip,10,6.369426751592357
+Compact full frame C=0.1,kaggle,validation,rose,daisy,15,12.820512820512821
+Compact full frame C=0.1,kaggle,validation,rose,dandelion,13,11.11111111111111
+Compact full frame C=0.1,kaggle,validation,rose,rose,54,46.15384615384615
+Compact full frame C=0.1,kaggle,validation,rose,sunflower,7,5.982905982905983
+Compact full frame C=0.1,kaggle,validation,rose,tulip,28,23.931623931623932
+Compact full frame C=0.1,kaggle,validation,sunflower,daisy,7,6.363636363636363
+Compact full frame C=0.1,kaggle,validation,sunflower,dandelion,7,6.363636363636363
+Compact full frame C=0.1,kaggle,validation,sunflower,rose,3,2.727272727272727
+Compact full frame C=0.1,kaggle,validation,sunflower,sunflower,85,77.27272727272727
+Compact full frame C=0.1,kaggle,validation,sunflower,tulip,8,7.2727272727272725
+Compact full frame C=0.1,kaggle,validation,tulip,daisy,6,4.081632653061225
+Compact full frame C=0.1,kaggle,validation,tulip,dandelion,10,6.802721088435374
+Compact full frame C=0.1,kaggle,validation,tulip,rose,14,9.523809523809524
+Compact full frame C=0.1,kaggle,validation,tulip,sunflower,6,4.081632653061225
+Compact full frame C=0.1,kaggle,validation,tulip,tulip,111,75.51020408163265
+Compact full frame C=1,field,cv,daisy,daisy,30,31.25
+Compact full frame C=1,field,cv,daisy,dandelion,46,47.916666666666664
+Compact full frame C=1,field,cv,daisy,rose,4,4.166666666666667
+Compact full frame C=1,field,cv,daisy,sunflower,9,9.375
+Compact full frame C=1,field,cv,daisy,tulip,7,7.291666666666667
+Compact full frame C=1,field,cv,dandelion,daisy,3,3.125
+Compact full frame C=1,field,cv,dandelion,dandelion,79,82.29166666666667
+Compact full frame C=1,field,cv,dandelion,rose,0,0.0
+Compact full frame C=1,field,cv,dandelion,sunflower,13,13.541666666666666
+Compact full frame C=1,field,cv,dandelion,tulip,1,1.0416666666666667
+Compact full frame C=1,field,cv,rose,daisy,27,28.125
+Compact full frame C=1,field,cv,rose,dandelion,28,29.166666666666668
+Compact full frame C=1,field,cv,rose,rose,21,21.875
+Compact full frame C=1,field,cv,rose,sunflower,4,4.166666666666667
+Compact full frame C=1,field,cv,rose,tulip,16,16.666666666666668
+Compact full frame C=1,field,cv,sunflower,daisy,5,7.575757575757576
+Compact full frame C=1,field,cv,sunflower,dandelion,31,46.96969696969697
+Compact full frame C=1,field,cv,sunflower,rose,0,0.0
+Compact full frame C=1,field,cv,sunflower,sunflower,27,40.90909090909091
+Compact full frame C=1,field,cv,sunflower,tulip,3,4.545454545454546
+Compact full frame C=1,field,cv,tulip,daisy,4,4.166666666666667
+Compact full frame C=1,field,cv,tulip,dandelion,55,57.291666666666664
+Compact full frame C=1,field,cv,tulip,rose,7,7.291666666666667
+Compact full frame C=1,field,cv,tulip,sunflower,17,17.708333333333332
+Compact full frame C=1,field,cv,tulip,tulip,13,13.541666666666666
+Compact full frame C=1,field,validation,daisy,daisy,8,33.333333333333336
+Compact full frame C=1,field,validation,daisy,dandelion,10,41.666666666666664
+Compact full frame C=1,field,validation,daisy,rose,1,4.166666666666667
+Compact full frame C=1,field,validation,daisy,sunflower,2,8.333333333333334
+Compact full frame C=1,field,validation,daisy,tulip,3,12.5
+Compact full frame C=1,field,validation,dandelion,daisy,1,4.166666666666667
+Compact full frame C=1,field,validation,dandelion,dandelion,17,70.83333333333333
+Compact full frame C=1,field,validation,dandelion,rose,0,0.0
+Compact full frame C=1,field,validation,dandelion,sunflower,5,20.833333333333332
+Compact full frame C=1,field,validation,dandelion,tulip,1,4.166666666666667
+Compact full frame C=1,field,validation,rose,daisy,9,37.5
+Compact full frame C=1,field,validation,rose,dandelion,4,16.666666666666668
+Compact full frame C=1,field,validation,rose,rose,3,12.5
+Compact full frame C=1,field,validation,rose,sunflower,3,12.5
+Compact full frame C=1,field,validation,rose,tulip,5,20.833333333333332
+Compact full frame C=1,field,validation,sunflower,daisy,2,12.5
+Compact full frame C=1,field,validation,sunflower,dandelion,5,31.25
+Compact full frame C=1,field,validation,sunflower,rose,1,6.25
+Compact full frame C=1,field,validation,sunflower,sunflower,7,43.75
+Compact full frame C=1,field,validation,sunflower,tulip,1,6.25
+Compact full frame C=1,field,validation,tulip,daisy,0,0.0
+Compact full frame C=1,field,validation,tulip,dandelion,17,70.83333333333333
+Compact full frame C=1,field,validation,tulip,rose,0,0.0
+Compact full frame C=1,field,validation,tulip,sunflower,2,8.333333333333334
+Compact full frame C=1,field,validation,tulip,tulip,5,20.833333333333332
+Compact full frame C=1,kaggle,cv,daisy,daisy,348,64.92537313432835
+Compact full frame C=1,kaggle,cv,daisy,dandelion,102,19.029850746268657
+Compact full frame C=1,kaggle,cv,daisy,rose,31,5.7835820895522385
+Compact full frame C=1,kaggle,cv,daisy,sunflower,32,5.970149253731344
+Compact full frame C=1,kaggle,cv,daisy,tulip,23,4.291044776119403
+Compact full frame C=1,kaggle,cv,dandelion,daisy,69,9.362279511533243
+Compact full frame C=1,kaggle,cv,dandelion,dandelion,558,75.7123473541384
+Compact full frame C=1,kaggle,cv,dandelion,rose,19,2.5780189959294435
+Compact full frame C=1,kaggle,cv,dandelion,sunflower,68,9.226594301221168
+Compact full frame C=1,kaggle,cv,dandelion,tulip,23,3.1207598371777476
+Compact full frame C=1,kaggle,cv,rose,daisy,43,7.875457875457876
+Compact full frame C=1,kaggle,cv,rose,dandelion,49,8.974358974358974
+Compact full frame C=1,kaggle,cv,rose,rose,341,62.45421245421245
+Compact full frame C=1,kaggle,cv,rose,sunflower,14,2.5641025641025643
+Compact full frame C=1,kaggle,cv,rose,tulip,99,18.13186813186813
+Compact full frame C=1,kaggle,cv,sunflower,daisy,19,3.7109375
+Compact full frame C=1,kaggle,cv,sunflower,dandelion,54,10.546875
+Compact full frame C=1,kaggle,cv,sunflower,rose,10,1.953125
+Compact full frame C=1,kaggle,cv,sunflower,sunflower,396,77.34375
+Compact full frame C=1,kaggle,cv,sunflower,tulip,33,6.4453125
+Compact full frame C=1,kaggle,cv,tulip,daisy,33,4.810495626822157
+Compact full frame C=1,kaggle,cv,tulip,dandelion,36,5.247813411078718
+Compact full frame C=1,kaggle,cv,tulip,rose,79,11.51603498542274
+Compact full frame C=1,kaggle,cv,tulip,sunflower,44,6.41399416909621
+Compact full frame C=1,kaggle,cv,tulip,tulip,494,72.01166180758017
+Compact full frame C=1,kaggle,train,daisy,daisy,392,73.13432835820896
+Compact full frame C=1,kaggle,train,daisy,dandelion,81,15.111940298507463
+Compact full frame C=1,kaggle,train,daisy,rose,24,4.477611940298507
+Compact full frame C=1,kaggle,train,daisy,sunflower,22,4.104477611940299
+Compact full frame C=1,kaggle,train,daisy,tulip,17,3.171641791044776
+Compact full frame C=1,kaggle,train,dandelion,daisy,44,5.970149253731344
+Compact full frame C=1,kaggle,train,dandelion,dandelion,609,82.63229308005427
+Compact full frame C=1,kaggle,train,dandelion,rose,14,1.8995929443690638
+Compact full frame C=1,kaggle,train,dandelion,sunflower,57,7.734056987788331
+Compact full frame C=1,kaggle,train,dandelion,tulip,13,1.7639077340569878
+Compact full frame C=1,kaggle,train,rose,daisy,33,6.043956043956044
+Compact full frame C=1,kaggle,train,rose,dandelion,36,6.593406593406593
+Compact full frame C=1,kaggle,train,rose,rose,398,72.89377289377289
+Compact full frame C=1,kaggle,train,rose,sunflower,8,1.465201465201465
+Compact full frame C=1,kaggle,train,rose,tulip,71,13.003663003663004
+Compact full frame C=1,kaggle,train,sunflower,daisy,15,2.9296875
+Compact full frame C=1,kaggle,train,sunflower,dandelion,40,7.8125
+Compact full frame C=1,kaggle,train,sunflower,rose,5,0.9765625
+Compact full frame C=1,kaggle,train,sunflower,sunflower,429,83.7890625
+Compact full frame C=1,kaggle,train,sunflower,tulip,23,4.4921875
+Compact full frame C=1,kaggle,train,tulip,daisy,27,3.935860058309038
+Compact full frame C=1,kaggle,train,tulip,dandelion,31,4.518950437317784
+Compact full frame C=1,kaggle,train,tulip,rose,51,7.434402332361516
+Compact full frame C=1,kaggle,train,tulip,sunflower,30,4.373177842565598
+Compact full frame C=1,kaggle,train,tulip,tulip,547,79.73760932944606
+Compact full frame C=1,kaggle,validation,daisy,daisy,69,60.526315789473685
+Compact full frame C=1,kaggle,validation,daisy,dandelion,27,23.68421052631579
+Compact full frame C=1,kaggle,validation,daisy,rose,8,7.017543859649122
+Compact full frame C=1,kaggle,validation,daisy,sunflower,6,5.2631578947368425
+Compact full frame C=1,kaggle,validation,daisy,tulip,4,3.508771929824561
+Compact full frame C=1,kaggle,validation,dandelion,daisy,12,7.643312101910828
+Compact full frame C=1,kaggle,validation,dandelion,dandelion,111,70.70063694267516
+Compact full frame C=1,kaggle,validation,dandelion,rose,5,3.1847133757961785
+Compact full frame C=1,kaggle,validation,dandelion,sunflower,19,12.101910828025478
+Compact full frame C=1,kaggle,validation,dandelion,tulip,10,6.369426751592357
+Compact full frame C=1,kaggle,validation,rose,daisy,13,11.11111111111111
+Compact full frame C=1,kaggle,validation,rose,dandelion,11,9.401709401709402
+Compact full frame C=1,kaggle,validation,rose,rose,62,52.99145299145299
+Compact full frame C=1,kaggle,validation,rose,sunflower,6,5.128205128205129
+Compact full frame C=1,kaggle,validation,rose,tulip,25,21.367521367521366
+Compact full frame C=1,kaggle,validation,sunflower,daisy,6,5.454545454545454
+Compact full frame C=1,kaggle,validation,sunflower,dandelion,7,6.363636363636363
+Compact full frame C=1,kaggle,validation,sunflower,rose,2,1.8181818181818181
+Compact full frame C=1,kaggle,validation,sunflower,sunflower,88,80.0
+Compact full frame C=1,kaggle,validation,sunflower,tulip,7,6.363636363636363
+Compact full frame C=1,kaggle,validation,tulip,daisy,3,2.0408163265306123
+Compact full frame C=1,kaggle,validation,tulip,dandelion,7,4.761904761904762
+Compact full frame C=1,kaggle,validation,tulip,rose,11,7.482993197278912
+Compact full frame C=1,kaggle,validation,tulip,sunflower,9,6.122448979591836
+Compact full frame C=1,kaggle,validation,tulip,tulip,117,79.59183673469387
+Compact mixed C=1,field,cv,daisy,daisy,52,54.166666666666664
+Compact mixed C=1,field,cv,daisy,dandelion,23,23.958333333333332
+Compact mixed C=1,field,cv,daisy,rose,4,4.166666666666667
+Compact mixed C=1,field,cv,daisy,sunflower,2,2.0833333333333335
+Compact mixed C=1,field,cv,daisy,tulip,15,15.625
+Compact mixed C=1,field,cv,dandelion,daisy,7,7.291666666666667
+Compact mixed C=1,field,cv,dandelion,dandelion,72,75.0
+Compact mixed C=1,field,cv,dandelion,rose,0,0.0
+Compact mixed C=1,field,cv,dandelion,sunflower,7,7.291666666666667
+Compact mixed C=1,field,cv,dandelion,tulip,10,10.416666666666666
+Compact mixed C=1,field,cv,rose,daisy,31,32.291666666666664
+Compact mixed C=1,field,cv,rose,dandelion,13,13.541666666666666
+Compact mixed C=1,field,cv,rose,rose,41,42.708333333333336
+Compact mixed C=1,field,cv,rose,sunflower,1,1.0416666666666667
+Compact mixed C=1,field,cv,rose,tulip,10,10.416666666666666
+Compact mixed C=1,field,cv,sunflower,daisy,5,7.575757575757576
+Compact mixed C=1,field,cv,sunflower,dandelion,25,37.878787878787875
+Compact mixed C=1,field,cv,sunflower,rose,1,1.5151515151515151
+Compact mixed C=1,field,cv,sunflower,sunflower,31,46.96969696969697
+Compact mixed C=1,field,cv,sunflower,tulip,4,6.0606060606060606
+Compact mixed C=1,field,cv,tulip,daisy,8,8.333333333333334
+Compact mixed C=1,field,cv,tulip,dandelion,40,41.666666666666664
+Compact mixed C=1,field,cv,tulip,rose,9,9.375
+Compact mixed C=1,field,cv,tulip,sunflower,12,12.5
+Compact mixed C=1,field,cv,tulip,tulip,27,28.125
+Compact mixed C=1,field,train,daisy,daisy,66,68.75
+Compact mixed C=1,field,train,daisy,dandelion,14,14.583333333333334
+Compact mixed C=1,field,train,daisy,rose,5,5.208333333333333
+Compact mixed C=1,field,train,daisy,sunflower,1,1.0416666666666667
+Compact mixed C=1,field,train,daisy,tulip,10,10.416666666666666
+Compact mixed C=1,field,train,dandelion,daisy,6,6.25
+Compact mixed C=1,field,train,dandelion,dandelion,78,81.25
+Compact mixed C=1,field,train,dandelion,rose,0,0.0
+Compact mixed C=1,field,train,dandelion,sunflower,5,5.208333333333333
+Compact mixed C=1,field,train,dandelion,tulip,7,7.291666666666667
+Compact mixed C=1,field,train,rose,daisy,29,30.208333333333332
+Compact mixed C=1,field,train,rose,dandelion,8,8.333333333333334
+Compact mixed C=1,field,train,rose,rose,47,48.958333333333336
+Compact mixed C=1,field,train,rose,sunflower,1,1.0416666666666667
+Compact mixed C=1,field,train,rose,tulip,11,11.458333333333334
+Compact mixed C=1,field,train,sunflower,daisy,3,4.545454545454546
+Compact mixed C=1,field,train,sunflower,dandelion,19,28.78787878787879
+Compact mixed C=1,field,train,sunflower,rose,1,1.5151515151515151
+Compact mixed C=1,field,train,sunflower,sunflower,41,62.121212121212125
+Compact mixed C=1,field,train,sunflower,tulip,2,3.0303030303030303
+Compact mixed C=1,field,train,tulip,daisy,5,5.208333333333333
+Compact mixed C=1,field,train,tulip,dandelion,40,41.666666666666664
+Compact mixed C=1,field,train,tulip,rose,7,7.291666666666667
+Compact mixed C=1,field,train,tulip,sunflower,10,10.416666666666666
+Compact mixed C=1,field,train,tulip,tulip,34,35.416666666666664
+Compact mixed C=1,field,validation,daisy,daisy,10,41.666666666666664
+Compact mixed C=1,field,validation,daisy,dandelion,6,25.0
+Compact mixed C=1,field,validation,daisy,rose,5,20.833333333333332
+Compact mixed C=1,field,validation,daisy,sunflower,1,4.166666666666667
+Compact mixed C=1,field,validation,daisy,tulip,2,8.333333333333334
+Compact mixed C=1,field,validation,dandelion,daisy,4,16.666666666666668
+Compact mixed C=1,field,validation,dandelion,dandelion,13,54.166666666666664
+Compact mixed C=1,field,validation,dandelion,rose,1,4.166666666666667
+Compact mixed C=1,field,validation,dandelion,sunflower,3,12.5
+Compact mixed C=1,field,validation,dandelion,tulip,3,12.5
+Compact mixed C=1,field,validation,rose,daisy,6,25.0
+Compact mixed C=1,field,validation,rose,dandelion,1,4.166666666666667
+Compact mixed C=1,field,validation,rose,rose,12,50.0
+Compact mixed C=1,field,validation,rose,sunflower,2,8.333333333333334
+Compact mixed C=1,field,validation,rose,tulip,3,12.5
+Compact mixed C=1,field,validation,sunflower,daisy,1,6.25
+Compact mixed C=1,field,validation,sunflower,dandelion,1,6.25
+Compact mixed C=1,field,validation,sunflower,rose,0,0.0
+Compact mixed C=1,field,validation,sunflower,sunflower,10,62.5
+Compact mixed C=1,field,validation,sunflower,tulip,4,25.0
+Compact mixed C=1,field,validation,tulip,daisy,0,0.0
+Compact mixed C=1,field,validation,tulip,dandelion,14,58.333333333333336
+Compact mixed C=1,field,validation,tulip,rose,1,4.166666666666667
+Compact mixed C=1,field,validation,tulip,sunflower,1,4.166666666666667
+Compact mixed C=1,field,validation,tulip,tulip,8,33.333333333333336
+Compact mixed C=1,kaggle,cv,daisy,daisy,359,66.9776119402985
+Compact mixed C=1,kaggle,cv,daisy,dandelion,90,16.791044776119403
+Compact mixed C=1,kaggle,cv,daisy,rose,32,5.970149253731344
+Compact mixed C=1,kaggle,cv,daisy,sunflower,27,5.037313432835821
+Compact mixed C=1,kaggle,cv,daisy,tulip,28,5.223880597014926
+Compact mixed C=1,kaggle,cv,dandelion,daisy,75,10.176390773405698
+Compact mixed C=1,kaggle,cv,dandelion,dandelion,541,73.40569877883311
+Compact mixed C=1,kaggle,cv,dandelion,rose,19,2.5780189959294435
+Compact mixed C=1,kaggle,cv,dandelion,sunflower,69,9.362279511533243
+Compact mixed C=1,kaggle,cv,dandelion,tulip,33,4.477611940298507
+Compact mixed C=1,kaggle,cv,rose,daisy,38,6.95970695970696
+Compact mixed C=1,kaggle,cv,rose,dandelion,46,8.424908424908425
+Compact mixed C=1,kaggle,cv,rose,rose,340,62.27106227106227
+Compact mixed C=1,kaggle,cv,rose,sunflower,16,2.93040293040293
+Compact mixed C=1,kaggle,cv,rose,tulip,106,19.413919413919412
+Compact mixed C=1,kaggle,cv,sunflower,daisy,21,4.1015625
+Compact mixed C=1,kaggle,cv,sunflower,dandelion,51,9.9609375
+Compact mixed C=1,kaggle,cv,sunflower,rose,8,1.5625
+Compact mixed C=1,kaggle,cv,sunflower,sunflower,394,76.953125
+Compact mixed C=1,kaggle,cv,sunflower,tulip,38,7.421875
+Compact mixed C=1,kaggle,cv,tulip,daisy,34,4.956268221574344
+Compact mixed C=1,kaggle,cv,tulip,dandelion,31,4.518950437317784
+Compact mixed C=1,kaggle,cv,tulip,rose,82,11.9533527696793
+Compact mixed C=1,kaggle,cv,tulip,sunflower,40,5.830903790087463
+Compact mixed C=1,kaggle,cv,tulip,tulip,499,72.74052478134111
+Compact mixed C=1,kaggle,train,daisy,daisy,398,74.25373134328358
+Compact mixed C=1,kaggle,train,daisy,dandelion,73,13.619402985074627
+Compact mixed C=1,kaggle,train,daisy,rose,25,4.664179104477612
+Compact mixed C=1,kaggle,train,daisy,sunflower,21,3.917910447761194
+Compact mixed C=1,kaggle,train,daisy,tulip,19,3.544776119402985
+Compact mixed C=1,kaggle,train,dandelion,daisy,55,7.462686567164179
+Compact mixed C=1,kaggle,train,dandelion,dandelion,590,80.05427408412483
+Compact mixed C=1,kaggle,train,dandelion,rose,14,1.8995929443690638
+Compact mixed C=1,kaggle,train,dandelion,sunflower,53,7.191316146540027
+Compact mixed C=1,kaggle,train,dandelion,tulip,25,3.3921302578018997
+Compact mixed C=1,kaggle,train,rose,daisy,32,5.86080586080586
+Compact mixed C=1,kaggle,train,rose,dandelion,37,6.7765567765567765
+Compact mixed C=1,kaggle,train,rose,rose,393,71.97802197802197
+Compact mixed C=1,kaggle,train,rose,sunflower,9,1.6483516483516483
+Compact mixed C=1,kaggle,train,rose,tulip,75,13.736263736263735
+Compact mixed C=1,kaggle,train,sunflower,daisy,17,3.3203125
+Compact mixed C=1,kaggle,train,sunflower,dandelion,35,6.8359375
+Compact mixed C=1,kaggle,train,sunflower,rose,6,1.171875
+Compact mixed C=1,kaggle,train,sunflower,sunflower,429,83.7890625
+Compact mixed C=1,kaggle,train,sunflower,tulip,25,4.8828125
+Compact mixed C=1,kaggle,train,tulip,daisy,30,4.373177842565598
+Compact mixed C=1,kaggle,train,tulip,dandelion,25,3.6443148688046647
+Compact mixed C=1,kaggle,train,tulip,rose,65,9.475218658892128
+Compact mixed C=1,kaggle,train,tulip,sunflower,27,3.935860058309038
+Compact mixed C=1,kaggle,train,tulip,tulip,539,78.57142857142857
+Compact mixed C=1,kaggle,validation,daisy,daisy,73,64.03508771929825
+Compact mixed C=1,kaggle,validation,daisy,dandelion,22,19.29824561403509
+Compact mixed C=1,kaggle,validation,daisy,rose,7,6.140350877192983
+Compact mixed C=1,kaggle,validation,daisy,sunflower,7,6.140350877192983
+Compact mixed C=1,kaggle,validation,daisy,tulip,5,4.385964912280702
+Compact mixed C=1,kaggle,validation,dandelion,daisy,14,8.9171974522293
+Compact mixed C=1,kaggle,validation,dandelion,dandelion,106,67.51592356687898
+Compact mixed C=1,kaggle,validation,dandelion,rose,5,3.1847133757961785
+Compact mixed C=1,kaggle,validation,dandelion,sunflower,23,14.64968152866242
+Compact mixed C=1,kaggle,validation,dandelion,tulip,9,5.732484076433121
+Compact mixed C=1,kaggle,validation,rose,daisy,13,11.11111111111111
+Compact mixed C=1,kaggle,validation,rose,dandelion,12,10.256410256410257
+Compact mixed C=1,kaggle,validation,rose,rose,66,56.41025641025641
+Compact mixed C=1,kaggle,validation,rose,sunflower,5,4.273504273504273
+Compact mixed C=1,kaggle,validation,rose,tulip,21,17.94871794871795
+Compact mixed C=1,kaggle,validation,sunflower,daisy,4,3.6363636363636362
+Compact mixed C=1,kaggle,validation,sunflower,dandelion,10,9.090909090909092
+Compact mixed C=1,kaggle,validation,sunflower,rose,2,1.8181818181818181
+Compact mixed C=1,kaggle,validation,sunflower,sunflower,87,79.0909090909091
+Compact mixed C=1,kaggle,validation,sunflower,tulip,7,6.363636363636363
+Compact mixed C=1,kaggle,validation,tulip,daisy,2,1.3605442176870748
+Compact mixed C=1,kaggle,validation,tulip,dandelion,9,6.122448979591836
+Compact mixed C=1,kaggle,validation,tulip,rose,14,9.523809523809524
+Compact mixed C=1,kaggle,validation,tulip,sunflower,6,4.081632653061225
+Compact mixed C=1,kaggle,validation,tulip,tulip,116,78.91156462585035
+Existing Nystrom,field,cv,daisy,daisy,57,59.375
+Existing Nystrom,field,cv,daisy,dandelion,28,29.166666666666668
+Existing Nystrom,field,cv,daisy,rose,4,4.166666666666667
+Existing Nystrom,field,cv,daisy,sunflower,4,4.166666666666667
+Existing Nystrom,field,cv,daisy,tulip,3,3.125
+Existing Nystrom,field,cv,dandelion,daisy,5,5.208333333333333
+Existing Nystrom,field,cv,dandelion,dandelion,79,82.29166666666667
+Existing Nystrom,field,cv,dandelion,rose,1,1.0416666666666667
+Existing Nystrom,field,cv,dandelion,sunflower,11,11.458333333333334
+Existing Nystrom,field,cv,dandelion,tulip,0,0.0
+Existing Nystrom,field,cv,rose,daisy,34,35.416666666666664
+Existing Nystrom,field,cv,rose,dandelion,23,23.958333333333332
+Existing Nystrom,field,cv,rose,rose,26,27.083333333333332
+Existing Nystrom,field,cv,rose,sunflower,2,2.0833333333333335
+Existing Nystrom,field,cv,rose,tulip,11,11.458333333333334
+Existing Nystrom,field,cv,sunflower,daisy,6,9.090909090909092
+Existing Nystrom,field,cv,sunflower,dandelion,23,34.84848484848485
+Existing Nystrom,field,cv,sunflower,rose,0,0.0
+Existing Nystrom,field,cv,sunflower,sunflower,34,51.515151515151516
+Existing Nystrom,field,cv,sunflower,tulip,3,4.545454545454546
+Existing Nystrom,field,cv,tulip,daisy,9,9.375
+Existing Nystrom,field,cv,tulip,dandelion,61,63.541666666666664
+Existing Nystrom,field,cv,tulip,rose,8,8.333333333333334
+Existing Nystrom,field,cv,tulip,sunflower,5,5.208333333333333
+Existing Nystrom,field,cv,tulip,tulip,13,13.541666666666666
+Existing Nystrom,field,validation,daisy,daisy,14,58.333333333333336
+Existing Nystrom,field,validation,daisy,dandelion,7,29.166666666666668
+Existing Nystrom,field,validation,daisy,rose,3,12.5
+Existing Nystrom,field,validation,daisy,sunflower,0,0.0
+Existing Nystrom,field,validation,daisy,tulip,0,0.0
+Existing Nystrom,field,validation,dandelion,daisy,1,4.166666666666667
+Existing Nystrom,field,validation,dandelion,dandelion,18,75.0
+Existing Nystrom,field,validation,dandelion,rose,0,0.0
+Existing Nystrom,field,validation,dandelion,sunflower,4,16.666666666666668
+Existing Nystrom,field,validation,dandelion,tulip,1,4.166666666666667
+Existing Nystrom,field,validation,rose,daisy,10,41.666666666666664
+Existing Nystrom,field,validation,rose,dandelion,2,8.333333333333334
+Existing Nystrom,field,validation,rose,rose,5,20.833333333333332
+Existing Nystrom,field,validation,rose,sunflower,3,12.5
+Existing Nystrom,field,validation,rose,tulip,4,16.666666666666668
+Existing Nystrom,field,validation,sunflower,daisy,3,18.75
+Existing Nystrom,field,validation,sunflower,dandelion,4,25.0
+Existing Nystrom,field,validation,sunflower,rose,0,0.0
+Existing Nystrom,field,validation,sunflower,sunflower,8,50.0
+Existing Nystrom,field,validation,sunflower,tulip,1,6.25
+Existing Nystrom,field,validation,tulip,daisy,3,12.5
+Existing Nystrom,field,validation,tulip,dandelion,13,54.166666666666664
+Existing Nystrom,field,validation,tulip,rose,1,4.166666666666667
+Existing Nystrom,field,validation,tulip,sunflower,1,4.166666666666667
+Existing Nystrom,field,validation,tulip,tulip,6,25.0
+Existing Nystrom,kaggle,cv,daisy,daisy,382,71.26865671641791
+Existing Nystrom,kaggle,cv,daisy,dandelion,78,14.552238805970148
+Existing Nystrom,kaggle,cv,daisy,rose,30,5.597014925373134
+Existing Nystrom,kaggle,cv,daisy,sunflower,19,3.544776119402985
+Existing Nystrom,kaggle,cv,daisy,tulip,27,5.037313432835821
+Existing Nystrom,kaggle,cv,dandelion,daisy,57,7.734056987788331
+Existing Nystrom,kaggle,cv,dandelion,dandelion,607,82.36092265943012
+Existing Nystrom,kaggle,cv,dandelion,rose,15,2.03527815468114
+Existing Nystrom,kaggle,cv,dandelion,sunflower,35,4.74898236092266
+Existing Nystrom,kaggle,cv,dandelion,tulip,23,3.1207598371777476
+Existing Nystrom,kaggle,cv,rose,daisy,39,7.142857142857143
+Existing Nystrom,kaggle,cv,rose,dandelion,33,6.043956043956044
+Existing Nystrom,kaggle,cv,rose,rose,386,70.6959706959707
+Existing Nystrom,kaggle,cv,rose,sunflower,19,3.47985347985348
+Existing Nystrom,kaggle,cv,rose,tulip,69,12.637362637362637
+Existing Nystrom,kaggle,cv,sunflower,daisy,17,3.3203125
+Existing Nystrom,kaggle,cv,sunflower,dandelion,31,6.0546875
+Existing Nystrom,kaggle,cv,sunflower,rose,18,3.515625
+Existing Nystrom,kaggle,cv,sunflower,sunflower,428,83.59375
+Existing Nystrom,kaggle,cv,sunflower,tulip,18,3.515625
+Existing Nystrom,kaggle,cv,tulip,daisy,30,4.373177842565598
+Existing Nystrom,kaggle,cv,tulip,dandelion,34,4.956268221574344
+Existing Nystrom,kaggle,cv,tulip,rose,76,11.078717201166182
+Existing Nystrom,kaggle,cv,tulip,sunflower,29,4.227405247813411
+Existing Nystrom,kaggle,cv,tulip,tulip,517,75.36443148688046
+Existing Nystrom,kaggle,train,daisy,daisy,529,98.69402985074628
+Existing Nystrom,kaggle,train,daisy,dandelion,2,0.373134328358209
+Existing Nystrom,kaggle,train,daisy,rose,2,0.373134328358209
+Existing Nystrom,kaggle,train,daisy,sunflower,3,0.5597014925373134
+Existing Nystrom,kaggle,train,daisy,tulip,0,0.0
+Existing Nystrom,kaggle,train,dandelion,daisy,1,0.13568521031207598
+Existing Nystrom,kaggle,train,dandelion,dandelion,733,99.4572591587517
+Existing Nystrom,kaggle,train,dandelion,rose,0,0.0
+Existing Nystrom,kaggle,train,dandelion,sunflower,2,0.27137042062415195
+Existing Nystrom,kaggle,train,dandelion,tulip,1,0.13568521031207598
+Existing Nystrom,kaggle,train,rose,daisy,0,0.0
+Existing Nystrom,kaggle,train,rose,dandelion,1,0.18315018315018314
+Existing Nystrom,kaggle,train,rose,rose,544,99.63369963369964
+Existing Nystrom,kaggle,train,rose,sunflower,0,0.0
+Existing Nystrom,kaggle,train,rose,tulip,1,0.18315018315018314
+Existing Nystrom,kaggle,train,sunflower,daisy,0,0.0
+Existing Nystrom,kaggle,train,sunflower,dandelion,2,0.390625
+Existing Nystrom,kaggle,train,sunflower,rose,1,0.1953125
+Existing Nystrom,kaggle,train,sunflower,sunflower,509,99.4140625
+Existing Nystrom,kaggle,train,sunflower,tulip,0,0.0
+Existing Nystrom,kaggle,train,tulip,daisy,4,0.5830903790087464
+Existing Nystrom,kaggle,train,tulip,dandelion,0,0.0
+Existing Nystrom,kaggle,train,tulip,rose,0,0.0
+Existing Nystrom,kaggle,train,tulip,sunflower,1,0.1457725947521866
+Existing Nystrom,kaggle,train,tulip,tulip,681,99.27113702623906
+Existing Nystrom,kaggle,validation,daisy,daisy,81,71.05263157894737
+Existing Nystrom,kaggle,validation,daisy,dandelion,18,15.789473684210526
+Existing Nystrom,kaggle,validation,daisy,rose,7,6.140350877192983
+Existing Nystrom,kaggle,validation,daisy,sunflower,5,4.385964912280702
+Existing Nystrom,kaggle,validation,daisy,tulip,3,2.6315789473684212
+Existing Nystrom,kaggle,validation,dandelion,daisy,11,7.006369426751593
+Existing Nystrom,kaggle,validation,dandelion,dandelion,115,73.2484076433121
+Existing Nystrom,kaggle,validation,dandelion,rose,4,2.5477707006369426
+Existing Nystrom,kaggle,validation,dandelion,sunflower,16,10.19108280254777
+Existing Nystrom,kaggle,validation,dandelion,tulip,11,7.006369426751593
+Existing Nystrom,kaggle,validation,rose,daisy,10,8.547008547008547
+Existing Nystrom,kaggle,validation,rose,dandelion,3,2.5641025641025643
+Existing Nystrom,kaggle,validation,rose,rose,81,69.23076923076923
+Existing Nystrom,kaggle,validation,rose,sunflower,5,4.273504273504273
+Existing Nystrom,kaggle,validation,rose,tulip,18,15.384615384615385
+Existing Nystrom,kaggle,validation,sunflower,daisy,3,2.727272727272727
+Existing Nystrom,kaggle,validation,sunflower,dandelion,4,3.6363636363636362
+Existing Nystrom,kaggle,validation,sunflower,rose,2,1.8181818181818181
+Existing Nystrom,kaggle,validation,sunflower,sunflower,95,86.36363636363636
+Existing Nystrom,kaggle,validation,sunflower,tulip,6,5.454545454545454
+Existing Nystrom,kaggle,validation,tulip,daisy,4,2.7210884353741496
+Existing Nystrom,kaggle,validation,tulip,dandelion,5,3.401360544217687
+Existing Nystrom,kaggle,validation,tulip,rose,13,8.843537414965986
+Existing Nystrom,kaggle,validation,tulip,sunflower,4,2.7210884353741496
+Existing Nystrom,kaggle,validation,tulip,tulip,121,82.31292517006803
+Foreground crop C=1,field,cv,daisy,daisy,40,41.666666666666664
+Foreground crop C=1,field,cv,daisy,dandelion,42,43.75
+Foreground crop C=1,field,cv,daisy,rose,3,3.125
+Foreground crop C=1,field,cv,daisy,sunflower,3,3.125
+Foreground crop C=1,field,cv,daisy,tulip,8,8.333333333333334
+Foreground crop C=1,field,cv,dandelion,daisy,3,3.125
+Foreground crop C=1,field,cv,dandelion,dandelion,83,86.45833333333333
+Foreground crop C=1,field,cv,dandelion,rose,0,0.0
+Foreground crop C=1,field,cv,dandelion,sunflower,10,10.416666666666666
+Foreground crop C=1,field,cv,dandelion,tulip,0,0.0
+Foreground crop C=1,field,cv,rose,daisy,29,30.208333333333332
+Foreground crop C=1,field,cv,rose,dandelion,24,25.0
+Foreground crop C=1,field,cv,rose,rose,31,32.291666666666664
+Foreground crop C=1,field,cv,rose,sunflower,0,0.0
+Foreground crop C=1,field,cv,rose,tulip,12,12.5
+Foreground crop C=1,field,cv,sunflower,daisy,5,7.575757575757576
+Foreground crop C=1,field,cv,sunflower,dandelion,34,51.515151515151516
+Foreground crop C=1,field,cv,sunflower,rose,0,0.0
+Foreground crop C=1,field,cv,sunflower,sunflower,24,36.36363636363637
+Foreground crop C=1,field,cv,sunflower,tulip,3,4.545454545454546
+Foreground crop C=1,field,cv,tulip,daisy,3,3.125
+Foreground crop C=1,field,cv,tulip,dandelion,59,61.458333333333336
+Foreground crop C=1,field,cv,tulip,rose,8,8.333333333333334
+Foreground crop C=1,field,cv,tulip,sunflower,10,10.416666666666666
+Foreground crop C=1,field,cv,tulip,tulip,16,16.666666666666668
+Foreground crop C=1,field,validation,daisy,daisy,7,29.166666666666668
+Foreground crop C=1,field,validation,daisy,dandelion,12,50.0
+Foreground crop C=1,field,validation,daisy,rose,3,12.5
+Foreground crop C=1,field,validation,daisy,sunflower,0,0.0
+Foreground crop C=1,field,validation,daisy,tulip,2,8.333333333333334
+Foreground crop C=1,field,validation,dandelion,daisy,0,0.0
+Foreground crop C=1,field,validation,dandelion,dandelion,18,75.0
+Foreground crop C=1,field,validation,dandelion,rose,0,0.0
+Foreground crop C=1,field,validation,dandelion,sunflower,2,8.333333333333334
+Foreground crop C=1,field,validation,dandelion,tulip,4,16.666666666666668
+Foreground crop C=1,field,validation,rose,daisy,10,41.666666666666664
+Foreground crop C=1,field,validation,rose,dandelion,1,4.166666666666667
+Foreground crop C=1,field,validation,rose,rose,6,25.0
+Foreground crop C=1,field,validation,rose,sunflower,1,4.166666666666667
+Foreground crop C=1,field,validation,rose,tulip,6,25.0
+Foreground crop C=1,field,validation,sunflower,daisy,2,12.5
+Foreground crop C=1,field,validation,sunflower,dandelion,6,37.5
+Foreground crop C=1,field,validation,sunflower,rose,0,0.0
+Foreground crop C=1,field,validation,sunflower,sunflower,8,50.0
+Foreground crop C=1,field,validation,sunflower,tulip,0,0.0
+Foreground crop C=1,field,validation,tulip,daisy,1,4.166666666666667
+Foreground crop C=1,field,validation,tulip,dandelion,15,62.5
+Foreground crop C=1,field,validation,tulip,rose,1,4.166666666666667
+Foreground crop C=1,field,validation,tulip,sunflower,0,0.0
+Foreground crop C=1,field,validation,tulip,tulip,7,29.166666666666668
+Foreground crop C=1,kaggle,cv,daisy,daisy,382,71.26865671641791
+Foreground crop C=1,kaggle,cv,daisy,dandelion,75,13.992537313432836
+Foreground crop C=1,kaggle,cv,daisy,rose,27,5.037313432835821
+Foreground crop C=1,kaggle,cv,daisy,sunflower,26,4.850746268656716
+Foreground crop C=1,kaggle,cv,daisy,tulip,26,4.850746268656716
+Foreground crop C=1,kaggle,cv,dandelion,daisy,51,6.919945725915875
+Foreground crop C=1,kaggle,cv,dandelion,dandelion,590,80.05427408412483
+Foreground crop C=1,kaggle,cv,dandelion,rose,17,2.306648575305292
+Foreground crop C=1,kaggle,cv,dandelion,sunflower,56,7.598371777476255
+Foreground crop C=1,kaggle,cv,dandelion,tulip,23,3.1207598371777476
+Foreground crop C=1,kaggle,cv,rose,daisy,41,7.509157509157509
+Foreground crop C=1,kaggle,cv,rose,dandelion,42,7.6923076923076925
+Foreground crop C=1,kaggle,cv,rose,rose,361,66.11721611721612
+Foreground crop C=1,kaggle,cv,rose,sunflower,14,2.5641025641025643
+Foreground crop C=1,kaggle,cv,rose,tulip,88,16.117216117216117
+Foreground crop C=1,kaggle,cv,sunflower,daisy,12,2.34375
+Foreground crop C=1,kaggle,cv,sunflower,dandelion,46,8.984375
+Foreground crop C=1,kaggle,cv,sunflower,rose,11,2.1484375
+Foreground crop C=1,kaggle,cv,sunflower,sunflower,417,81.4453125
+Foreground crop C=1,kaggle,cv,sunflower,tulip,26,5.078125
+Foreground crop C=1,kaggle,cv,tulip,daisy,38,5.539358600583091
+Foreground crop C=1,kaggle,cv,tulip,dandelion,32,4.664723032069971
+Foreground crop C=1,kaggle,cv,tulip,rose,79,11.51603498542274
+Foreground crop C=1,kaggle,cv,tulip,sunflower,40,5.830903790087463
+Foreground crop C=1,kaggle,cv,tulip,tulip,497,72.44897959183673
+Foreground crop C=1,kaggle,train,daisy,daisy,434,80.97014925373135
+Foreground crop C=1,kaggle,train,daisy,dandelion,61,11.380597014925373
+Foreground crop C=1,kaggle,train,daisy,rose,17,3.171641791044776
+Foreground crop C=1,kaggle,train,daisy,sunflower,16,2.985074626865672
+Foreground crop C=1,kaggle,train,daisy,tulip,8,1.492537313432836
+Foreground crop C=1,kaggle,train,dandelion,daisy,39,5.291723202170964
+Foreground crop C=1,kaggle,train,dandelion,dandelion,637,86.4314789687924
+Foreground crop C=1,kaggle,train,dandelion,rose,11,1.492537313432836
+Foreground crop C=1,kaggle,train,dandelion,sunflower,38,5.156037991858887
+Foreground crop C=1,kaggle,train,dandelion,tulip,12,1.6282225237449117
+Foreground crop C=1,kaggle,train,rose,daisy,32,5.86080586080586
+Foreground crop C=1,kaggle,train,rose,dandelion,29,5.311355311355311
+Foreground crop C=1,kaggle,train,rose,rose,424,77.65567765567765
+Foreground crop C=1,kaggle,train,rose,sunflower,11,2.0146520146520146
+Foreground crop C=1,kaggle,train,rose,tulip,50,9.157509157509157
+Foreground crop C=1,kaggle,train,sunflower,daisy,8,1.5625
+Foreground crop C=1,kaggle,train,sunflower,dandelion,29,5.6640625
+Foreground crop C=1,kaggle,train,sunflower,rose,5,0.9765625
+Foreground crop C=1,kaggle,train,sunflower,sunflower,455,88.8671875
+Foreground crop C=1,kaggle,train,sunflower,tulip,15,2.9296875
+Foreground crop C=1,kaggle,train,tulip,daisy,26,3.7900874635568513
+Foreground crop C=1,kaggle,train,tulip,dandelion,20,2.9154518950437316
+Foreground crop C=1,kaggle,train,tulip,rose,48,6.997084548104956
+Foreground crop C=1,kaggle,train,tulip,sunflower,21,3.061224489795918
+Foreground crop C=1,kaggle,train,tulip,tulip,571,83.23615160349854
+Foreground crop C=1,kaggle,validation,daisy,daisy,75,65.78947368421052
+Foreground crop C=1,kaggle,validation,daisy,dandelion,20,17.54385964912281
+Foreground crop C=1,kaggle,validation,daisy,rose,7,6.140350877192983
+Foreground crop C=1,kaggle,validation,daisy,sunflower,6,5.2631578947368425
+Foreground crop C=1,kaggle,validation,daisy,tulip,6,5.2631578947368425
+Foreground crop C=1,kaggle,validation,dandelion,daisy,12,7.643312101910828
+Foreground crop C=1,kaggle,validation,dandelion,dandelion,113,71.97452229299363
+Foreground crop C=1,kaggle,validation,dandelion,rose,3,1.910828025477707
+Foreground crop C=1,kaggle,validation,dandelion,sunflower,19,12.101910828025478
+Foreground crop C=1,kaggle,validation,dandelion,tulip,10,6.369426751592357
+Foreground crop C=1,kaggle,validation,rose,daisy,10,8.547008547008547
+Foreground crop C=1,kaggle,validation,rose,dandelion,4,3.4188034188034186
+Foreground crop C=1,kaggle,validation,rose,rose,79,67.52136752136752
+Foreground crop C=1,kaggle,validation,rose,sunflower,5,4.273504273504273
+Foreground crop C=1,kaggle,validation,rose,tulip,19,16.23931623931624
+Foreground crop C=1,kaggle,validation,sunflower,daisy,7,6.363636363636363
+Foreground crop C=1,kaggle,validation,sunflower,dandelion,7,6.363636363636363
+Foreground crop C=1,kaggle,validation,sunflower,rose,0,0.0
+Foreground crop C=1,kaggle,validation,sunflower,sunflower,86,78.18181818181819
+Foreground crop C=1,kaggle,validation,sunflower,tulip,10,9.090909090909092
+Foreground crop C=1,kaggle,validation,tulip,daisy,5,3.401360544217687
+Foreground crop C=1,kaggle,validation,tulip,dandelion,7,4.761904761904762
+Foreground crop C=1,kaggle,validation,tulip,rose,12,8.16326530612245
+Foreground crop C=1,kaggle,validation,tulip,sunflower,7,4.761904761904762
+Foreground crop C=1,kaggle,validation,tulip,tulip,116,78.91156462585035
+Foreground crop balanced C=1,field,cv,daisy,daisy,72,75.0
+Foreground crop balanced C=1,field,cv,daisy,dandelion,12,12.5
+Foreground crop balanced C=1,field,cv,daisy,rose,5,5.208333333333333
+Foreground crop balanced C=1,field,cv,daisy,sunflower,0,0.0
+Foreground crop balanced C=1,field,cv,daisy,tulip,7,7.291666666666667
+Foreground crop balanced C=1,field,cv,dandelion,daisy,8,8.333333333333334
+Foreground crop balanced C=1,field,cv,dandelion,dandelion,73,76.04166666666667
+Foreground crop balanced C=1,field,cv,dandelion,rose,1,1.0416666666666667
+Foreground crop balanced C=1,field,cv,dandelion,sunflower,6,6.25
+Foreground crop balanced C=1,field,cv,dandelion,tulip,8,8.333333333333334
+Foreground crop balanced C=1,field,cv,rose,daisy,22,22.916666666666668
+Foreground crop balanced C=1,field,cv,rose,dandelion,3,3.125
+Foreground crop balanced C=1,field,cv,rose,rose,62,64.58333333333333
+Foreground crop balanced C=1,field,cv,rose,sunflower,1,1.0416666666666667
+Foreground crop balanced C=1,field,cv,rose,tulip,8,8.333333333333334
+Foreground crop balanced C=1,field,cv,sunflower,daisy,3,4.545454545454546
+Foreground crop balanced C=1,field,cv,sunflower,dandelion,18,27.272727272727273
+Foreground crop balanced C=1,field,cv,sunflower,rose,2,3.0303030303030303
+Foreground crop balanced C=1,field,cv,sunflower,sunflower,34,51.515151515151516
+Foreground crop balanced C=1,field,cv,sunflower,tulip,9,13.636363636363637
+Foreground crop balanced C=1,field,cv,tulip,daisy,7,7.291666666666667
+Foreground crop balanced C=1,field,cv,tulip,dandelion,30,31.25
+Foreground crop balanced C=1,field,cv,tulip,rose,7,7.291666666666667
+Foreground crop balanced C=1,field,cv,tulip,sunflower,8,8.333333333333334
+Foreground crop balanced C=1,field,cv,tulip,tulip,44,45.833333333333336
+Foreground crop balanced C=1,field,train,daisy,daisy,91,94.79166666666667
+Foreground crop balanced C=1,field,train,daisy,dandelion,3,3.125
+Foreground crop balanced C=1,field,train,daisy,rose,0,0.0
+Foreground crop balanced C=1,field,train,daisy,sunflower,0,0.0
+Foreground crop balanced C=1,field,train,daisy,tulip,2,2.0833333333333335
+Foreground crop balanced C=1,field,train,dandelion,daisy,1,1.0416666666666667
+Foreground crop balanced C=1,field,train,dandelion,dandelion,92,95.83333333333333
+Foreground crop balanced C=1,field,train,dandelion,rose,0,0.0
+Foreground crop balanced C=1,field,train,dandelion,sunflower,0,0.0
+Foreground crop balanced C=1,field,train,dandelion,tulip,3,3.125
+Foreground crop balanced C=1,field,train,rose,daisy,7,7.291666666666667
+Foreground crop balanced C=1,field,train,rose,dandelion,1,1.0416666666666667
+Foreground crop balanced C=1,field,train,rose,rose,86,89.58333333333333
+Foreground crop balanced C=1,field,train,rose,sunflower,1,1.0416666666666667
+Foreground crop balanced C=1,field,train,rose,tulip,1,1.0416666666666667
+Foreground crop balanced C=1,field,train,sunflower,daisy,1,1.5151515151515151
+Foreground crop balanced C=1,field,train,sunflower,dandelion,2,3.0303030303030303
+Foreground crop balanced C=1,field,train,sunflower,rose,0,0.0
+Foreground crop balanced C=1,field,train,sunflower,sunflower,60,90.9090909090909
+Foreground crop balanced C=1,field,train,sunflower,tulip,3,4.545454545454546
+Foreground crop balanced C=1,field,train,tulip,daisy,1,1.0416666666666667
+Foreground crop balanced C=1,field,train,tulip,dandelion,13,13.541666666666666
+Foreground crop balanced C=1,field,train,tulip,rose,1,1.0416666666666667
+Foreground crop balanced C=1,field,train,tulip,sunflower,2,2.0833333333333335
+Foreground crop balanced C=1,field,train,tulip,tulip,79,82.29166666666667
+Foreground crop balanced C=1,field,validation,daisy,daisy,15,62.5
+Foreground crop balanced C=1,field,validation,daisy,dandelion,3,12.5
+Foreground crop balanced C=1,field,validation,daisy,rose,5,20.833333333333332
+Foreground crop balanced C=1,field,validation,daisy,sunflower,0,0.0
+Foreground crop balanced C=1,field,validation,daisy,tulip,1,4.166666666666667
+Foreground crop balanced C=1,field,validation,dandelion,daisy,3,12.5
+Foreground crop balanced C=1,field,validation,dandelion,dandelion,12,50.0
+Foreground crop balanced C=1,field,validation,dandelion,rose,2,8.333333333333334
+Foreground crop balanced C=1,field,validation,dandelion,sunflower,3,12.5
+Foreground crop balanced C=1,field,validation,dandelion,tulip,4,16.666666666666668
+Foreground crop balanced C=1,field,validation,rose,daisy,4,16.666666666666668
+Foreground crop balanced C=1,field,validation,rose,dandelion,1,4.166666666666667
+Foreground crop balanced C=1,field,validation,rose,rose,17,70.83333333333333
+Foreground crop balanced C=1,field,validation,rose,sunflower,0,0.0
+Foreground crop balanced C=1,field,validation,rose,tulip,2,8.333333333333334
+Foreground crop balanced C=1,field,validation,sunflower,daisy,1,6.25
+Foreground crop balanced C=1,field,validation,sunflower,dandelion,1,6.25
+Foreground crop balanced C=1,field,validation,sunflower,rose,0,0.0
+Foreground crop balanced C=1,field,validation,sunflower,sunflower,10,62.5
+Foreground crop balanced C=1,field,validation,sunflower,tulip,4,25.0
+Foreground crop balanced C=1,field,validation,tulip,daisy,2,8.333333333333334
+Foreground crop balanced C=1,field,validation,tulip,dandelion,8,33.333333333333336
+Foreground crop balanced C=1,field,validation,tulip,rose,0,0.0
+Foreground crop balanced C=1,field,validation,tulip,sunflower,0,0.0
+Foreground crop balanced C=1,field,validation,tulip,tulip,14,58.333333333333336
+Foreground crop balanced C=1,kaggle,cv,daisy,daisy,351,65.48507462686567
+Foreground crop balanced C=1,kaggle,cv,daisy,dandelion,68,12.686567164179104
+Foreground crop balanced C=1,kaggle,cv,daisy,rose,40,7.462686567164179
+Foreground crop balanced C=1,kaggle,cv,daisy,sunflower,39,7.276119402985074
+Foreground crop balanced C=1,kaggle,cv,daisy,tulip,38,7.08955223880597
+Foreground crop balanced C=1,kaggle,cv,dandelion,daisy,83,11.261872455902306
+Foreground crop balanced C=1,kaggle,cv,dandelion,dandelion,503,68.24966078697422
+Foreground crop balanced C=1,kaggle,cv,dandelion,rose,37,5.020352781546811
+Foreground crop balanced C=1,kaggle,cv,dandelion,sunflower,62,8.412483039348711
+Foreground crop balanced C=1,kaggle,cv,dandelion,tulip,52,7.055630936227951
+Foreground crop balanced C=1,kaggle,cv,rose,daisy,36,6.593406593406593
+Foreground crop balanced C=1,kaggle,cv,rose,dandelion,30,5.4945054945054945
+Foreground crop balanced C=1,kaggle,cv,rose,rose,352,64.46886446886447
+Foreground crop balanced C=1,kaggle,cv,rose,sunflower,21,3.8461538461538463
+Foreground crop balanced C=1,kaggle,cv,rose,tulip,107,19.5970695970696
+Foreground crop balanced C=1,kaggle,cv,sunflower,daisy,20,3.90625
+Foreground crop balanced C=1,kaggle,cv,sunflower,dandelion,48,9.375
+Foreground crop balanced C=1,kaggle,cv,sunflower,rose,11,2.1484375
+Foreground crop balanced C=1,kaggle,cv,sunflower,sunflower,407,79.4921875
+Foreground crop balanced C=1,kaggle,cv,sunflower,tulip,26,5.078125
+Foreground crop balanced C=1,kaggle,cv,tulip,daisy,35,5.1020408163265305
+Foreground crop balanced C=1,kaggle,cv,tulip,dandelion,28,4.081632653061225
+Foreground crop balanced C=1,kaggle,cv,tulip,rose,106,15.451895043731778
+Foreground crop balanced C=1,kaggle,cv,tulip,sunflower,39,5.685131195335277
+Foreground crop balanced C=1,kaggle,cv,tulip,tulip,478,69.67930029154519
+Foreground crop balanced C=1,kaggle,train,daisy,daisy,396,73.88059701492537
+Foreground crop balanced C=1,kaggle,train,daisy,dandelion,54,10.074626865671641
+Foreground crop balanced C=1,kaggle,train,daisy,rose,34,6.343283582089552
+Foreground crop balanced C=1,kaggle,train,daisy,sunflower,27,5.037313432835821
+Foreground crop balanced C=1,kaggle,train,daisy,tulip,25,4.664179104477612
+Foreground crop balanced C=1,kaggle,train,dandelion,daisy,67,9.090909090909092
+Foreground crop balanced C=1,kaggle,train,dandelion,dandelion,559,75.84803256445048
+Foreground crop balanced C=1,kaggle,train,dandelion,rose,26,3.5278154681139755
+Foreground crop balanced C=1,kaggle,train,dandelion,sunflower,51,6.919945725915875
+Foreground crop balanced C=1,kaggle,train,dandelion,tulip,34,4.613297150610584
+Foreground crop balanced C=1,kaggle,train,rose,daisy,29,5.311355311355311
+Foreground crop balanced C=1,kaggle,train,rose,dandelion,22,4.029304029304029
+Foreground crop balanced C=1,kaggle,train,rose,rose,398,72.89377289377289
+Foreground crop balanced C=1,kaggle,train,rose,sunflower,21,3.8461538461538463
+Foreground crop balanced C=1,kaggle,train,rose,tulip,76,13.91941391941392
+Foreground crop balanced C=1,kaggle,train,sunflower,daisy,12,2.34375
+Foreground crop balanced C=1,kaggle,train,sunflower,dandelion,27,5.2734375
+Foreground crop balanced C=1,kaggle,train,sunflower,rose,6,1.171875
+Foreground crop balanced C=1,kaggle,train,sunflower,sunflower,444,86.71875
+Foreground crop balanced C=1,kaggle,train,sunflower,tulip,23,4.4921875
+Foreground crop balanced C=1,kaggle,train,tulip,daisy,33,4.810495626822157
+Foreground crop balanced C=1,kaggle,train,tulip,dandelion,20,2.9154518950437316
+Foreground crop balanced C=1,kaggle,train,tulip,rose,76,11.078717201166182
+Foreground crop balanced C=1,kaggle,train,tulip,sunflower,32,4.664723032069971
+Foreground crop balanced C=1,kaggle,train,tulip,tulip,525,76.53061224489795
+Foreground crop balanced C=1,kaggle,validation,daisy,daisy,72,63.1578947368421
+Foreground crop balanced C=1,kaggle,validation,daisy,dandelion,16,14.035087719298245
+Foreground crop balanced C=1,kaggle,validation,daisy,rose,11,9.649122807017545
+Foreground crop balanced C=1,kaggle,validation,daisy,sunflower,8,7.017543859649122
+Foreground crop balanced C=1,kaggle,validation,daisy,tulip,7,6.140350877192983
+Foreground crop balanced C=1,kaggle,validation,dandelion,daisy,14,8.9171974522293
+Foreground crop balanced C=1,kaggle,validation,dandelion,dandelion,98,62.4203821656051
+Foreground crop balanced C=1,kaggle,validation,dandelion,rose,9,5.732484076433121
+Foreground crop balanced C=1,kaggle,validation,dandelion,sunflower,24,15.286624203821656
+Foreground crop balanced C=1,kaggle,validation,dandelion,tulip,12,7.643312101910828
+Foreground crop balanced C=1,kaggle,validation,rose,daisy,9,7.6923076923076925
+Foreground crop balanced C=1,kaggle,validation,rose,dandelion,5,4.273504273504273
+Foreground crop balanced C=1,kaggle,validation,rose,rose,69,58.97435897435897
+Foreground crop balanced C=1,kaggle,validation,rose,sunflower,6,5.128205128205129
+Foreground crop balanced C=1,kaggle,validation,rose,tulip,28,23.931623931623932
+Foreground crop balanced C=1,kaggle,validation,sunflower,daisy,5,4.545454545454546
+Foreground crop balanced C=1,kaggle,validation,sunflower,dandelion,8,7.2727272727272725
+Foreground crop balanced C=1,kaggle,validation,sunflower,rose,3,2.727272727272727
+Foreground crop balanced C=1,kaggle,validation,sunflower,sunflower,83,75.45454545454545
+Foreground crop balanced C=1,kaggle,validation,sunflower,tulip,11,10.0
+Foreground crop balanced C=1,kaggle,validation,tulip,daisy,1,0.6802721088435374
+Foreground crop balanced C=1,kaggle,validation,tulip,dandelion,8,5.442176870748299
+Foreground crop balanced C=1,kaggle,validation,tulip,rose,13,8.843537414965986
+Foreground crop balanced C=1,kaggle,validation,tulip,sunflower,3,2.0408163265306123
+Foreground crop balanced C=1,kaggle,validation,tulip,tulip,122,82.99319727891157
+Foreground field only C=1,field,cv,daisy,daisy,68,70.83333333333333
+Foreground field only C=1,field,cv,daisy,dandelion,4,4.166666666666667
+Foreground field only C=1,field,cv,daisy,rose,15,15.625
+Foreground field only C=1,field,cv,daisy,sunflower,2,2.0833333333333335
+Foreground field only C=1,field,cv,daisy,tulip,7,7.291666666666667
+Foreground field only C=1,field,cv,dandelion,daisy,12,12.5
+Foreground field only C=1,field,cv,dandelion,dandelion,57,59.375
+Foreground field only C=1,field,cv,dandelion,rose,3,3.125
+Foreground field only C=1,field,cv,dandelion,sunflower,7,7.291666666666667
+Foreground field only C=1,field,cv,dandelion,tulip,17,17.708333333333332
+Foreground field only C=1,field,cv,rose,daisy,21,21.875
+Foreground field only C=1,field,cv,rose,dandelion,3,3.125
+Foreground field only C=1,field,cv,rose,rose,66,68.75
+Foreground field only C=1,field,cv,rose,sunflower,2,2.0833333333333335
+Foreground field only C=1,field,cv,rose,tulip,4,4.166666666666667
+Foreground field only C=1,field,cv,sunflower,daisy,3,4.545454545454546
+Foreground field only C=1,field,cv,sunflower,dandelion,11,16.666666666666668
+Foreground field only C=1,field,cv,sunflower,rose,2,3.0303030303030303
+Foreground field only C=1,field,cv,sunflower,sunflower,36,54.54545454545455
+Foreground field only C=1,field,cv,sunflower,tulip,14,21.21212121212121
+Foreground field only C=1,field,cv,tulip,daisy,6,6.25
+Foreground field only C=1,field,cv,tulip,dandelion,37,38.541666666666664
+Foreground field only C=1,field,cv,tulip,rose,8,8.333333333333334
+Foreground field only C=1,field,cv,tulip,sunflower,9,9.375
+Foreground field only C=1,field,cv,tulip,tulip,36,37.5
+Foreground field only C=1,field,train,daisy,daisy,89,92.70833333333333
+Foreground field only C=1,field,train,daisy,dandelion,2,2.0833333333333335
+Foreground field only C=1,field,train,daisy,rose,2,2.0833333333333335
+Foreground field only C=1,field,train,daisy,sunflower,1,1.0416666666666667
+Foreground field only C=1,field,train,daisy,tulip,2,2.0833333333333335
+Foreground field only C=1,field,train,dandelion,daisy,4,4.166666666666667
+Foreground field only C=1,field,train,dandelion,dandelion,87,90.625
+Foreground field only C=1,field,train,dandelion,rose,1,1.0416666666666667
+Foreground field only C=1,field,train,dandelion,sunflower,0,0.0
+Foreground field only C=1,field,train,dandelion,tulip,4,4.166666666666667
+Foreground field only C=1,field,train,rose,daisy,4,4.166666666666667
+Foreground field only C=1,field,train,rose,dandelion,1,1.0416666666666667
+Foreground field only C=1,field,train,rose,rose,89,92.70833333333333
+Foreground field only C=1,field,train,rose,sunflower,0,0.0
+Foreground field only C=1,field,train,rose,tulip,2,2.0833333333333335
+Foreground field only C=1,field,train,sunflower,daisy,0,0.0
+Foreground field only C=1,field,train,sunflower,dandelion,6,9.090909090909092
+Foreground field only C=1,field,train,sunflower,rose,1,1.5151515151515151
+Foreground field only C=1,field,train,sunflower,sunflower,53,80.3030303030303
+Foreground field only C=1,field,train,sunflower,tulip,6,9.090909090909092
+Foreground field only C=1,field,train,tulip,daisy,2,2.0833333333333335
+Foreground field only C=1,field,train,tulip,dandelion,11,11.458333333333334
+Foreground field only C=1,field,train,tulip,rose,3,3.125
+Foreground field only C=1,field,train,tulip,sunflower,2,2.0833333333333335
+Foreground field only C=1,field,train,tulip,tulip,78,81.25
+Foreground field only C=1,field,validation,daisy,daisy,16,66.66666666666667
+Foreground field only C=1,field,validation,daisy,dandelion,0,0.0
+Foreground field only C=1,field,validation,daisy,rose,8,33.333333333333336
+Foreground field only C=1,field,validation,daisy,sunflower,0,0.0
+Foreground field only C=1,field,validation,daisy,tulip,0,0.0
+Foreground field only C=1,field,validation,dandelion,daisy,3,12.5
+Foreground field only C=1,field,validation,dandelion,dandelion,13,54.166666666666664
+Foreground field only C=1,field,validation,dandelion,rose,0,0.0
+Foreground field only C=1,field,validation,dandelion,sunflower,2,8.333333333333334
+Foreground field only C=1,field,validation,dandelion,tulip,6,25.0
+Foreground field only C=1,field,validation,rose,daisy,5,20.833333333333332
+Foreground field only C=1,field,validation,rose,dandelion,0,0.0
+Foreground field only C=1,field,validation,rose,rose,17,70.83333333333333
+Foreground field only C=1,field,validation,rose,sunflower,0,0.0
+Foreground field only C=1,field,validation,rose,tulip,2,8.333333333333334
+Foreground field only C=1,field,validation,sunflower,daisy,0,0.0
+Foreground field only C=1,field,validation,sunflower,dandelion,1,6.25
+Foreground field only C=1,field,validation,sunflower,rose,0,0.0
+Foreground field only C=1,field,validation,sunflower,sunflower,11,68.75
+Foreground field only C=1,field,validation,sunflower,tulip,4,25.0
+Foreground field only C=1,field,validation,tulip,daisy,2,8.333333333333334
+Foreground field only C=1,field,validation,tulip,dandelion,7,29.166666666666668
+Foreground field only C=1,field,validation,tulip,rose,1,4.166666666666667
+Foreground field only C=1,field,validation,tulip,sunflower,1,4.166666666666667
+Foreground field only C=1,field,validation,tulip,tulip,13,54.166666666666664
+Foreground field only C=1,kaggle,cv,daisy,daisy,170,31.71641791044776
+Foreground field only C=1,kaggle,cv,daisy,dandelion,20,3.7313432835820897
+Foreground field only C=1,kaggle,cv,daisy,rose,120,22.388059701492537
+Foreground field only C=1,kaggle,cv,daisy,sunflower,144,26.865671641791046
+Foreground field only C=1,kaggle,cv,daisy,tulip,82,15.298507462686567
+Foreground field only C=1,kaggle,cv,dandelion,daisy,137,18.58887381275441
+Foreground field only C=1,kaggle,cv,dandelion,dandelion,137,18.58887381275441
+Foreground field only C=1,kaggle,cv,dandelion,rose,180,24.423337856173678
+Foreground field only C=1,kaggle,cv,dandelion,sunflower,147,19.94572591587517
+Foreground field only C=1,kaggle,cv,dandelion,tulip,136,18.453188602442335
+Foreground field only C=1,kaggle,cv,rose,daisy,73,13.36996336996337
+Foreground field only C=1,kaggle,cv,rose,dandelion,4,0.7326007326007326
+Foreground field only C=1,kaggle,cv,rose,rose,195,35.714285714285715
+Foreground field only C=1,kaggle,cv,rose,sunflower,48,8.791208791208792
+Foreground field only C=1,kaggle,cv,rose,tulip,226,41.391941391941394
+Foreground field only C=1,kaggle,cv,sunflower,daisy,28,5.46875
+Foreground field only C=1,kaggle,cv,sunflower,dandelion,85,16.6015625
+Foreground field only C=1,kaggle,cv,sunflower,rose,14,2.734375
+Foreground field only C=1,kaggle,cv,sunflower,sunflower,282,55.078125
+Foreground field only C=1,kaggle,cv,sunflower,tulip,103,20.1171875
+Foreground field only C=1,kaggle,cv,tulip,daisy,63,9.183673469387756
+Foreground field only C=1,kaggle,cv,tulip,dandelion,17,2.478134110787172
+Foreground field only C=1,kaggle,cv,tulip,rose,202,29.44606413994169
+Foreground field only C=1,kaggle,cv,tulip,sunflower,41,5.97667638483965
+Foreground field only C=1,kaggle,cv,tulip,tulip,363,52.91545189504373
+Foreground field only C=1,kaggle,validation,daisy,daisy,34,29.82456140350877
+Foreground field only C=1,kaggle,validation,daisy,dandelion,7,6.140350877192983
+Foreground field only C=1,kaggle,validation,daisy,rose,26,22.80701754385965
+Foreground field only C=1,kaggle,validation,daisy,sunflower,27,23.68421052631579
+Foreground field only C=1,kaggle,validation,daisy,tulip,20,17.54385964912281
+Foreground field only C=1,kaggle,validation,dandelion,daisy,24,15.286624203821656
+Foreground field only C=1,kaggle,validation,dandelion,dandelion,27,17.197452229299362
+Foreground field only C=1,kaggle,validation,dandelion,rose,37,23.56687898089172
+Foreground field only C=1,kaggle,validation,dandelion,sunflower,37,23.56687898089172
+Foreground field only C=1,kaggle,validation,dandelion,tulip,32,20.38216560509554
+Foreground field only C=1,kaggle,validation,rose,daisy,22,18.803418803418804
+Foreground field only C=1,kaggle,validation,rose,dandelion,0,0.0
+Foreground field only C=1,kaggle,validation,rose,rose,42,35.8974358974359
+Foreground field only C=1,kaggle,validation,rose,sunflower,10,8.547008547008547
+Foreground field only C=1,kaggle,validation,rose,tulip,43,36.75213675213675
+Foreground field only C=1,kaggle,validation,sunflower,daisy,7,6.363636363636363
+Foreground field only C=1,kaggle,validation,sunflower,dandelion,20,18.181818181818183
+Foreground field only C=1,kaggle,validation,sunflower,rose,3,2.727272727272727
+Foreground field only C=1,kaggle,validation,sunflower,sunflower,63,57.27272727272727
+Foreground field only C=1,kaggle,validation,sunflower,tulip,17,15.454545454545455
+Foreground field only C=1,kaggle,validation,tulip,daisy,16,10.884353741496598
+Foreground field only C=1,kaggle,validation,tulip,dandelion,0,0.0
+Foreground field only C=1,kaggle,validation,tulip,rose,40,27.210884353741495
+Foreground field only C=1,kaggle,validation,tulip,sunflower,9,6.122448979591836
+Foreground field only C=1,kaggle,validation,tulip,tulip,82,55.78231292517007
+Foreground full frame C=1,field,cv,daisy,daisy,34,35.416666666666664
+Foreground full frame C=1,field,cv,daisy,dandelion,47,48.958333333333336
+Foreground full frame C=1,field,cv,daisy,rose,3,3.125
+Foreground full frame C=1,field,cv,daisy,sunflower,5,5.208333333333333
+Foreground full frame C=1,field,cv,daisy,tulip,7,7.291666666666667
+Foreground full frame C=1,field,cv,dandelion,daisy,3,3.125
+Foreground full frame C=1,field,cv,dandelion,dandelion,80,83.33333333333333
+Foreground full frame C=1,field,cv,dandelion,rose,0,0.0
+Foreground full frame C=1,field,cv,dandelion,sunflower,11,11.458333333333334
+Foreground full frame C=1,field,cv,dandelion,tulip,2,2.0833333333333335
+Foreground full frame C=1,field,cv,rose,daisy,28,29.166666666666668
+Foreground full frame C=1,field,cv,rose,dandelion,26,27.083333333333332
+Foreground full frame C=1,field,cv,rose,rose,25,26.041666666666668
+Foreground full frame C=1,field,cv,rose,sunflower,1,1.0416666666666667
+Foreground full frame C=1,field,cv,rose,tulip,16,16.666666666666668
+Foreground full frame C=1,field,cv,sunflower,daisy,5,7.575757575757576
+Foreground full frame C=1,field,cv,sunflower,dandelion,28,42.42424242424242
+Foreground full frame C=1,field,cv,sunflower,rose,0,0.0
+Foreground full frame C=1,field,cv,sunflower,sunflower,31,46.96969696969697
+Foreground full frame C=1,field,cv,sunflower,tulip,2,3.0303030303030303
+Foreground full frame C=1,field,cv,tulip,daisy,4,4.166666666666667
+Foreground full frame C=1,field,cv,tulip,dandelion,57,59.375
+Foreground full frame C=1,field,cv,tulip,rose,8,8.333333333333334
+Foreground full frame C=1,field,cv,tulip,sunflower,11,11.458333333333334
+Foreground full frame C=1,field,cv,tulip,tulip,16,16.666666666666668
+Foreground full frame C=1,field,validation,daisy,daisy,7,29.166666666666668
+Foreground full frame C=1,field,validation,daisy,dandelion,11,45.833333333333336
+Foreground full frame C=1,field,validation,daisy,rose,4,16.666666666666668
+Foreground full frame C=1,field,validation,daisy,sunflower,0,0.0
+Foreground full frame C=1,field,validation,daisy,tulip,2,8.333333333333334
+Foreground full frame C=1,field,validation,dandelion,daisy,0,0.0
+Foreground full frame C=1,field,validation,dandelion,dandelion,19,79.16666666666667
+Foreground full frame C=1,field,validation,dandelion,rose,0,0.0
+Foreground full frame C=1,field,validation,dandelion,sunflower,4,16.666666666666668
+Foreground full frame C=1,field,validation,dandelion,tulip,1,4.166666666666667
+Foreground full frame C=1,field,validation,rose,daisy,7,29.166666666666668
+Foreground full frame C=1,field,validation,rose,dandelion,4,16.666666666666668
+Foreground full frame C=1,field,validation,rose,rose,5,20.833333333333332
+Foreground full frame C=1,field,validation,rose,sunflower,1,4.166666666666667
+Foreground full frame C=1,field,validation,rose,tulip,7,29.166666666666668
+Foreground full frame C=1,field,validation,sunflower,daisy,0,0.0
+Foreground full frame C=1,field,validation,sunflower,dandelion,5,31.25
+Foreground full frame C=1,field,validation,sunflower,rose,1,6.25
+Foreground full frame C=1,field,validation,sunflower,sunflower,9,56.25
+Foreground full frame C=1,field,validation,sunflower,tulip,1,6.25
+Foreground full frame C=1,field,validation,tulip,daisy,0,0.0
+Foreground full frame C=1,field,validation,tulip,dandelion,16,66.66666666666667
+Foreground full frame C=1,field,validation,tulip,rose,1,4.166666666666667
+Foreground full frame C=1,field,validation,tulip,sunflower,2,8.333333333333334
+Foreground full frame C=1,field,validation,tulip,tulip,5,20.833333333333332
+Foreground full frame C=1,kaggle,cv,daisy,daisy,365,68.09701492537313
+Foreground full frame C=1,kaggle,cv,daisy,dandelion,88,16.417910447761194
+Foreground full frame C=1,kaggle,cv,daisy,rose,30,5.597014925373134
+Foreground full frame C=1,kaggle,cv,daisy,sunflower,33,6.156716417910448
+Foreground full frame C=1,kaggle,cv,daisy,tulip,20,3.7313432835820897
+Foreground full frame C=1,kaggle,cv,dandelion,daisy,62,8.412483039348711
+Foreground full frame C=1,kaggle,cv,dandelion,dandelion,568,77.06919945725916
+Foreground full frame C=1,kaggle,cv,dandelion,rose,25,3.3921302578018997
+Foreground full frame C=1,kaggle,cv,dandelion,sunflower,59,8.005427408412483
+Foreground full frame C=1,kaggle,cv,dandelion,tulip,23,3.1207598371777476
+Foreground full frame C=1,kaggle,cv,rose,daisy,39,7.142857142857143
+Foreground full frame C=1,kaggle,cv,rose,dandelion,44,8.058608058608058
+Foreground full frame C=1,kaggle,cv,rose,rose,349,63.91941391941392
+Foreground full frame C=1,kaggle,cv,rose,sunflower,17,3.1135531135531136
+Foreground full frame C=1,kaggle,cv,rose,tulip,97,17.765567765567766
+Foreground full frame C=1,kaggle,cv,sunflower,daisy,18,3.515625
+Foreground full frame C=1,kaggle,cv,sunflower,dandelion,49,9.5703125
+Foreground full frame C=1,kaggle,cv,sunflower,rose,8,1.5625
+Foreground full frame C=1,kaggle,cv,sunflower,sunflower,411,80.2734375
+Foreground full frame C=1,kaggle,cv,sunflower,tulip,26,5.078125
+Foreground full frame C=1,kaggle,cv,tulip,daisy,30,4.373177842565598
+Foreground full frame C=1,kaggle,cv,tulip,dandelion,38,5.539358600583091
+Foreground full frame C=1,kaggle,cv,tulip,rose,75,10.932944606413994
+Foreground full frame C=1,kaggle,cv,tulip,sunflower,39,5.685131195335277
+Foreground full frame C=1,kaggle,cv,tulip,tulip,504,73.46938775510205
+Foreground full frame C=1,kaggle,train,daisy,daisy,420,78.35820895522389
+Foreground full frame C=1,kaggle,train,daisy,dandelion,57,10.634328358208956
+Foreground full frame C=1,kaggle,train,daisy,rose,22,4.104477611940299
+Foreground full frame C=1,kaggle,train,daisy,sunflower,19,3.544776119402985
+Foreground full frame C=1,kaggle,train,daisy,tulip,18,3.3582089552238807
+Foreground full frame C=1,kaggle,train,dandelion,daisy,40,5.4274084124830395
+Foreground full frame C=1,kaggle,train,dandelion,dandelion,639,86.70284938941656
+Foreground full frame C=1,kaggle,train,dandelion,rose,12,1.6282225237449117
+Foreground full frame C=1,kaggle,train,dandelion,sunflower,36,4.884667571234735
+Foreground full frame C=1,kaggle,train,dandelion,tulip,10,1.3568521031207599
+Foreground full frame C=1,kaggle,train,rose,daisy,28,5.128205128205129
+Foreground full frame C=1,kaggle,train,rose,dandelion,29,5.311355311355311
+Foreground full frame C=1,kaggle,train,rose,rose,419,76.73992673992674
+Foreground full frame C=1,kaggle,train,rose,sunflower,11,2.0146520146520146
+Foreground full frame C=1,kaggle,train,rose,tulip,59,10.805860805860807
+Foreground full frame C=1,kaggle,train,sunflower,daisy,10,1.953125
+Foreground full frame C=1,kaggle,train,sunflower,dandelion,28,5.46875
+Foreground full frame C=1,kaggle,train,sunflower,rose,7,1.3671875
+Foreground full frame C=1,kaggle,train,sunflower,sunflower,452,88.28125
+Foreground full frame C=1,kaggle,train,sunflower,tulip,15,2.9296875
+Foreground full frame C=1,kaggle,train,tulip,daisy,23,3.3527696793002915
+Foreground full frame C=1,kaggle,train,tulip,dandelion,22,3.206997084548105
+Foreground full frame C=1,kaggle,train,tulip,rose,49,7.142857142857143
+Foreground full frame C=1,kaggle,train,tulip,sunflower,27,3.935860058309038
+Foreground full frame C=1,kaggle,train,tulip,tulip,565,82.36151603498543
+Foreground full frame C=1,kaggle,validation,daisy,daisy,75,65.78947368421052
+Foreground full frame C=1,kaggle,validation,daisy,dandelion,20,17.54385964912281
+Foreground full frame C=1,kaggle,validation,daisy,rose,7,6.140350877192983
+Foreground full frame C=1,kaggle,validation,daisy,sunflower,7,6.140350877192983
+Foreground full frame C=1,kaggle,validation,daisy,tulip,5,4.385964912280702
+Foreground full frame C=1,kaggle,validation,dandelion,daisy,11,7.006369426751593
+Foreground full frame C=1,kaggle,validation,dandelion,dandelion,114,72.61146496815287
+Foreground full frame C=1,kaggle,validation,dandelion,rose,4,2.5477707006369426
+Foreground full frame C=1,kaggle,validation,dandelion,sunflower,18,11.464968152866241
+Foreground full frame C=1,kaggle,validation,dandelion,tulip,10,6.369426751592357
+Foreground full frame C=1,kaggle,validation,rose,daisy,9,7.6923076923076925
+Foreground full frame C=1,kaggle,validation,rose,dandelion,6,5.128205128205129
+Foreground full frame C=1,kaggle,validation,rose,rose,73,62.39316239316239
+Foreground full frame C=1,kaggle,validation,rose,sunflower,7,5.982905982905983
+Foreground full frame C=1,kaggle,validation,rose,tulip,22,18.803418803418804
+Foreground full frame C=1,kaggle,validation,sunflower,daisy,4,3.6363636363636362
+Foreground full frame C=1,kaggle,validation,sunflower,dandelion,6,5.454545454545454
+Foreground full frame C=1,kaggle,validation,sunflower,rose,1,0.9090909090909091
+Foreground full frame C=1,kaggle,validation,sunflower,sunflower,91,82.72727272727273
+Foreground full frame C=1,kaggle,validation,sunflower,tulip,8,7.2727272727272725
+Foreground full frame C=1,kaggle,validation,tulip,daisy,5,3.401360544217687
+Foreground full frame C=1,kaggle,validation,tulip,dandelion,7,4.761904761904762
+Foreground full frame C=1,kaggle,validation,tulip,rose,13,8.843537414965986
+Foreground full frame C=1,kaggle,validation,tulip,sunflower,9,6.122448979591836
+Foreground full frame C=1,kaggle,validation,tulip,tulip,113,76.87074829931973
+Foreground mixed C=1,field,cv,daisy,daisy,58,60.416666666666664
+Foreground mixed C=1,field,cv,daisy,dandelion,19,19.791666666666668
+Foreground mixed C=1,field,cv,daisy,rose,6,6.25
+Foreground mixed C=1,field,cv,daisy,sunflower,1,1.0416666666666667
+Foreground mixed C=1,field,cv,daisy,tulip,12,12.5
+Foreground mixed C=1,field,cv,dandelion,daisy,3,3.125
+Foreground mixed C=1,field,cv,dandelion,dandelion,75,78.125
+Foreground mixed C=1,field,cv,dandelion,rose,2,2.0833333333333335
+Foreground mixed C=1,field,cv,dandelion,sunflower,10,10.416666666666666
+Foreground mixed C=1,field,cv,dandelion,tulip,6,6.25
+Foreground mixed C=1,field,cv,rose,daisy,32,33.333333333333336
+Foreground mixed C=1,field,cv,rose,dandelion,8,8.333333333333334
+Foreground mixed C=1,field,cv,rose,rose,44,45.833333333333336
+Foreground mixed C=1,field,cv,rose,sunflower,1,1.0416666666666667
+Foreground mixed C=1,field,cv,rose,tulip,11,11.458333333333334
+Foreground mixed C=1,field,cv,sunflower,daisy,4,6.0606060606060606
+Foreground mixed C=1,field,cv,sunflower,dandelion,22,33.333333333333336
+Foreground mixed C=1,field,cv,sunflower,rose,1,1.5151515151515151
+Foreground mixed C=1,field,cv,sunflower,sunflower,35,53.03030303030303
+Foreground mixed C=1,field,cv,sunflower,tulip,4,6.0606060606060606
+Foreground mixed C=1,field,cv,tulip,daisy,5,5.208333333333333
+Foreground mixed C=1,field,cv,tulip,dandelion,45,46.875
+Foreground mixed C=1,field,cv,tulip,rose,7,7.291666666666667
+Foreground mixed C=1,field,cv,tulip,sunflower,9,9.375
+Foreground mixed C=1,field,cv,tulip,tulip,30,31.25
+Foreground mixed C=1,field,train,daisy,daisy,72,75.0
+Foreground mixed C=1,field,train,daisy,dandelion,12,12.5
+Foreground mixed C=1,field,train,daisy,rose,4,4.166666666666667
+Foreground mixed C=1,field,train,daisy,sunflower,0,0.0
+Foreground mixed C=1,field,train,daisy,tulip,8,8.333333333333334
+Foreground mixed C=1,field,train,dandelion,daisy,2,2.0833333333333335
+Foreground mixed C=1,field,train,dandelion,dandelion,83,86.45833333333333
+Foreground mixed C=1,field,train,dandelion,rose,0,0.0
+Foreground mixed C=1,field,train,dandelion,sunflower,7,7.291666666666667
+Foreground mixed C=1,field,train,dandelion,tulip,4,4.166666666666667
+Foreground mixed C=1,field,train,rose,daisy,26,27.083333333333332
+Foreground mixed C=1,field,train,rose,dandelion,9,9.375
+Foreground mixed C=1,field,train,rose,rose,52,54.166666666666664
+Foreground mixed C=1,field,train,rose,sunflower,1,1.0416666666666667
+Foreground mixed C=1,field,train,rose,tulip,8,8.333333333333334
+Foreground mixed C=1,field,train,sunflower,daisy,3,4.545454545454546
+Foreground mixed C=1,field,train,sunflower,dandelion,13,19.696969696969695
+Foreground mixed C=1,field,train,sunflower,rose,0,0.0
+Foreground mixed C=1,field,train,sunflower,sunflower,46,69.6969696969697
+Foreground mixed C=1,field,train,sunflower,tulip,4,6.0606060606060606
+Foreground mixed C=1,field,train,tulip,daisy,6,6.25
+Foreground mixed C=1,field,train,tulip,dandelion,36,37.5
+Foreground mixed C=1,field,train,tulip,rose,4,4.166666666666667
+Foreground mixed C=1,field,train,tulip,sunflower,8,8.333333333333334
+Foreground mixed C=1,field,train,tulip,tulip,42,43.75
+Foreground mixed C=1,field,validation,daisy,daisy,11,45.833333333333336
+Foreground mixed C=1,field,validation,daisy,dandelion,5,20.833333333333332
+Foreground mixed C=1,field,validation,daisy,rose,4,16.666666666666668
+Foreground mixed C=1,field,validation,daisy,sunflower,0,0.0
+Foreground mixed C=1,field,validation,daisy,tulip,4,16.666666666666668
+Foreground mixed C=1,field,validation,dandelion,daisy,3,12.5
+Foreground mixed C=1,field,validation,dandelion,dandelion,15,62.5
+Foreground mixed C=1,field,validation,dandelion,rose,1,4.166666666666667
+Foreground mixed C=1,field,validation,dandelion,sunflower,1,4.166666666666667
+Foreground mixed C=1,field,validation,dandelion,tulip,4,16.666666666666668
+Foreground mixed C=1,field,validation,rose,daisy,7,29.166666666666668
+Foreground mixed C=1,field,validation,rose,dandelion,0,0.0
+Foreground mixed C=1,field,validation,rose,rose,13,54.166666666666664
+Foreground mixed C=1,field,validation,rose,sunflower,1,4.166666666666667
+Foreground mixed C=1,field,validation,rose,tulip,3,12.5
+Foreground mixed C=1,field,validation,sunflower,daisy,1,6.25
+Foreground mixed C=1,field,validation,sunflower,dandelion,2,12.5
+Foreground mixed C=1,field,validation,sunflower,rose,0,0.0
+Foreground mixed C=1,field,validation,sunflower,sunflower,9,56.25
+Foreground mixed C=1,field,validation,sunflower,tulip,4,25.0
+Foreground mixed C=1,field,validation,tulip,daisy,1,4.166666666666667
+Foreground mixed C=1,field,validation,tulip,dandelion,12,50.0
+Foreground mixed C=1,field,validation,tulip,rose,0,0.0
+Foreground mixed C=1,field,validation,tulip,sunflower,1,4.166666666666667
+Foreground mixed C=1,field,validation,tulip,tulip,10,41.666666666666664
+Foreground mixed C=1,kaggle,cv,daisy,daisy,375,69.96268656716418
+Foreground mixed C=1,kaggle,cv,daisy,dandelion,70,13.059701492537313
+Foreground mixed C=1,kaggle,cv,daisy,rose,36,6.7164179104477615
+Foreground mixed C=1,kaggle,cv,daisy,sunflower,30,5.597014925373134
+Foreground mixed C=1,kaggle,cv,daisy,tulip,25,4.664179104477612
+Foreground mixed C=1,kaggle,cv,dandelion,daisy,62,8.412483039348711
+Foreground mixed C=1,kaggle,cv,dandelion,dandelion,569,77.20488466757124
+Foreground mixed C=1,kaggle,cv,dandelion,rose,18,2.4423337856173677
+Foreground mixed C=1,kaggle,cv,dandelion,sunflower,55,7.462686567164179
+Foreground mixed C=1,kaggle,cv,dandelion,tulip,33,4.477611940298507
+Foreground mixed C=1,kaggle,cv,rose,daisy,38,6.95970695970696
+Foreground mixed C=1,kaggle,cv,rose,dandelion,38,6.95970695970696
+Foreground mixed C=1,kaggle,cv,rose,rose,356,65.2014652014652
+Foreground mixed C=1,kaggle,cv,rose,sunflower,16,2.93040293040293
+Foreground mixed C=1,kaggle,cv,rose,tulip,98,17.94871794871795
+Foreground mixed C=1,kaggle,cv,sunflower,daisy,18,3.515625
+Foreground mixed C=1,kaggle,cv,sunflower,dandelion,48,9.375
+Foreground mixed C=1,kaggle,cv,sunflower,rose,6,1.171875
+Foreground mixed C=1,kaggle,cv,sunflower,sunflower,413,80.6640625
+Foreground mixed C=1,kaggle,cv,sunflower,tulip,27,5.2734375
+Foreground mixed C=1,kaggle,cv,tulip,daisy,35,5.1020408163265305
+Foreground mixed C=1,kaggle,cv,tulip,dandelion,32,4.664723032069971
+Foreground mixed C=1,kaggle,cv,tulip,rose,80,11.661807580174926
+Foreground mixed C=1,kaggle,cv,tulip,sunflower,37,5.393586005830904
+Foreground mixed C=1,kaggle,cv,tulip,tulip,502,73.17784256559767
+Foreground mixed C=1,kaggle,train,daisy,daisy,425,79.2910447761194
+Foreground mixed C=1,kaggle,train,daisy,dandelion,52,9.701492537313433
+Foreground mixed C=1,kaggle,train,daisy,rose,24,4.477611940298507
+Foreground mixed C=1,kaggle,train,daisy,sunflower,19,3.544776119402985
+Foreground mixed C=1,kaggle,train,daisy,tulip,16,2.985074626865672
+Foreground mixed C=1,kaggle,train,dandelion,daisy,50,6.784260515603799
+Foreground mixed C=1,kaggle,train,dandelion,dandelion,621,84.26051560379919
+Foreground mixed C=1,kaggle,train,dandelion,rose,13,1.7639077340569878
+Foreground mixed C=1,kaggle,train,dandelion,sunflower,34,4.613297150610584
+Foreground mixed C=1,kaggle,train,dandelion,tulip,19,2.5780189959294435
+Foreground mixed C=1,kaggle,train,rose,daisy,29,5.311355311355311
+Foreground mixed C=1,kaggle,train,rose,dandelion,24,4.395604395604396
+Foreground mixed C=1,kaggle,train,rose,rose,416,76.19047619047619
+Foreground mixed C=1,kaggle,train,rose,sunflower,13,2.380952380952381
+Foreground mixed C=1,kaggle,train,rose,tulip,64,11.72161172161172
+Foreground mixed C=1,kaggle,train,sunflower,daisy,12,2.34375
+Foreground mixed C=1,kaggle,train,sunflower,dandelion,25,4.8828125
+Foreground mixed C=1,kaggle,train,sunflower,rose,10,1.953125
+Foreground mixed C=1,kaggle,train,sunflower,sunflower,451,88.0859375
+Foreground mixed C=1,kaggle,train,sunflower,tulip,14,2.734375
+Foreground mixed C=1,kaggle,train,tulip,daisy,29,4.227405247813411
+Foreground mixed C=1,kaggle,train,tulip,dandelion,23,3.3527696793002915
+Foreground mixed C=1,kaggle,train,tulip,rose,50,7.288629737609329
+Foreground mixed C=1,kaggle,train,tulip,sunflower,22,3.206997084548105
+Foreground mixed C=1,kaggle,train,tulip,tulip,562,81.92419825072886
+Foreground mixed C=1,kaggle,validation,daisy,daisy,78,68.42105263157895
+Foreground mixed C=1,kaggle,validation,daisy,dandelion,20,17.54385964912281
+Foreground mixed C=1,kaggle,validation,daisy,rose,5,4.385964912280702
+Foreground mixed C=1,kaggle,validation,daisy,sunflower,7,6.140350877192983
+Foreground mixed C=1,kaggle,validation,daisy,tulip,4,3.508771929824561
+Foreground mixed C=1,kaggle,validation,dandelion,daisy,15,9.554140127388536
+Foreground mixed C=1,kaggle,validation,dandelion,dandelion,108,68.78980891719745
+Foreground mixed C=1,kaggle,validation,dandelion,rose,5,3.1847133757961785
+Foreground mixed C=1,kaggle,validation,dandelion,sunflower,20,12.738853503184714
+Foreground mixed C=1,kaggle,validation,dandelion,tulip,9,5.732484076433121
+Foreground mixed C=1,kaggle,validation,rose,daisy,9,7.6923076923076925
+Foreground mixed C=1,kaggle,validation,rose,dandelion,8,6.837606837606837
+Foreground mixed C=1,kaggle,validation,rose,rose,74,63.24786324786325
+Foreground mixed C=1,kaggle,validation,rose,sunflower,5,4.273504273504273
+Foreground mixed C=1,kaggle,validation,rose,tulip,21,17.94871794871795
+Foreground mixed C=1,kaggle,validation,sunflower,daisy,5,4.545454545454546
+Foreground mixed C=1,kaggle,validation,sunflower,dandelion,6,5.454545454545454
+Foreground mixed C=1,kaggle,validation,sunflower,rose,1,0.9090909090909091
+Foreground mixed C=1,kaggle,validation,sunflower,sunflower,92,83.63636363636364
+Foreground mixed C=1,kaggle,validation,sunflower,tulip,6,5.454545454545454
+Foreground mixed C=1,kaggle,validation,tulip,daisy,4,2.7210884353741496
+Foreground mixed C=1,kaggle,validation,tulip,dandelion,7,4.761904761904762
+Foreground mixed C=1,kaggle,validation,tulip,rose,14,9.523809523809524
+Foreground mixed C=1,kaggle,validation,tulip,sunflower,7,4.761904761904762
+Foreground mixed C=1,kaggle,validation,tulip,tulip,115,78.2312925170068
+Foreground mixed balanced C=0.1,field,cv,daisy,daisy,64,66.66666666666667
+Foreground mixed balanced C=0.1,field,cv,daisy,dandelion,13,13.541666666666666
+Foreground mixed balanced C=0.1,field,cv,daisy,rose,6,6.25
+Foreground mixed balanced C=0.1,field,cv,daisy,sunflower,1,1.0416666666666667
+Foreground mixed balanced C=0.1,field,cv,daisy,tulip,12,12.5
+Foreground mixed balanced C=0.1,field,cv,dandelion,daisy,9,9.375
+Foreground mixed balanced C=0.1,field,cv,dandelion,dandelion,71,73.95833333333333
+Foreground mixed balanced C=0.1,field,cv,dandelion,rose,0,0.0
+Foreground mixed balanced C=0.1,field,cv,dandelion,sunflower,4,4.166666666666667
+Foreground mixed balanced C=0.1,field,cv,dandelion,tulip,12,12.5
+Foreground mixed balanced C=0.1,field,cv,rose,daisy,33,34.375
+Foreground mixed balanced C=0.1,field,cv,rose,dandelion,6,6.25
+Foreground mixed balanced C=0.1,field,cv,rose,rose,49,51.041666666666664
+Foreground mixed balanced C=0.1,field,cv,rose,sunflower,2,2.0833333333333335
+Foreground mixed balanced C=0.1,field,cv,rose,tulip,6,6.25
+Foreground mixed balanced C=0.1,field,cv,sunflower,daisy,3,4.545454545454546
+Foreground mixed balanced C=0.1,field,cv,sunflower,dandelion,25,37.878787878787875
+Foreground mixed balanced C=0.1,field,cv,sunflower,rose,0,0.0
+Foreground mixed balanced C=0.1,field,cv,sunflower,sunflower,29,43.93939393939394
+Foreground mixed balanced C=0.1,field,cv,sunflower,tulip,9,13.636363636363637
+Foreground mixed balanced C=0.1,field,cv,tulip,daisy,6,6.25
+Foreground mixed balanced C=0.1,field,cv,tulip,dandelion,47,48.958333333333336
+Foreground mixed balanced C=0.1,field,cv,tulip,rose,3,3.125
+Foreground mixed balanced C=0.1,field,cv,tulip,sunflower,6,6.25
+Foreground mixed balanced C=0.1,field,cv,tulip,tulip,34,35.416666666666664
+Foreground mixed balanced C=0.1,field,train,daisy,daisy,82,85.41666666666667
+Foreground mixed balanced C=0.1,field,train,daisy,dandelion,7,7.291666666666667
+Foreground mixed balanced C=0.1,field,train,daisy,rose,2,2.0833333333333335
+Foreground mixed balanced C=0.1,field,train,daisy,sunflower,0,0.0
+Foreground mixed balanced C=0.1,field,train,daisy,tulip,5,5.208333333333333
+Foreground mixed balanced C=0.1,field,train,dandelion,daisy,3,3.125
+Foreground mixed balanced C=0.1,field,train,dandelion,dandelion,82,85.41666666666667
+Foreground mixed balanced C=0.1,field,train,dandelion,rose,0,0.0
+Foreground mixed balanced C=0.1,field,train,dandelion,sunflower,1,1.0416666666666667
+Foreground mixed balanced C=0.1,field,train,dandelion,tulip,10,10.416666666666666
+Foreground mixed balanced C=0.1,field,train,rose,daisy,25,26.041666666666668
+Foreground mixed balanced C=0.1,field,train,rose,dandelion,3,3.125
+Foreground mixed balanced C=0.1,field,train,rose,rose,64,66.66666666666667
+Foreground mixed balanced C=0.1,field,train,rose,sunflower,1,1.0416666666666667
+Foreground mixed balanced C=0.1,field,train,rose,tulip,3,3.125
+Foreground mixed balanced C=0.1,field,train,sunflower,daisy,3,4.545454545454546
+Foreground mixed balanced C=0.1,field,train,sunflower,dandelion,13,19.696969696969695
+Foreground mixed balanced C=0.1,field,train,sunflower,rose,0,0.0
+Foreground mixed balanced C=0.1,field,train,sunflower,sunflower,42,63.63636363636363
+Foreground mixed balanced C=0.1,field,train,sunflower,tulip,8,12.121212121212121
+Foreground mixed balanced C=0.1,field,train,tulip,daisy,5,5.208333333333333
+Foreground mixed balanced C=0.1,field,train,tulip,dandelion,33,34.375
+Foreground mixed balanced C=0.1,field,train,tulip,rose,1,1.0416666666666667
+Foreground mixed balanced C=0.1,field,train,tulip,sunflower,5,5.208333333333333
+Foreground mixed balanced C=0.1,field,train,tulip,tulip,52,54.166666666666664
+Foreground mixed balanced C=0.1,field,validation,daisy,daisy,15,62.5
+Foreground mixed balanced C=0.1,field,validation,daisy,dandelion,1,4.166666666666667
+Foreground mixed balanced C=0.1,field,validation,daisy,rose,5,20.833333333333332
+Foreground mixed balanced C=0.1,field,validation,daisy,sunflower,0,0.0
+Foreground mixed balanced C=0.1,field,validation,daisy,tulip,3,12.5
+Foreground mixed balanced C=0.1,field,validation,dandelion,daisy,4,16.666666666666668
+Foreground mixed balanced C=0.1,field,validation,dandelion,dandelion,14,58.333333333333336
+Foreground mixed balanced C=0.1,field,validation,dandelion,rose,0,0.0
+Foreground mixed balanced C=0.1,field,validation,dandelion,sunflower,1,4.166666666666667
+Foreground mixed balanced C=0.1,field,validation,dandelion,tulip,5,20.833333333333332
+Foreground mixed balanced C=0.1,field,validation,rose,daisy,6,25.0
+Foreground mixed balanced C=0.1,field,validation,rose,dandelion,2,8.333333333333334
+Foreground mixed balanced C=0.1,field,validation,rose,rose,12,50.0
+Foreground mixed balanced C=0.1,field,validation,rose,sunflower,1,4.166666666666667
+Foreground mixed balanced C=0.1,field,validation,rose,tulip,3,12.5
+Foreground mixed balanced C=0.1,field,validation,sunflower,daisy,0,0.0
+Foreground mixed balanced C=0.1,field,validation,sunflower,dandelion,4,25.0
+Foreground mixed balanced C=0.1,field,validation,sunflower,rose,0,0.0
+Foreground mixed balanced C=0.1,field,validation,sunflower,sunflower,10,62.5
+Foreground mixed balanced C=0.1,field,validation,sunflower,tulip,2,12.5
+Foreground mixed balanced C=0.1,field,validation,tulip,daisy,0,0.0
+Foreground mixed balanced C=0.1,field,validation,tulip,dandelion,13,54.166666666666664
+Foreground mixed balanced C=0.1,field,validation,tulip,rose,1,4.166666666666667
+Foreground mixed balanced C=0.1,field,validation,tulip,sunflower,0,0.0
+Foreground mixed balanced C=0.1,field,validation,tulip,tulip,10,41.666666666666664
+Foreground mixed balanced C=0.1,kaggle,cv,daisy,daisy,344,64.17910447761194
+Foreground mixed balanced C=0.1,kaggle,cv,daisy,dandelion,79,14.738805970149254
+Foreground mixed balanced C=0.1,kaggle,cv,daisy,rose,32,5.970149253731344
+Foreground mixed balanced C=0.1,kaggle,cv,daisy,sunflower,50,9.328358208955224
+Foreground mixed balanced C=0.1,kaggle,cv,daisy,tulip,31,5.7835820895522385
+Foreground mixed balanced C=0.1,kaggle,cv,dandelion,daisy,95,12.890094979647218
+Foreground mixed balanced C=0.1,kaggle,cv,dandelion,dandelion,493,66.89280868385346
+Foreground mixed balanced C=0.1,kaggle,cv,dandelion,rose,26,3.5278154681139755
+Foreground mixed balanced C=0.1,kaggle,cv,dandelion,sunflower,80,10.854816824966079
+Foreground mixed balanced C=0.1,kaggle,cv,dandelion,tulip,43,5.834464043419267
+Foreground mixed balanced C=0.1,kaggle,cv,rose,daisy,48,8.791208791208792
+Foreground mixed balanced C=0.1,kaggle,cv,rose,dandelion,39,7.142857142857143
+Foreground mixed balanced C=0.1,kaggle,cv,rose,rose,281,51.46520146520147
+Foreground mixed balanced C=0.1,kaggle,cv,rose,sunflower,29,5.311355311355311
+Foreground mixed balanced C=0.1,kaggle,cv,rose,tulip,149,27.28937728937729
+Foreground mixed balanced C=0.1,kaggle,cv,sunflower,daisy,16,3.125
+Foreground mixed balanced C=0.1,kaggle,cv,sunflower,dandelion,55,10.7421875
+Foreground mixed balanced C=0.1,kaggle,cv,sunflower,rose,5,0.9765625
+Foreground mixed balanced C=0.1,kaggle,cv,sunflower,sunflower,381,74.4140625
+Foreground mixed balanced C=0.1,kaggle,cv,sunflower,tulip,55,10.7421875
+Foreground mixed balanced C=0.1,kaggle,cv,tulip,daisy,38,5.539358600583091
+Foreground mixed balanced C=0.1,kaggle,cv,tulip,dandelion,32,4.664723032069971
+Foreground mixed balanced C=0.1,kaggle,cv,tulip,rose,117,17.05539358600583
+Foreground mixed balanced C=0.1,kaggle,cv,tulip,sunflower,44,6.41399416909621
+Foreground mixed balanced C=0.1,kaggle,cv,tulip,tulip,455,66.3265306122449
+Foreground mixed balanced C=0.1,kaggle,train,daisy,daisy,367,68.47014925373135
+Foreground mixed balanced C=0.1,kaggle,train,daisy,dandelion,77,14.365671641791044
+Foreground mixed balanced C=0.1,kaggle,train,daisy,rose,28,5.223880597014926
+Foreground mixed balanced C=0.1,kaggle,train,daisy,sunflower,42,7.835820895522388
+Foreground mixed balanced C=0.1,kaggle,train,daisy,tulip,22,4.104477611940299
+Foreground mixed balanced C=0.1,kaggle,train,dandelion,daisy,83,11.261872455902306
+Foreground mixed balanced C=0.1,kaggle,train,dandelion,dandelion,528,71.64179104477611
+Foreground mixed balanced C=0.1,kaggle,train,dandelion,rose,24,3.2564450474898234
+Foreground mixed balanced C=0.1,kaggle,train,dandelion,sunflower,67,9.090909090909092
+Foreground mixed balanced C=0.1,kaggle,train,dandelion,tulip,35,4.74898236092266
+Foreground mixed balanced C=0.1,kaggle,train,rose,daisy,36,6.593406593406593
+Foreground mixed balanced C=0.1,kaggle,train,rose,dandelion,38,6.95970695970696
+Foreground mixed balanced C=0.1,kaggle,train,rose,rose,329,60.256410256410255
+Foreground mixed balanced C=0.1,kaggle,train,rose,sunflower,29,5.311355311355311
+Foreground mixed balanced C=0.1,kaggle,train,rose,tulip,114,20.87912087912088
+Foreground mixed balanced C=0.1,kaggle,train,sunflower,daisy,15,2.9296875
+Foreground mixed balanced C=0.1,kaggle,train,sunflower,dandelion,40,7.8125
+Foreground mixed balanced C=0.1,kaggle,train,sunflower,rose,4,0.78125
+Foreground mixed balanced C=0.1,kaggle,train,sunflower,sunflower,416,81.25
+Foreground mixed balanced C=0.1,kaggle,train,sunflower,tulip,37,7.2265625
+Foreground mixed balanced C=0.1,kaggle,train,tulip,daisy,37,5.393586005830904
+Foreground mixed balanced C=0.1,kaggle,train,tulip,dandelion,24,3.498542274052478
+Foreground mixed balanced C=0.1,kaggle,train,tulip,rose,96,13.994169096209912
+Foreground mixed balanced C=0.1,kaggle,train,tulip,sunflower,36,5.247813411078718
+Foreground mixed balanced C=0.1,kaggle,train,tulip,tulip,493,71.865889212828
+Foreground mixed balanced C=0.1,kaggle,validation,daisy,daisy,69,60.526315789473685
+Foreground mixed balanced C=0.1,kaggle,validation,daisy,dandelion,25,21.92982456140351
+Foreground mixed balanced C=0.1,kaggle,validation,daisy,rose,8,7.017543859649122
+Foreground mixed balanced C=0.1,kaggle,validation,daisy,sunflower,5,4.385964912280702
+Foreground mixed balanced C=0.1,kaggle,validation,daisy,tulip,7,6.140350877192983
+Foreground mixed balanced C=0.1,kaggle,validation,dandelion,daisy,20,12.738853503184714
+Foreground mixed balanced C=0.1,kaggle,validation,dandelion,dandelion,96,61.146496815286625
+Foreground mixed balanced C=0.1,kaggle,validation,dandelion,rose,5,3.1847133757961785
+Foreground mixed balanced C=0.1,kaggle,validation,dandelion,sunflower,27,17.197452229299362
+Foreground mixed balanced C=0.1,kaggle,validation,dandelion,tulip,9,5.732484076433121
+Foreground mixed balanced C=0.1,kaggle,validation,rose,daisy,12,10.256410256410257
+Foreground mixed balanced C=0.1,kaggle,validation,rose,dandelion,6,5.128205128205129
+Foreground mixed balanced C=0.1,kaggle,validation,rose,rose,63,53.84615384615385
+Foreground mixed balanced C=0.1,kaggle,validation,rose,sunflower,8,6.837606837606837
+Foreground mixed balanced C=0.1,kaggle,validation,rose,tulip,28,23.931623931623932
+Foreground mixed balanced C=0.1,kaggle,validation,sunflower,daisy,5,4.545454545454546
+Foreground mixed balanced C=0.1,kaggle,validation,sunflower,dandelion,10,9.090909090909092
+Foreground mixed balanced C=0.1,kaggle,validation,sunflower,rose,2,1.8181818181818181
+Foreground mixed balanced C=0.1,kaggle,validation,sunflower,sunflower,86,78.18181818181819
+Foreground mixed balanced C=0.1,kaggle,validation,sunflower,tulip,7,6.363636363636363
+Foreground mixed balanced C=0.1,kaggle,validation,tulip,daisy,7,4.761904761904762
+Foreground mixed balanced C=0.1,kaggle,validation,tulip,dandelion,7,4.761904761904762
+Foreground mixed balanced C=0.1,kaggle,validation,tulip,rose,17,11.564625850340136
+Foreground mixed balanced C=0.1,kaggle,validation,tulip,sunflower,5,3.401360544217687
+Foreground mixed balanced C=0.1,kaggle,validation,tulip,tulip,111,75.51020408163265
+Foreground mixed balanced C=1,field,cv,daisy,daisy,65,67.70833333333333
+Foreground mixed balanced C=1,field,cv,daisy,dandelion,11,11.458333333333334
+Foreground mixed balanced C=1,field,cv,daisy,rose,8,8.333333333333334
+Foreground mixed balanced C=1,field,cv,daisy,sunflower,1,1.0416666666666667
+Foreground mixed balanced C=1,field,cv,daisy,tulip,11,11.458333333333334
+Foreground mixed balanced C=1,field,cv,dandelion,daisy,10,10.416666666666666
+Foreground mixed balanced C=1,field,cv,dandelion,dandelion,68,70.83333333333333
+Foreground mixed balanced C=1,field,cv,dandelion,rose,1,1.0416666666666667
+Foreground mixed balanced C=1,field,cv,dandelion,sunflower,5,5.208333333333333
+Foreground mixed balanced C=1,field,cv,dandelion,tulip,12,12.5
+Foreground mixed balanced C=1,field,cv,rose,daisy,31,32.291666666666664
+Foreground mixed balanced C=1,field,cv,rose,dandelion,3,3.125
+Foreground mixed balanced C=1,field,cv,rose,rose,56,58.333333333333336
+Foreground mixed balanced C=1,field,cv,rose,sunflower,1,1.0416666666666667
+Foreground mixed balanced C=1,field,cv,rose,tulip,5,5.208333333333333
+Foreground mixed balanced C=1,field,cv,sunflower,daisy,4,6.0606060606060606
+Foreground mixed balanced C=1,field,cv,sunflower,dandelion,19,28.78787878787879
+Foreground mixed balanced C=1,field,cv,sunflower,rose,0,0.0
+Foreground mixed balanced C=1,field,cv,sunflower,sunflower,34,51.515151515151516
+Foreground mixed balanced C=1,field,cv,sunflower,tulip,9,13.636363636363637
+Foreground mixed balanced C=1,field,cv,tulip,daisy,7,7.291666666666667
+Foreground mixed balanced C=1,field,cv,tulip,dandelion,39,40.625
+Foreground mixed balanced C=1,field,cv,tulip,rose,7,7.291666666666667
+Foreground mixed balanced C=1,field,cv,tulip,sunflower,5,5.208333333333333
+Foreground mixed balanced C=1,field,cv,tulip,tulip,38,39.583333333333336
+Foreground mixed balanced C=1,field,train,daisy,daisy,91,94.79166666666667
+Foreground mixed balanced C=1,field,train,daisy,dandelion,3,3.125
+Foreground mixed balanced C=1,field,train,daisy,rose,0,0.0
+Foreground mixed balanced C=1,field,train,daisy,sunflower,0,0.0
+Foreground mixed balanced C=1,field,train,daisy,tulip,2,2.0833333333333335
+Foreground mixed balanced C=1,field,train,dandelion,daisy,1,1.0416666666666667
+Foreground mixed balanced C=1,field,train,dandelion,dandelion,92,95.83333333333333
+Foreground mixed balanced C=1,field,train,dandelion,rose,0,0.0
+Foreground mixed balanced C=1,field,train,dandelion,sunflower,0,0.0
+Foreground mixed balanced C=1,field,train,dandelion,tulip,3,3.125
+Foreground mixed balanced C=1,field,train,rose,daisy,7,7.291666666666667
+Foreground mixed balanced C=1,field,train,rose,dandelion,1,1.0416666666666667
+Foreground mixed balanced C=1,field,train,rose,rose,87,90.625
+Foreground mixed balanced C=1,field,train,rose,sunflower,0,0.0
+Foreground mixed balanced C=1,field,train,rose,tulip,1,1.0416666666666667
+Foreground mixed balanced C=1,field,train,sunflower,daisy,0,0.0
+Foreground mixed balanced C=1,field,train,sunflower,dandelion,3,4.545454545454546
+Foreground mixed balanced C=1,field,train,sunflower,rose,0,0.0
+Foreground mixed balanced C=1,field,train,sunflower,sunflower,59,89.39393939393939
+Foreground mixed balanced C=1,field,train,sunflower,tulip,4,6.0606060606060606
+Foreground mixed balanced C=1,field,train,tulip,daisy,1,1.0416666666666667
+Foreground mixed balanced C=1,field,train,tulip,dandelion,18,18.75
+Foreground mixed balanced C=1,field,train,tulip,rose,0,0.0
+Foreground mixed balanced C=1,field,train,tulip,sunflower,2,2.0833333333333335
+Foreground mixed balanced C=1,field,train,tulip,tulip,75,78.125
+Foreground mixed balanced C=1,field,validation,daisy,daisy,18,75.0
+Foreground mixed balanced C=1,field,validation,daisy,dandelion,0,0.0
+Foreground mixed balanced C=1,field,validation,daisy,rose,5,20.833333333333332
+Foreground mixed balanced C=1,field,validation,daisy,sunflower,0,0.0
+Foreground mixed balanced C=1,field,validation,daisy,tulip,1,4.166666666666667
+Foreground mixed balanced C=1,field,validation,dandelion,daisy,3,12.5
+Foreground mixed balanced C=1,field,validation,dandelion,dandelion,13,54.166666666666664
+Foreground mixed balanced C=1,field,validation,dandelion,rose,1,4.166666666666667
+Foreground mixed balanced C=1,field,validation,dandelion,sunflower,1,4.166666666666667
+Foreground mixed balanced C=1,field,validation,dandelion,tulip,6,25.0
+Foreground mixed balanced C=1,field,validation,rose,daisy,4,16.666666666666668
+Foreground mixed balanced C=1,field,validation,rose,dandelion,0,0.0
+Foreground mixed balanced C=1,field,validation,rose,rose,16,66.66666666666667
+Foreground mixed balanced C=1,field,validation,rose,sunflower,1,4.166666666666667
+Foreground mixed balanced C=1,field,validation,rose,tulip,3,12.5
+Foreground mixed balanced C=1,field,validation,sunflower,daisy,0,0.0
+Foreground mixed balanced C=1,field,validation,sunflower,dandelion,2,12.5
+Foreground mixed balanced C=1,field,validation,sunflower,rose,1,6.25
+Foreground mixed balanced C=1,field,validation,sunflower,sunflower,9,56.25
+Foreground mixed balanced C=1,field,validation,sunflower,tulip,4,25.0
+Foreground mixed balanced C=1,field,validation,tulip,daisy,1,4.166666666666667
+Foreground mixed balanced C=1,field,validation,tulip,dandelion,10,41.666666666666664
+Foreground mixed balanced C=1,field,validation,tulip,rose,1,4.166666666666667
+Foreground mixed balanced C=1,field,validation,tulip,sunflower,0,0.0
+Foreground mixed balanced C=1,field,validation,tulip,tulip,12,50.0
+Foreground mixed balanced C=1,kaggle,cv,daisy,daisy,351,65.48507462686567
+Foreground mixed balanced C=1,kaggle,cv,daisy,dandelion,65,12.126865671641792
+Foreground mixed balanced C=1,kaggle,cv,daisy,rose,42,7.835820895522388
+Foreground mixed balanced C=1,kaggle,cv,daisy,sunflower,42,7.835820895522388
+Foreground mixed balanced C=1,kaggle,cv,daisy,tulip,36,6.7164179104477615
+Foreground mixed balanced C=1,kaggle,cv,dandelion,daisy,85,11.533242876526458
+Foreground mixed balanced C=1,kaggle,cv,dandelion,dandelion,504,68.3853459972863
+Foreground mixed balanced C=1,kaggle,cv,dandelion,rose,36,4.884667571234735
+Foreground mixed balanced C=1,kaggle,cv,dandelion,sunflower,63,8.548168249660787
+Foreground mixed balanced C=1,kaggle,cv,dandelion,tulip,49,6.648575305291724
+Foreground mixed balanced C=1,kaggle,cv,rose,daisy,34,6.227106227106227
+Foreground mixed balanced C=1,kaggle,cv,rose,dandelion,33,6.043956043956044
+Foreground mixed balanced C=1,kaggle,cv,rose,rose,345,63.18681318681319
+Foreground mixed balanced C=1,kaggle,cv,rose,sunflower,23,4.212454212454213
+Foreground mixed balanced C=1,kaggle,cv,rose,tulip,111,20.32967032967033
+Foreground mixed balanced C=1,kaggle,cv,sunflower,daisy,21,4.1015625
+Foreground mixed balanced C=1,kaggle,cv,sunflower,dandelion,49,9.5703125
+Foreground mixed balanced C=1,kaggle,cv,sunflower,rose,7,1.3671875
+Foreground mixed balanced C=1,kaggle,cv,sunflower,sunflower,401,78.3203125
+Foreground mixed balanced C=1,kaggle,cv,sunflower,tulip,34,6.640625
+Foreground mixed balanced C=1,kaggle,cv,tulip,daisy,39,5.685131195335277
+Foreground mixed balanced C=1,kaggle,cv,tulip,dandelion,27,3.935860058309038
+Foreground mixed balanced C=1,kaggle,cv,tulip,rose,106,15.451895043731778
+Foreground mixed balanced C=1,kaggle,cv,tulip,sunflower,35,5.1020408163265305
+Foreground mixed balanced C=1,kaggle,cv,tulip,tulip,479,69.82507288629738
+Foreground mixed balanced C=1,kaggle,train,daisy,daisy,394,73.50746268656717
+Foreground mixed balanced C=1,kaggle,train,daisy,dandelion,62,11.567164179104477
+Foreground mixed balanced C=1,kaggle,train,daisy,rose,32,5.970149253731344
+Foreground mixed balanced C=1,kaggle,train,daisy,sunflower,31,5.7835820895522385
+Foreground mixed balanced C=1,kaggle,train,daisy,tulip,17,3.171641791044776
+Foreground mixed balanced C=1,kaggle,train,dandelion,daisy,60,8.14111261872456
+Foreground mixed balanced C=1,kaggle,train,dandelion,dandelion,571,77.47625508819539
+Foreground mixed balanced C=1,kaggle,train,dandelion,rose,26,3.5278154681139755
+Foreground mixed balanced C=1,kaggle,train,dandelion,sunflower,48,6.512890094979647
+Foreground mixed balanced C=1,kaggle,train,dandelion,tulip,32,4.341926729986431
+Foreground mixed balanced C=1,kaggle,train,rose,daisy,31,5.677655677655678
+Foreground mixed balanced C=1,kaggle,train,rose,dandelion,25,4.5787545787545785
+Foreground mixed balanced C=1,kaggle,train,rose,rose,390,71.42857142857143
+Foreground mixed balanced C=1,kaggle,train,rose,sunflower,18,3.2967032967032965
+Foreground mixed balanced C=1,kaggle,train,rose,tulip,82,15.018315018315018
+Foreground mixed balanced C=1,kaggle,train,sunflower,daisy,12,2.34375
+Foreground mixed balanced C=1,kaggle,train,sunflower,dandelion,34,6.640625
+Foreground mixed balanced C=1,kaggle,train,sunflower,rose,8,1.5625
+Foreground mixed balanced C=1,kaggle,train,sunflower,sunflower,434,84.765625
+Foreground mixed balanced C=1,kaggle,train,sunflower,tulip,24,4.6875
+Foreground mixed balanced C=1,kaggle,train,tulip,daisy,34,4.956268221574344
+Foreground mixed balanced C=1,kaggle,train,tulip,dandelion,25,3.6443148688046647
+Foreground mixed balanced C=1,kaggle,train,tulip,rose,82,11.9533527696793
+Foreground mixed balanced C=1,kaggle,train,tulip,sunflower,26,3.7900874635568513
+Foreground mixed balanced C=1,kaggle,train,tulip,tulip,519,75.65597667638484
+Foreground mixed balanced C=1,kaggle,validation,daisy,daisy,74,64.91228070175438
+Foreground mixed balanced C=1,kaggle,validation,daisy,dandelion,21,18.42105263157895
+Foreground mixed balanced C=1,kaggle,validation,daisy,rose,8,7.017543859649122
+Foreground mixed balanced C=1,kaggle,validation,daisy,sunflower,8,7.017543859649122
+Foreground mixed balanced C=1,kaggle,validation,daisy,tulip,3,2.6315789473684212
+Foreground mixed balanced C=1,kaggle,validation,dandelion,daisy,15,9.554140127388536
+Foreground mixed balanced C=1,kaggle,validation,dandelion,dandelion,97,61.78343949044586
+Foreground mixed balanced C=1,kaggle,validation,dandelion,rose,9,5.732484076433121
+Foreground mixed balanced C=1,kaggle,validation,dandelion,sunflower,23,14.64968152866242
+Foreground mixed balanced C=1,kaggle,validation,dandelion,tulip,13,8.280254777070065
+Foreground mixed balanced C=1,kaggle,validation,rose,daisy,9,7.6923076923076925
+Foreground mixed balanced C=1,kaggle,validation,rose,dandelion,5,4.273504273504273
+Foreground mixed balanced C=1,kaggle,validation,rose,rose,72,61.53846153846154
+Foreground mixed balanced C=1,kaggle,validation,rose,sunflower,7,5.982905982905983
+Foreground mixed balanced C=1,kaggle,validation,rose,tulip,24,20.512820512820515
+Foreground mixed balanced C=1,kaggle,validation,sunflower,daisy,4,3.6363636363636362
+Foreground mixed balanced C=1,kaggle,validation,sunflower,dandelion,7,6.363636363636363
+Foreground mixed balanced C=1,kaggle,validation,sunflower,rose,4,3.6363636363636362
+Foreground mixed balanced C=1,kaggle,validation,sunflower,sunflower,85,77.27272727272727
+Foreground mixed balanced C=1,kaggle,validation,sunflower,tulip,10,9.090909090909092
+Foreground mixed balanced C=1,kaggle,validation,tulip,daisy,2,1.3605442176870748
+Foreground mixed balanced C=1,kaggle,validation,tulip,dandelion,10,6.802721088435374
+Foreground mixed balanced C=1,kaggle,validation,tulip,rose,16,10.884353741496598
+Foreground mixed balanced C=1,kaggle,validation,tulip,sunflower,2,1.3605442176870748
+Foreground mixed balanced C=1,kaggle,validation,tulip,tulip,117,79.59183673469387
+Foreground mixed balanced C=5,field,cv,daisy,daisy,61,63.541666666666664
+Foreground mixed balanced C=5,field,cv,daisy,dandelion,12,12.5
+Foreground mixed balanced C=5,field,cv,daisy,rose,10,10.416666666666666
+Foreground mixed balanced C=5,field,cv,daisy,sunflower,1,1.0416666666666667
+Foreground mixed balanced C=5,field,cv,daisy,tulip,12,12.5
+Foreground mixed balanced C=5,field,cv,dandelion,daisy,13,13.541666666666666
+Foreground mixed balanced C=5,field,cv,dandelion,dandelion,64,66.66666666666667
+Foreground mixed balanced C=5,field,cv,dandelion,rose,1,1.0416666666666667
+Foreground mixed balanced C=5,field,cv,dandelion,sunflower,4,4.166666666666667
+Foreground mixed balanced C=5,field,cv,dandelion,tulip,14,14.583333333333334
+Foreground mixed balanced C=5,field,cv,rose,daisy,26,27.083333333333332
+Foreground mixed balanced C=5,field,cv,rose,dandelion,4,4.166666666666667
+Foreground mixed balanced C=5,field,cv,rose,rose,59,61.458333333333336
+Foreground mixed balanced C=5,field,cv,rose,sunflower,1,1.0416666666666667
+Foreground mixed balanced C=5,field,cv,rose,tulip,6,6.25
+Foreground mixed balanced C=5,field,cv,sunflower,daisy,4,6.0606060606060606
+Foreground mixed balanced C=5,field,cv,sunflower,dandelion,13,19.696969696969695
+Foreground mixed balanced C=5,field,cv,sunflower,rose,1,1.5151515151515151
+Foreground mixed balanced C=5,field,cv,sunflower,sunflower,36,54.54545454545455
+Foreground mixed balanced C=5,field,cv,sunflower,tulip,12,18.181818181818183
+Foreground mixed balanced C=5,field,cv,tulip,daisy,9,9.375
+Foreground mixed balanced C=5,field,cv,tulip,dandelion,30,31.25
+Foreground mixed balanced C=5,field,cv,tulip,rose,7,7.291666666666667
+Foreground mixed balanced C=5,field,cv,tulip,sunflower,9,9.375
+Foreground mixed balanced C=5,field,cv,tulip,tulip,41,42.708333333333336
+Foreground mixed balanced C=5,field,train,daisy,daisy,94,97.91666666666667
+Foreground mixed balanced C=5,field,train,daisy,dandelion,1,1.0416666666666667
+Foreground mixed balanced C=5,field,train,daisy,rose,0,0.0
+Foreground mixed balanced C=5,field,train,daisy,sunflower,0,0.0
+Foreground mixed balanced C=5,field,train,daisy,tulip,1,1.0416666666666667
+Foreground mixed balanced C=5,field,train,dandelion,daisy,0,0.0
+Foreground mixed balanced C=5,field,train,dandelion,dandelion,94,97.91666666666667
+Foreground mixed balanced C=5,field,train,dandelion,rose,0,0.0
+Foreground mixed balanced C=5,field,train,dandelion,sunflower,0,0.0
+Foreground mixed balanced C=5,field,train,dandelion,tulip,2,2.0833333333333335
+Foreground mixed balanced C=5,field,train,rose,daisy,2,2.0833333333333335
+Foreground mixed balanced C=5,field,train,rose,dandelion,0,0.0
+Foreground mixed balanced C=5,field,train,rose,rose,94,97.91666666666667
+Foreground mixed balanced C=5,field,train,rose,sunflower,0,0.0
+Foreground mixed balanced C=5,field,train,rose,tulip,0,0.0
+Foreground mixed balanced C=5,field,train,sunflower,daisy,0,0.0
+Foreground mixed balanced C=5,field,train,sunflower,dandelion,1,1.5151515151515151
+Foreground mixed balanced C=5,field,train,sunflower,rose,0,0.0
+Foreground mixed balanced C=5,field,train,sunflower,sunflower,64,96.96969696969697
+Foreground mixed balanced C=5,field,train,sunflower,tulip,1,1.5151515151515151
+Foreground mixed balanced C=5,field,train,tulip,daisy,0,0.0
+Foreground mixed balanced C=5,field,train,tulip,dandelion,4,4.166666666666667
+Foreground mixed balanced C=5,field,train,tulip,rose,0,0.0
+Foreground mixed balanced C=5,field,train,tulip,sunflower,1,1.0416666666666667
+Foreground mixed balanced C=5,field,train,tulip,tulip,91,94.79166666666667
+Foreground mixed balanced C=5,field,validation,daisy,daisy,17,70.83333333333333
+Foreground mixed balanced C=5,field,validation,daisy,dandelion,2,8.333333333333334
+Foreground mixed balanced C=5,field,validation,daisy,rose,4,16.666666666666668
+Foreground mixed balanced C=5,field,validation,daisy,sunflower,0,0.0
+Foreground mixed balanced C=5,field,validation,daisy,tulip,1,4.166666666666667
+Foreground mixed balanced C=5,field,validation,dandelion,daisy,3,12.5
+Foreground mixed balanced C=5,field,validation,dandelion,dandelion,12,50.0
+Foreground mixed balanced C=5,field,validation,dandelion,rose,1,4.166666666666667
+Foreground mixed balanced C=5,field,validation,dandelion,sunflower,2,8.333333333333334
+Foreground mixed balanced C=5,field,validation,dandelion,tulip,6,25.0
+Foreground mixed balanced C=5,field,validation,rose,daisy,3,12.5
+Foreground mixed balanced C=5,field,validation,rose,dandelion,0,0.0
+Foreground mixed balanced C=5,field,validation,rose,rose,16,66.66666666666667
+Foreground mixed balanced C=5,field,validation,rose,sunflower,1,4.166666666666667
+Foreground mixed balanced C=5,field,validation,rose,tulip,4,16.666666666666668
+Foreground mixed balanced C=5,field,validation,sunflower,daisy,0,0.0
+Foreground mixed balanced C=5,field,validation,sunflower,dandelion,1,6.25
+Foreground mixed balanced C=5,field,validation,sunflower,rose,1,6.25
+Foreground mixed balanced C=5,field,validation,sunflower,sunflower,10,62.5
+Foreground mixed balanced C=5,field,validation,sunflower,tulip,4,25.0
+Foreground mixed balanced C=5,field,validation,tulip,daisy,2,8.333333333333334
+Foreground mixed balanced C=5,field,validation,tulip,dandelion,8,33.333333333333336
+Foreground mixed balanced C=5,field,validation,tulip,rose,1,4.166666666666667
+Foreground mixed balanced C=5,field,validation,tulip,sunflower,0,0.0
+Foreground mixed balanced C=5,field,validation,tulip,tulip,13,54.166666666666664
+Foreground mixed balanced C=5,kaggle,cv,daisy,daisy,362,67.53731343283582
+Foreground mixed balanced C=5,kaggle,cv,daisy,dandelion,62,11.567164179104477
+Foreground mixed balanced C=5,kaggle,cv,daisy,rose,38,7.08955223880597
+Foreground mixed balanced C=5,kaggle,cv,daisy,sunflower,39,7.276119402985074
+Foreground mixed balanced C=5,kaggle,cv,daisy,tulip,35,6.529850746268656
+Foreground mixed balanced C=5,kaggle,cv,dandelion,daisy,72,9.76933514246947
+Foreground mixed balanced C=5,kaggle,cv,dandelion,dandelion,525,71.23473541383989
+Foreground mixed balanced C=5,kaggle,cv,dandelion,rose,37,5.020352781546811
+Foreground mixed balanced C=5,kaggle,cv,dandelion,sunflower,51,6.919945725915875
+Foreground mixed balanced C=5,kaggle,cv,dandelion,tulip,52,7.055630936227951
+Foreground mixed balanced C=5,kaggle,cv,rose,daisy,38,6.95970695970696
+Foreground mixed balanced C=5,kaggle,cv,rose,dandelion,34,6.227106227106227
+Foreground mixed balanced C=5,kaggle,cv,rose,rose,350,64.1025641025641
+Foreground mixed balanced C=5,kaggle,cv,rose,sunflower,21,3.8461538461538463
+Foreground mixed balanced C=5,kaggle,cv,rose,tulip,103,18.864468864468865
+Foreground mixed balanced C=5,kaggle,cv,sunflower,daisy,22,4.296875
+Foreground mixed balanced C=5,kaggle,cv,sunflower,dandelion,44,8.59375
+Foreground mixed balanced C=5,kaggle,cv,sunflower,rose,11,2.1484375
+Foreground mixed balanced C=5,kaggle,cv,sunflower,sunflower,403,78.7109375
+Foreground mixed balanced C=5,kaggle,cv,sunflower,tulip,32,6.25
+Foreground mixed balanced C=5,kaggle,cv,tulip,daisy,34,4.956268221574344
+Foreground mixed balanced C=5,kaggle,cv,tulip,dandelion,31,4.518950437317784
+Foreground mixed balanced C=5,kaggle,cv,tulip,rose,102,14.868804664723031
+Foreground mixed balanced C=5,kaggle,cv,tulip,sunflower,36,5.247813411078718
+Foreground mixed balanced C=5,kaggle,cv,tulip,tulip,483,70.40816326530613
+Foreground mixed balanced C=5,kaggle,train,daisy,daisy,402,75.0
+Foreground mixed balanced C=5,kaggle,train,daisy,dandelion,53,9.888059701492537
+Foreground mixed balanced C=5,kaggle,train,daisy,rose,32,5.970149253731344
+Foreground mixed balanced C=5,kaggle,train,daisy,sunflower,27,5.037313432835821
+Foreground mixed balanced C=5,kaggle,train,daisy,tulip,22,4.104477611940299
+Foreground mixed balanced C=5,kaggle,train,dandelion,daisy,50,6.784260515603799
+Foreground mixed balanced C=5,kaggle,train,dandelion,dandelion,611,82.90366350067842
+Foreground mixed balanced C=5,kaggle,train,dandelion,rose,19,2.5780189959294435
+Foreground mixed balanced C=5,kaggle,train,dandelion,sunflower,31,4.2062415196743554
+Foreground mixed balanced C=5,kaggle,train,dandelion,tulip,26,3.5278154681139755
+Foreground mixed balanced C=5,kaggle,train,rose,daisy,30,5.4945054945054945
+Foreground mixed balanced C=5,kaggle,train,rose,dandelion,20,3.663003663003663
+Foreground mixed balanced C=5,kaggle,train,rose,rose,423,77.47252747252747
+Foreground mixed balanced C=5,kaggle,train,rose,sunflower,17,3.1135531135531136
+Foreground mixed balanced C=5,kaggle,train,rose,tulip,56,10.256410256410257
+Foreground mixed balanced C=5,kaggle,train,sunflower,daisy,12,2.34375
+Foreground mixed balanced C=5,kaggle,train,sunflower,dandelion,27,5.2734375
+Foreground mixed balanced C=5,kaggle,train,sunflower,rose,9,1.7578125
+Foreground mixed balanced C=5,kaggle,train,sunflower,sunflower,447,87.3046875
+Foreground mixed balanced C=5,kaggle,train,sunflower,tulip,17,3.3203125
+Foreground mixed balanced C=5,kaggle,train,tulip,daisy,29,4.227405247813411
+Foreground mixed balanced C=5,kaggle,train,tulip,dandelion,21,3.061224489795918
+Foreground mixed balanced C=5,kaggle,train,tulip,rose,75,10.932944606413994
+Foreground mixed balanced C=5,kaggle,train,tulip,sunflower,21,3.061224489795918
+Foreground mixed balanced C=5,kaggle,train,tulip,tulip,540,78.71720116618076
+Foreground mixed balanced C=5,kaggle,validation,daisy,daisy,72,63.1578947368421
+Foreground mixed balanced C=5,kaggle,validation,daisy,dandelion,18,15.789473684210526
+Foreground mixed balanced C=5,kaggle,validation,daisy,rose,11,9.649122807017545
+Foreground mixed balanced C=5,kaggle,validation,daisy,sunflower,8,7.017543859649122
+Foreground mixed balanced C=5,kaggle,validation,daisy,tulip,5,4.385964912280702
+Foreground mixed balanced C=5,kaggle,validation,dandelion,daisy,15,9.554140127388536
+Foreground mixed balanced C=5,kaggle,validation,dandelion,dandelion,102,64.96815286624204
+Foreground mixed balanced C=5,kaggle,validation,dandelion,rose,8,5.095541401273885
+Foreground mixed balanced C=5,kaggle,validation,dandelion,sunflower,21,13.375796178343949
+Foreground mixed balanced C=5,kaggle,validation,dandelion,tulip,11,7.006369426751593
+Foreground mixed balanced C=5,kaggle,validation,rose,daisy,7,5.982905982905983
+Foreground mixed balanced C=5,kaggle,validation,rose,dandelion,9,7.6923076923076925
+Foreground mixed balanced C=5,kaggle,validation,rose,rose,78,66.66666666666667
+Foreground mixed balanced C=5,kaggle,validation,rose,sunflower,5,4.273504273504273
+Foreground mixed balanced C=5,kaggle,validation,rose,tulip,18,15.384615384615385
+Foreground mixed balanced C=5,kaggle,validation,sunflower,daisy,5,4.545454545454546
+Foreground mixed balanced C=5,kaggle,validation,sunflower,dandelion,7,6.363636363636363
+Foreground mixed balanced C=5,kaggle,validation,sunflower,rose,3,2.727272727272727
+Foreground mixed balanced C=5,kaggle,validation,sunflower,sunflower,85,77.27272727272727
+Foreground mixed balanced C=5,kaggle,validation,sunflower,tulip,10,9.090909090909092
+Foreground mixed balanced C=5,kaggle,validation,tulip,daisy,3,2.0408163265306123
+Foreground mixed balanced C=5,kaggle,validation,tulip,dandelion,8,5.442176870748299
+Foreground mixed balanced C=5,kaggle,validation,tulip,rose,20,13.605442176870747
+Foreground mixed balanced C=5,kaggle,validation,tulip,sunflower,3,2.0408163265306123
+Foreground mixed balanced C=5,kaggle,validation,tulip,tulip,113,76.87074829931973
+Foreground source and class balanced,field,cv,daisy,daisy,67,69.79166666666667
+Foreground source and class balanced,field,cv,daisy,dandelion,10,10.416666666666666
+Foreground source and class balanced,field,cv,daisy,rose,7,7.291666666666667
+Foreground source and class balanced,field,cv,daisy,sunflower,1,1.0416666666666667
+Foreground source and class balanced,field,cv,daisy,tulip,11,11.458333333333334
+Foreground source and class balanced,field,cv,dandelion,daisy,10,10.416666666666666
+Foreground source and class balanced,field,cv,dandelion,dandelion,66,68.75
+Foreground source and class balanced,field,cv,dandelion,rose,1,1.0416666666666667
+Foreground source and class balanced,field,cv,dandelion,sunflower,5,5.208333333333333
+Foreground source and class balanced,field,cv,dandelion,tulip,14,14.583333333333334
+Foreground source and class balanced,field,cv,rose,daisy,31,32.291666666666664
+Foreground source and class balanced,field,cv,rose,dandelion,2,2.0833333333333335
+Foreground source and class balanced,field,cv,rose,rose,56,58.333333333333336
+Foreground source and class balanced,field,cv,rose,sunflower,2,2.0833333333333335
+Foreground source and class balanced,field,cv,rose,tulip,5,5.208333333333333
+Foreground source and class balanced,field,cv,sunflower,daisy,4,6.0606060606060606
+Foreground source and class balanced,field,cv,sunflower,dandelion,15,22.727272727272727
+Foreground source and class balanced,field,cv,sunflower,rose,0,0.0
+Foreground source and class balanced,field,cv,sunflower,sunflower,39,59.09090909090909
+Foreground source and class balanced,field,cv,sunflower,tulip,8,12.121212121212121
+Foreground source and class balanced,field,cv,tulip,daisy,6,6.25
+Foreground source and class balanced,field,cv,tulip,dandelion,34,35.416666666666664
+Foreground source and class balanced,field,cv,tulip,rose,7,7.291666666666667
+Foreground source and class balanced,field,cv,tulip,sunflower,9,9.375
+Foreground source and class balanced,field,cv,tulip,tulip,40,41.666666666666664
+Foreground source and class balanced,field,train,daisy,daisy,91,94.79166666666667
+Foreground source and class balanced,field,train,daisy,dandelion,3,3.125
+Foreground source and class balanced,field,train,daisy,rose,0,0.0
+Foreground source and class balanced,field,train,daisy,sunflower,0,0.0
+Foreground source and class balanced,field,train,daisy,tulip,2,2.0833333333333335
+Foreground source and class balanced,field,train,dandelion,daisy,1,1.0416666666666667
+Foreground source and class balanced,field,train,dandelion,dandelion,91,94.79166666666667
+Foreground source and class balanced,field,train,dandelion,rose,0,0.0
+Foreground source and class balanced,field,train,dandelion,sunflower,1,1.0416666666666667
+Foreground source and class balanced,field,train,dandelion,tulip,3,3.125
+Foreground source and class balanced,field,train,rose,daisy,8,8.333333333333334
+Foreground source and class balanced,field,train,rose,dandelion,1,1.0416666666666667
+Foreground source and class balanced,field,train,rose,rose,86,89.58333333333333
+Foreground source and class balanced,field,train,rose,sunflower,0,0.0
+Foreground source and class balanced,field,train,rose,tulip,1,1.0416666666666667
+Foreground source and class balanced,field,train,sunflower,daisy,0,0.0
+Foreground source and class balanced,field,train,sunflower,dandelion,1,1.5151515151515151
+Foreground source and class balanced,field,train,sunflower,rose,0,0.0
+Foreground source and class balanced,field,train,sunflower,sunflower,64,96.96969696969697
+Foreground source and class balanced,field,train,sunflower,tulip,1,1.5151515151515151
+Foreground source and class balanced,field,train,tulip,daisy,1,1.0416666666666667
+Foreground source and class balanced,field,train,tulip,dandelion,17,17.708333333333332
+Foreground source and class balanced,field,train,tulip,rose,1,1.0416666666666667
+Foreground source and class balanced,field,train,tulip,sunflower,4,4.166666666666667
+Foreground source and class balanced,field,train,tulip,tulip,73,76.04166666666667
+Foreground source and class balanced,field,validation,daisy,daisy,18,75.0
+Foreground source and class balanced,field,validation,daisy,dandelion,0,0.0
+Foreground source and class balanced,field,validation,daisy,rose,5,20.833333333333332
+Foreground source and class balanced,field,validation,daisy,sunflower,0,0.0
+Foreground source and class balanced,field,validation,daisy,tulip,1,4.166666666666667
+Foreground source and class balanced,field,validation,dandelion,daisy,3,12.5
+Foreground source and class balanced,field,validation,dandelion,dandelion,12,50.0
+Foreground source and class balanced,field,validation,dandelion,rose,1,4.166666666666667
+Foreground source and class balanced,field,validation,dandelion,sunflower,2,8.333333333333334
+Foreground source and class balanced,field,validation,dandelion,tulip,6,25.0
+Foreground source and class balanced,field,validation,rose,daisy,4,16.666666666666668
+Foreground source and class balanced,field,validation,rose,dandelion,0,0.0
+Foreground source and class balanced,field,validation,rose,rose,16,66.66666666666667
+Foreground source and class balanced,field,validation,rose,sunflower,1,4.166666666666667
+Foreground source and class balanced,field,validation,rose,tulip,3,12.5
+Foreground source and class balanced,field,validation,sunflower,daisy,0,0.0
+Foreground source and class balanced,field,validation,sunflower,dandelion,0,0.0
+Foreground source and class balanced,field,validation,sunflower,rose,1,6.25
+Foreground source and class balanced,field,validation,sunflower,sunflower,11,68.75
+Foreground source and class balanced,field,validation,sunflower,tulip,4,25.0
+Foreground source and class balanced,field,validation,tulip,daisy,1,4.166666666666667
+Foreground source and class balanced,field,validation,tulip,dandelion,9,37.5
+Foreground source and class balanced,field,validation,tulip,rose,2,8.333333333333334
+Foreground source and class balanced,field,validation,tulip,sunflower,1,4.166666666666667
+Foreground source and class balanced,field,validation,tulip,tulip,11,45.833333333333336
+Foreground source and class balanced,kaggle,cv,daisy,daisy,367,68.47014925373135
+Foreground source and class balanced,kaggle,cv,daisy,dandelion,48,8.955223880597014
+Foreground source and class balanced,kaggle,cv,daisy,rose,44,8.208955223880597
+Foreground source and class balanced,kaggle,cv,daisy,sunflower,48,8.955223880597014
+Foreground source and class balanced,kaggle,cv,daisy,tulip,29,5.41044776119403
+Foreground source and class balanced,kaggle,cv,dandelion,daisy,92,12.48303934871099
+Foreground source and class balanced,kaggle,cv,dandelion,dandelion,482,65.40027137042063
+Foreground source and class balanced,kaggle,cv,dandelion,rose,48,6.512890094979647
+Foreground source and class balanced,kaggle,cv,dandelion,sunflower,70,9.49796472184532
+Foreground source and class balanced,kaggle,cv,dandelion,tulip,45,6.1058344640434195
+Foreground source and class balanced,kaggle,cv,rose,daisy,36,6.593406593406593
+Foreground source and class balanced,kaggle,cv,rose,dandelion,23,4.212454212454213
+Foreground source and class balanced,kaggle,cv,rose,rose,364,66.66666666666667
+Foreground source and class balanced,kaggle,cv,rose,sunflower,23,4.212454212454213
+Foreground source and class balanced,kaggle,cv,rose,tulip,100,18.315018315018314
+Foreground source and class balanced,kaggle,cv,sunflower,daisy,22,4.296875
+Foreground source and class balanced,kaggle,cv,sunflower,dandelion,39,7.6171875
+Foreground source and class balanced,kaggle,cv,sunflower,rose,8,1.5625
+Foreground source and class balanced,kaggle,cv,sunflower,sunflower,413,80.6640625
+Foreground source and class balanced,kaggle,cv,sunflower,tulip,30,5.859375
+Foreground source and class balanced,kaggle,cv,tulip,daisy,39,5.685131195335277
+Foreground source and class balanced,kaggle,cv,tulip,dandelion,23,3.3527696793002915
+Foreground source and class balanced,kaggle,cv,tulip,rose,118,17.20116618075802
+Foreground source and class balanced,kaggle,cv,tulip,sunflower,51,7.434402332361516
+Foreground source and class balanced,kaggle,cv,tulip,tulip,455,66.3265306122449
+Foreground source and class balanced,kaggle,train,daisy,daisy,406,75.74626865671642
+Foreground source and class balanced,kaggle,train,daisy,dandelion,46,8.582089552238806
+Foreground source and class balanced,kaggle,train,daisy,rose,33,6.156716417910448
+Foreground source and class balanced,kaggle,train,daisy,sunflower,35,6.529850746268656
+Foreground source and class balanced,kaggle,train,daisy,tulip,16,2.985074626865672
+Foreground source and class balanced,kaggle,train,dandelion,daisy,74,10.040705563093622
+Foreground source and class balanced,kaggle,train,dandelion,dandelion,537,72.86295793758481
+Foreground source and class balanced,kaggle,train,dandelion,rose,35,4.74898236092266
+Foreground source and class balanced,kaggle,train,dandelion,sunflower,60,8.14111261872456
+Foreground source and class balanced,kaggle,train,dandelion,tulip,31,4.2062415196743554
+Foreground source and class balanced,kaggle,train,rose,daisy,32,5.86080586080586
+Foreground source and class balanced,kaggle,train,rose,dandelion,18,3.2967032967032965
+Foreground source and class balanced,kaggle,train,rose,rose,406,74.35897435897436
+Foreground source and class balanced,kaggle,train,rose,sunflower,22,4.029304029304029
+Foreground source and class balanced,kaggle,train,rose,tulip,68,12.454212454212454
+Foreground source and class balanced,kaggle,train,sunflower,daisy,12,2.34375
+Foreground source and class balanced,kaggle,train,sunflower,dandelion,24,4.6875
+Foreground source and class balanced,kaggle,train,sunflower,rose,9,1.7578125
+Foreground source and class balanced,kaggle,train,sunflower,sunflower,451,88.0859375
+Foreground source and class balanced,kaggle,train,sunflower,tulip,16,3.125
+Foreground source and class balanced,kaggle,train,tulip,daisy,43,6.2682215743440235
+Foreground source and class balanced,kaggle,train,tulip,dandelion,19,2.7696793002915454
+Foreground source and class balanced,kaggle,train,tulip,rose,92,13.411078717201166
+Foreground source and class balanced,kaggle,train,tulip,sunflower,36,5.247813411078718
+Foreground source and class balanced,kaggle,train,tulip,tulip,496,72.30320699708454
+Foreground source and class balanced,kaggle,validation,daisy,daisy,77,67.54385964912281
+Foreground source and class balanced,kaggle,validation,daisy,dandelion,17,14.912280701754385
+Foreground source and class balanced,kaggle,validation,daisy,rose,8,7.017543859649122
+Foreground source and class balanced,kaggle,validation,daisy,sunflower,9,7.894736842105263
+Foreground source and class balanced,kaggle,validation,daisy,tulip,3,2.6315789473684212
+Foreground source and class balanced,kaggle,validation,dandelion,daisy,19,12.101910828025478
+Foreground source and class balanced,kaggle,validation,dandelion,dandelion,90,57.32484076433121
+Foreground source and class balanced,kaggle,validation,dandelion,rose,10,6.369426751592357
+Foreground source and class balanced,kaggle,validation,dandelion,sunflower,26,16.56050955414013
+Foreground source and class balanced,kaggle,validation,dandelion,tulip,12,7.643312101910828
+Foreground source and class balanced,kaggle,validation,rose,daisy,9,7.6923076923076925
+Foreground source and class balanced,kaggle,validation,rose,dandelion,3,2.5641025641025643
+Foreground source and class balanced,kaggle,validation,rose,rose,76,64.95726495726495
+Foreground source and class balanced,kaggle,validation,rose,sunflower,9,7.6923076923076925
+Foreground source and class balanced,kaggle,validation,rose,tulip,20,17.094017094017094
+Foreground source and class balanced,kaggle,validation,sunflower,daisy,5,4.545454545454546
+Foreground source and class balanced,kaggle,validation,sunflower,dandelion,4,3.6363636363636362
+Foreground source and class balanced,kaggle,validation,sunflower,rose,3,2.727272727272727
+Foreground source and class balanced,kaggle,validation,sunflower,sunflower,92,83.63636363636364
+Foreground source and class balanced,kaggle,validation,sunflower,tulip,6,5.454545454545454
+Foreground source and class balanced,kaggle,validation,tulip,daisy,2,1.3605442176870748
+Foreground source and class balanced,kaggle,validation,tulip,dandelion,8,5.442176870748299
+Foreground source and class balanced,kaggle,validation,tulip,rose,24,16.3265306122449
+Foreground source and class balanced,kaggle,validation,tulip,sunflower,4,2.7210884353741496
+Foreground source and class balanced,kaggle,validation,tulip,tulip,109,74.14965986394557
+K-Means compact mixed,field,cv,daisy,daisy,54,56.25
+K-Means compact mixed,field,cv,daisy,dandelion,11,11.458333333333334
+K-Means compact mixed,field,cv,daisy,rose,1,1.0416666666666667
+K-Means compact mixed,field,cv,daisy,sunflower,4,4.166666666666667
+K-Means compact mixed,field,cv,daisy,tulip,26,27.083333333333332
+K-Means compact mixed,field,cv,dandelion,daisy,48,50.0
+K-Means compact mixed,field,cv,dandelion,dandelion,8,8.333333333333334
+K-Means compact mixed,field,cv,dandelion,rose,0,0.0
+K-Means compact mixed,field,cv,dandelion,sunflower,15,15.625
+K-Means compact mixed,field,cv,dandelion,tulip,25,26.041666666666668
+K-Means compact mixed,field,cv,rose,daisy,42,43.75
+K-Means compact mixed,field,cv,rose,dandelion,10,10.416666666666666
+K-Means compact mixed,field,cv,rose,rose,17,17.708333333333332
+K-Means compact mixed,field,cv,rose,sunflower,2,2.0833333333333335
+K-Means compact mixed,field,cv,rose,tulip,25,26.041666666666668
+K-Means compact mixed,field,cv,sunflower,daisy,29,43.93939393939394
+K-Means compact mixed,field,cv,sunflower,dandelion,9,13.636363636363637
+K-Means compact mixed,field,cv,sunflower,rose,0,0.0
+K-Means compact mixed,field,cv,sunflower,sunflower,14,21.21212121212121
+K-Means compact mixed,field,cv,sunflower,tulip,14,21.21212121212121
+K-Means compact mixed,field,cv,tulip,daisy,56,58.333333333333336
+K-Means compact mixed,field,cv,tulip,dandelion,9,9.375
+K-Means compact mixed,field,cv,tulip,rose,3,3.125
+K-Means compact mixed,field,cv,tulip,sunflower,11,11.458333333333334
+K-Means compact mixed,field,cv,tulip,tulip,17,17.708333333333332
+K-Means compact mixed,field,train,daisy,daisy,77,80.20833333333333
+K-Means compact mixed,field,train,daisy,dandelion,9,9.375
+K-Means compact mixed,field,train,daisy,rose,3,3.125
+K-Means compact mixed,field,train,daisy,sunflower,3,3.125
+K-Means compact mixed,field,train,daisy,tulip,4,4.166666666666667
+K-Means compact mixed,field,train,dandelion,daisy,71,73.95833333333333
+K-Means compact mixed,field,train,dandelion,dandelion,8,8.333333333333334
+K-Means compact mixed,field,train,dandelion,rose,0,0.0
+K-Means compact mixed,field,train,dandelion,sunflower,16,16.666666666666668
+K-Means compact mixed,field,train,dandelion,tulip,1,1.0416666666666667
+K-Means compact mixed,field,train,rose,daisy,56,58.333333333333336
+K-Means compact mixed,field,train,rose,dandelion,10,10.416666666666666
+K-Means compact mixed,field,train,rose,rose,6,6.25
+K-Means compact mixed,field,train,rose,sunflower,5,5.208333333333333
+K-Means compact mixed,field,train,rose,tulip,19,19.791666666666668
+K-Means compact mixed,field,train,sunflower,daisy,41,62.121212121212125
+K-Means compact mixed,field,train,sunflower,dandelion,6,9.090909090909092
+K-Means compact mixed,field,train,sunflower,rose,0,0.0
+K-Means compact mixed,field,train,sunflower,sunflower,19,28.78787878787879
+K-Means compact mixed,field,train,sunflower,tulip,0,0.0
+K-Means compact mixed,field,train,tulip,daisy,72,75.0
+K-Means compact mixed,field,train,tulip,dandelion,9,9.375
+K-Means compact mixed,field,train,tulip,rose,1,1.0416666666666667
+K-Means compact mixed,field,train,tulip,sunflower,11,11.458333333333334
+K-Means compact mixed,field,train,tulip,tulip,3,3.125
+K-Means compact mixed,field,validation,daisy,daisy,16,66.66666666666667
+K-Means compact mixed,field,validation,daisy,dandelion,3,12.5
+K-Means compact mixed,field,validation,daisy,rose,2,8.333333333333334
+K-Means compact mixed,field,validation,daisy,sunflower,1,4.166666666666667
+K-Means compact mixed,field,validation,daisy,tulip,2,8.333333333333334
+K-Means compact mixed,field,validation,dandelion,daisy,19,79.16666666666667
+K-Means compact mixed,field,validation,dandelion,dandelion,0,0.0
+K-Means compact mixed,field,validation,dandelion,rose,0,0.0
+K-Means compact mixed,field,validation,dandelion,sunflower,5,20.833333333333332
+K-Means compact mixed,field,validation,dandelion,tulip,0,0.0
+K-Means compact mixed,field,validation,rose,daisy,12,50.0
+K-Means compact mixed,field,validation,rose,dandelion,4,16.666666666666668
+K-Means compact mixed,field,validation,rose,rose,3,12.5
+K-Means compact mixed,field,validation,rose,sunflower,1,4.166666666666667
+K-Means compact mixed,field,validation,rose,tulip,4,16.666666666666668
+K-Means compact mixed,field,validation,sunflower,daisy,7,43.75
+K-Means compact mixed,field,validation,sunflower,dandelion,3,18.75
+K-Means compact mixed,field,validation,sunflower,rose,0,0.0
+K-Means compact mixed,field,validation,sunflower,sunflower,6,37.5
+K-Means compact mixed,field,validation,sunflower,tulip,0,0.0
+K-Means compact mixed,field,validation,tulip,daisy,15,62.5
+K-Means compact mixed,field,validation,tulip,dandelion,4,16.666666666666668
+K-Means compact mixed,field,validation,tulip,rose,0,0.0
+K-Means compact mixed,field,validation,tulip,sunflower,5,20.833333333333332
+K-Means compact mixed,field,validation,tulip,tulip,0,0.0
+K-Means compact mixed,kaggle,cv,daisy,daisy,89,16.604477611940297
+K-Means compact mixed,kaggle,cv,daisy,dandelion,300,55.97014925373134
+K-Means compact mixed,kaggle,cv,daisy,rose,20,3.7313432835820897
+K-Means compact mixed,kaggle,cv,daisy,sunflower,79,14.738805970149254
+K-Means compact mixed,kaggle,cv,daisy,tulip,48,8.955223880597014
+K-Means compact mixed,kaggle,cv,dandelion,daisy,110,14.925373134328359
+K-Means compact mixed,kaggle,cv,dandelion,dandelion,360,48.846675712347356
+K-Means compact mixed,kaggle,cv,dandelion,rose,27,3.6635006784260518
+K-Means compact mixed,kaggle,cv,dandelion,sunflower,191,25.91587516960651
+K-Means compact mixed,kaggle,cv,dandelion,tulip,49,6.648575305291724
+K-Means compact mixed,kaggle,cv,rose,daisy,45,8.241758241758241
+K-Means compact mixed,kaggle,cv,rose,dandelion,95,17.399267399267398
+K-Means compact mixed,kaggle,cv,rose,rose,184,33.6996336996337
+K-Means compact mixed,kaggle,cv,rose,sunflower,87,15.934065934065934
+K-Means compact mixed,kaggle,cv,rose,tulip,135,24.725274725274726
+K-Means compact mixed,kaggle,cv,sunflower,daisy,94,18.359375
+K-Means compact mixed,kaggle,cv,sunflower,dandelion,29,5.6640625
+K-Means compact mixed,kaggle,cv,sunflower,rose,9,1.7578125
+K-Means compact mixed,kaggle,cv,sunflower,sunflower,321,62.6953125
+K-Means compact mixed,kaggle,cv,sunflower,tulip,59,11.5234375
+K-Means compact mixed,kaggle,cv,tulip,daisy,118,17.20116618075802
+K-Means compact mixed,kaggle,cv,tulip,dandelion,57,8.309037900874635
+K-Means compact mixed,kaggle,cv,tulip,rose,215,31.341107871720116
+K-Means compact mixed,kaggle,cv,tulip,sunflower,127,18.513119533527696
+K-Means compact mixed,kaggle,cv,tulip,tulip,169,24.635568513119534
+K-Means compact mixed,kaggle,train,daisy,daisy,96,17.91044776119403
+K-Means compact mixed,kaggle,train,daisy,dandelion,305,56.90298507462686
+K-Means compact mixed,kaggle,train,daisy,rose,16,2.985074626865672
+K-Means compact mixed,kaggle,train,daisy,sunflower,88,16.417910447761194
+K-Means compact mixed,kaggle,train,daisy,tulip,31,5.7835820895522385
+K-Means compact mixed,kaggle,train,dandelion,daisy,126,17.096336499321573
+K-Means compact mixed,kaggle,train,dandelion,dandelion,363,49.25373134328358
+K-Means compact mixed,kaggle,train,dandelion,rose,17,2.306648575305292
+K-Means compact mixed,kaggle,train,dandelion,sunflower,213,28.900949796472183
+K-Means compact mixed,kaggle,train,dandelion,tulip,18,2.4423337856173677
+K-Means compact mixed,kaggle,train,rose,daisy,36,6.593406593406593
+K-Means compact mixed,kaggle,train,rose,dandelion,95,17.399267399267398
+K-Means compact mixed,kaggle,train,rose,rose,256,46.88644688644688
+K-Means compact mixed,kaggle,train,rose,sunflower,60,10.989010989010989
+K-Means compact mixed,kaggle,train,rose,tulip,99,18.13186813186813
+K-Means compact mixed,kaggle,train,sunflower,daisy,118,23.046875
+K-Means compact mixed,kaggle,train,sunflower,dandelion,29,5.6640625
+K-Means compact mixed,kaggle,train,sunflower,rose,10,1.953125
+K-Means compact mixed,kaggle,train,sunflower,sunflower,339,66.2109375
+K-Means compact mixed,kaggle,train,sunflower,tulip,16,3.125
+K-Means compact mixed,kaggle,train,tulip,daisy,106,15.451895043731778
+K-Means compact mixed,kaggle,train,tulip,dandelion,63,9.183673469387756
+K-Means compact mixed,kaggle,train,tulip,rose,269,39.21282798833819
+K-Means compact mixed,kaggle,train,tulip,sunflower,106,15.451895043731778
+K-Means compact mixed,kaggle,train,tulip,tulip,142,20.699708454810494
+K-Means compact mixed,kaggle,validation,daisy,daisy,19,16.666666666666668
+K-Means compact mixed,kaggle,validation,daisy,dandelion,70,61.40350877192982
+K-Means compact mixed,kaggle,validation,daisy,rose,5,4.385964912280702
+K-Means compact mixed,kaggle,validation,daisy,sunflower,16,14.035087719298245
+K-Means compact mixed,kaggle,validation,daisy,tulip,4,3.508771929824561
+K-Means compact mixed,kaggle,validation,dandelion,daisy,26,16.56050955414013
+K-Means compact mixed,kaggle,validation,dandelion,dandelion,77,49.044585987261144
+K-Means compact mixed,kaggle,validation,dandelion,rose,3,1.910828025477707
+K-Means compact mixed,kaggle,validation,dandelion,sunflower,48,30.573248407643312
+K-Means compact mixed,kaggle,validation,dandelion,tulip,3,1.910828025477707
+K-Means compact mixed,kaggle,validation,rose,daisy,5,4.273504273504273
+K-Means compact mixed,kaggle,validation,rose,dandelion,27,23.076923076923077
+K-Means compact mixed,kaggle,validation,rose,rose,45,38.46153846153846
+K-Means compact mixed,kaggle,validation,rose,sunflower,10,8.547008547008547
+K-Means compact mixed,kaggle,validation,rose,tulip,30,25.641025641025642
+K-Means compact mixed,kaggle,validation,sunflower,daisy,27,24.545454545454547
+K-Means compact mixed,kaggle,validation,sunflower,dandelion,10,9.090909090909092
+K-Means compact mixed,kaggle,validation,sunflower,rose,4,3.6363636363636362
+K-Means compact mixed,kaggle,validation,sunflower,sunflower,68,61.81818181818182
+K-Means compact mixed,kaggle,validation,sunflower,tulip,1,0.9090909090909091
+K-Means compact mixed,kaggle,validation,tulip,daisy,23,15.646258503401361
+K-Means compact mixed,kaggle,validation,tulip,dandelion,21,14.285714285714286
+K-Means compact mixed,kaggle,validation,tulip,rose,53,36.054421768707485
+K-Means compact mixed,kaggle,validation,tulip,sunflower,20,13.605442176870747
+K-Means compact mixed,kaggle,validation,tulip,tulip,30,20.408163265306122
+KNN compact mixed,field,cv,daisy,daisy,52,54.166666666666664
+KNN compact mixed,field,cv,daisy,dandelion,28,29.166666666666668
+KNN compact mixed,field,cv,daisy,rose,9,9.375
+KNN compact mixed,field,cv,daisy,sunflower,0,0.0
+KNN compact mixed,field,cv,daisy,tulip,7,7.291666666666667
+KNN compact mixed,field,cv,dandelion,daisy,15,15.625
+KNN compact mixed,field,cv,dandelion,dandelion,70,72.91666666666667
+KNN compact mixed,field,cv,dandelion,rose,0,0.0
+KNN compact mixed,field,cv,dandelion,sunflower,8,8.333333333333334
+KNN compact mixed,field,cv,dandelion,tulip,3,3.125
+KNN compact mixed,field,cv,rose,daisy,35,36.458333333333336
+KNN compact mixed,field,cv,rose,dandelion,15,15.625
+KNN compact mixed,field,cv,rose,rose,35,36.458333333333336
+KNN compact mixed,field,cv,rose,sunflower,3,3.125
+KNN compact mixed,field,cv,rose,tulip,8,8.333333333333334
+KNN compact mixed,field,cv,sunflower,daisy,11,16.666666666666668
+KNN compact mixed,field,cv,sunflower,dandelion,22,33.333333333333336
+KNN compact mixed,field,cv,sunflower,rose,2,3.0303030303030303
+KNN compact mixed,field,cv,sunflower,sunflower,25,37.878787878787875
+KNN compact mixed,field,cv,sunflower,tulip,6,9.090909090909092
+KNN compact mixed,field,cv,tulip,daisy,20,20.833333333333332
+KNN compact mixed,field,cv,tulip,dandelion,43,44.791666666666664
+KNN compact mixed,field,cv,tulip,rose,5,5.208333333333333
+KNN compact mixed,field,cv,tulip,sunflower,13,13.541666666666666
+KNN compact mixed,field,cv,tulip,tulip,15,15.625
+KNN compact mixed,field,train,daisy,daisy,61,63.541666666666664
+KNN compact mixed,field,train,daisy,dandelion,22,22.916666666666668
+KNN compact mixed,field,train,daisy,rose,5,5.208333333333333
+KNN compact mixed,field,train,daisy,sunflower,1,1.0416666666666667
+KNN compact mixed,field,train,daisy,tulip,7,7.291666666666667
+KNN compact mixed,field,train,dandelion,daisy,13,13.541666666666666
+KNN compact mixed,field,train,dandelion,dandelion,75,78.125
+KNN compact mixed,field,train,dandelion,rose,0,0.0
+KNN compact mixed,field,train,dandelion,sunflower,3,3.125
+KNN compact mixed,field,train,dandelion,tulip,5,5.208333333333333
+KNN compact mixed,field,train,rose,daisy,25,26.041666666666668
+KNN compact mixed,field,train,rose,dandelion,14,14.583333333333334
+KNN compact mixed,field,train,rose,rose,49,51.041666666666664
+KNN compact mixed,field,train,rose,sunflower,3,3.125
+KNN compact mixed,field,train,rose,tulip,5,5.208333333333333
+KNN compact mixed,field,train,sunflower,daisy,5,7.575757575757576
+KNN compact mixed,field,train,sunflower,dandelion,17,25.757575757575758
+KNN compact mixed,field,train,sunflower,rose,3,4.545454545454546
+KNN compact mixed,field,train,sunflower,sunflower,34,51.515151515151516
+KNN compact mixed,field,train,sunflower,tulip,7,10.606060606060606
+KNN compact mixed,field,train,tulip,daisy,16,16.666666666666668
+KNN compact mixed,field,train,tulip,dandelion,40,41.666666666666664
+KNN compact mixed,field,train,tulip,rose,1,1.0416666666666667
+KNN compact mixed,field,train,tulip,sunflower,15,15.625
+KNN compact mixed,field,train,tulip,tulip,24,25.0
+KNN compact mixed,field,validation,daisy,daisy,17,70.83333333333333
+KNN compact mixed,field,validation,daisy,dandelion,2,8.333333333333334
+KNN compact mixed,field,validation,daisy,rose,4,16.666666666666668
+KNN compact mixed,field,validation,daisy,sunflower,0,0.0
+KNN compact mixed,field,validation,daisy,tulip,1,4.166666666666667
+KNN compact mixed,field,validation,dandelion,daisy,5,20.833333333333332
+KNN compact mixed,field,validation,dandelion,dandelion,14,58.333333333333336
+KNN compact mixed,field,validation,dandelion,rose,0,0.0
+KNN compact mixed,field,validation,dandelion,sunflower,4,16.666666666666668
+KNN compact mixed,field,validation,dandelion,tulip,1,4.166666666666667
+KNN compact mixed,field,validation,rose,daisy,4,16.666666666666668
+KNN compact mixed,field,validation,rose,dandelion,5,20.833333333333332
+KNN compact mixed,field,validation,rose,rose,11,45.833333333333336
+KNN compact mixed,field,validation,rose,sunflower,1,4.166666666666667
+KNN compact mixed,field,validation,rose,tulip,3,12.5
+KNN compact mixed,field,validation,sunflower,daisy,2,12.5
+KNN compact mixed,field,validation,sunflower,dandelion,2,12.5
+KNN compact mixed,field,validation,sunflower,rose,0,0.0
+KNN compact mixed,field,validation,sunflower,sunflower,11,68.75
+KNN compact mixed,field,validation,sunflower,tulip,1,6.25
+KNN compact mixed,field,validation,tulip,daisy,4,16.666666666666668
+KNN compact mixed,field,validation,tulip,dandelion,15,62.5
+KNN compact mixed,field,validation,tulip,rose,1,4.166666666666667
+KNN compact mixed,field,validation,tulip,sunflower,2,8.333333333333334
+KNN compact mixed,field,validation,tulip,tulip,2,8.333333333333334
+KNN compact mixed,kaggle,cv,daisy,daisy,366,68.28358208955224
+KNN compact mixed,kaggle,cv,daisy,dandelion,79,14.738805970149254
+KNN compact mixed,kaggle,cv,daisy,rose,30,5.597014925373134
+KNN compact mixed,kaggle,cv,daisy,sunflower,43,8.022388059701493
+KNN compact mixed,kaggle,cv,daisy,tulip,18,3.3582089552238807
+KNN compact mixed,kaggle,cv,dandelion,daisy,122,16.55359565807327
+KNN compact mixed,kaggle,cv,dandelion,dandelion,498,67.57123473541384
+KNN compact mixed,kaggle,cv,dandelion,rose,28,3.7991858887381276
+KNN compact mixed,kaggle,cv,dandelion,sunflower,75,10.176390773405698
+KNN compact mixed,kaggle,cv,dandelion,tulip,14,1.8995929443690638
+KNN compact mixed,kaggle,cv,rose,daisy,54,9.89010989010989
+KNN compact mixed,kaggle,cv,rose,dandelion,60,10.989010989010989
+KNN compact mixed,kaggle,cv,rose,rose,307,56.227106227106226
+KNN compact mixed,kaggle,cv,rose,sunflower,25,4.5787545787545785
+KNN compact mixed,kaggle,cv,rose,tulip,100,18.315018315018314
+KNN compact mixed,kaggle,cv,sunflower,daisy,28,5.46875
+KNN compact mixed,kaggle,cv,sunflower,dandelion,54,10.546875
+KNN compact mixed,kaggle,cv,sunflower,rose,16,3.125
+KNN compact mixed,kaggle,cv,sunflower,sunflower,397,77.5390625
+KNN compact mixed,kaggle,cv,sunflower,tulip,17,3.3203125
+KNN compact mixed,kaggle,cv,tulip,daisy,58,8.454810495626822
+KNN compact mixed,kaggle,cv,tulip,dandelion,53,7.725947521865889
+KNN compact mixed,kaggle,cv,tulip,rose,127,18.513119533527696
+KNN compact mixed,kaggle,cv,tulip,sunflower,68,9.912536443148689
+KNN compact mixed,kaggle,cv,tulip,tulip,380,55.393586005830905
+KNN compact mixed,kaggle,train,daisy,daisy,390,72.76119402985074
+KNN compact mixed,kaggle,train,daisy,dandelion,65,12.126865671641792
+KNN compact mixed,kaggle,train,daisy,rose,27,5.037313432835821
+KNN compact mixed,kaggle,train,daisy,sunflower,34,6.343283582089552
+KNN compact mixed,kaggle,train,daisy,tulip,20,3.7313432835820897
+KNN compact mixed,kaggle,train,dandelion,daisy,102,13.83989145183175
+KNN compact mixed,kaggle,train,dandelion,dandelion,545,73.94843962008142
+KNN compact mixed,kaggle,train,dandelion,rose,19,2.5780189959294435
+KNN compact mixed,kaggle,train,dandelion,sunflower,53,7.191316146540027
+KNN compact mixed,kaggle,train,dandelion,tulip,18,2.4423337856173677
+KNN compact mixed,kaggle,train,rose,daisy,46,8.424908424908425
+KNN compact mixed,kaggle,train,rose,dandelion,52,9.523809523809524
+KNN compact mixed,kaggle,train,rose,rose,353,64.65201465201466
+KNN compact mixed,kaggle,train,rose,sunflower,21,3.8461538461538463
+KNN compact mixed,kaggle,train,rose,tulip,74,13.553113553113553
+KNN compact mixed,kaggle,train,sunflower,daisy,19,3.7109375
+KNN compact mixed,kaggle,train,sunflower,dandelion,43,8.3984375
+KNN compact mixed,kaggle,train,sunflower,rose,11,2.1484375
+KNN compact mixed,kaggle,train,sunflower,sunflower,424,82.8125
+KNN compact mixed,kaggle,train,sunflower,tulip,15,2.9296875
+KNN compact mixed,kaggle,train,tulip,daisy,49,7.142857142857143
+KNN compact mixed,kaggle,train,tulip,dandelion,38,5.539358600583091
+KNN compact mixed,kaggle,train,tulip,rose,94,13.70262390670554
+KNN compact mixed,kaggle,train,tulip,sunflower,53,7.725947521865889
+KNN compact mixed,kaggle,train,tulip,tulip,452,65.88921282798835
+KNN compact mixed,kaggle,validation,daisy,daisy,70,61.40350877192982
+KNN compact mixed,kaggle,validation,daisy,dandelion,22,19.29824561403509
+KNN compact mixed,kaggle,validation,daisy,rose,7,6.140350877192983
+KNN compact mixed,kaggle,validation,daisy,sunflower,12,10.526315789473685
+KNN compact mixed,kaggle,validation,daisy,tulip,3,2.6315789473684212
+KNN compact mixed,kaggle,validation,dandelion,daisy,20,12.738853503184714
+KNN compact mixed,kaggle,validation,dandelion,dandelion,101,64.3312101910828
+KNN compact mixed,kaggle,validation,dandelion,rose,6,3.821656050955414
+KNN compact mixed,kaggle,validation,dandelion,sunflower,24,15.286624203821656
+KNN compact mixed,kaggle,validation,dandelion,tulip,6,3.821656050955414
+KNN compact mixed,kaggle,validation,rose,daisy,11,9.401709401709402
+KNN compact mixed,kaggle,validation,rose,dandelion,8,6.837606837606837
+KNN compact mixed,kaggle,validation,rose,rose,71,60.68376068376068
+KNN compact mixed,kaggle,validation,rose,sunflower,6,5.128205128205129
+KNN compact mixed,kaggle,validation,rose,tulip,21,17.94871794871795
+KNN compact mixed,kaggle,validation,sunflower,daisy,5,4.545454545454546
+KNN compact mixed,kaggle,validation,sunflower,dandelion,14,12.727272727272727
+KNN compact mixed,kaggle,validation,sunflower,rose,4,3.6363636363636362
+KNN compact mixed,kaggle,validation,sunflower,sunflower,83,75.45454545454545
+KNN compact mixed,kaggle,validation,sunflower,tulip,4,3.6363636363636362
+KNN compact mixed,kaggle,validation,tulip,daisy,15,10.204081632653061
+KNN compact mixed,kaggle,validation,tulip,dandelion,3,2.0408163265306123
+KNN compact mixed,kaggle,validation,tulip,rose,28,19.047619047619047
+KNN compact mixed,kaggle,validation,tulip,sunflower,10,6.802721088435374
+KNN compact mixed,kaggle,validation,tulip,tulip,91,61.904761904761905
+Nystrom C=1,field,cv,daisy,daisy,49,51.041666666666664
+Nystrom C=1,field,cv,daisy,dandelion,36,37.5
+Nystrom C=1,field,cv,daisy,rose,4,4.166666666666667
+Nystrom C=1,field,cv,daisy,sunflower,4,4.166666666666667
+Nystrom C=1,field,cv,daisy,tulip,3,3.125
+Nystrom C=1,field,cv,dandelion,daisy,1,1.0416666666666667
+Nystrom C=1,field,cv,dandelion,dandelion,85,88.54166666666667
+Nystrom C=1,field,cv,dandelion,rose,1,1.0416666666666667
+Nystrom C=1,field,cv,dandelion,sunflower,8,8.333333333333334
+Nystrom C=1,field,cv,dandelion,tulip,1,1.0416666666666667
+Nystrom C=1,field,cv,rose,daisy,29,30.208333333333332
+Nystrom C=1,field,cv,rose,dandelion,30,31.25
+Nystrom C=1,field,cv,rose,rose,20,20.833333333333332
+Nystrom C=1,field,cv,rose,sunflower,2,2.0833333333333335
+Nystrom C=1,field,cv,rose,tulip,15,15.625
+Nystrom C=1,field,cv,sunflower,daisy,2,3.0303030303030303
+Nystrom C=1,field,cv,sunflower,dandelion,33,50.0
+Nystrom C=1,field,cv,sunflower,rose,0,0.0
+Nystrom C=1,field,cv,sunflower,sunflower,30,45.45454545454545
+Nystrom C=1,field,cv,sunflower,tulip,1,1.5151515151515151
+Nystrom C=1,field,cv,tulip,daisy,5,5.208333333333333
+Nystrom C=1,field,cv,tulip,dandelion,63,65.625
+Nystrom C=1,field,cv,tulip,rose,7,7.291666666666667
+Nystrom C=1,field,cv,tulip,sunflower,8,8.333333333333334
+Nystrom C=1,field,cv,tulip,tulip,13,13.541666666666666
+Nystrom C=1,field,validation,daisy,daisy,11,45.833333333333336
+Nystrom C=1,field,validation,daisy,dandelion,10,41.666666666666664
+Nystrom C=1,field,validation,daisy,rose,3,12.5
+Nystrom C=1,field,validation,daisy,sunflower,0,0.0
+Nystrom C=1,field,validation,daisy,tulip,0,0.0
+Nystrom C=1,field,validation,dandelion,daisy,0,0.0
+Nystrom C=1,field,validation,dandelion,dandelion,21,87.5
+Nystrom C=1,field,validation,dandelion,rose,0,0.0
+Nystrom C=1,field,validation,dandelion,sunflower,3,12.5
+Nystrom C=1,field,validation,dandelion,tulip,0,0.0
+Nystrom C=1,field,validation,rose,daisy,11,45.833333333333336
+Nystrom C=1,field,validation,rose,dandelion,1,4.166666666666667
+Nystrom C=1,field,validation,rose,rose,4,16.666666666666668
+Nystrom C=1,field,validation,rose,sunflower,3,12.5
+Nystrom C=1,field,validation,rose,tulip,5,20.833333333333332
+Nystrom C=1,field,validation,sunflower,daisy,2,12.5
+Nystrom C=1,field,validation,sunflower,dandelion,5,31.25
+Nystrom C=1,field,validation,sunflower,rose,0,0.0
+Nystrom C=1,field,validation,sunflower,sunflower,9,56.25
+Nystrom C=1,field,validation,sunflower,tulip,0,0.0
+Nystrom C=1,field,validation,tulip,daisy,2,8.333333333333334
+Nystrom C=1,field,validation,tulip,dandelion,15,62.5
+Nystrom C=1,field,validation,tulip,rose,0,0.0
+Nystrom C=1,field,validation,tulip,sunflower,0,0.0
+Nystrom C=1,field,validation,tulip,tulip,7,29.166666666666668
+Nystrom C=1,kaggle,cv,daisy,daisy,389,72.57462686567165
+Nystrom C=1,kaggle,cv,daisy,dandelion,76,14.17910447761194
+Nystrom C=1,kaggle,cv,daisy,rose,24,4.477611940298507
+Nystrom C=1,kaggle,cv,daisy,sunflower,20,3.7313432835820897
+Nystrom C=1,kaggle,cv,daisy,tulip,27,5.037313432835821
+Nystrom C=1,kaggle,cv,dandelion,daisy,55,7.462686567164179
+Nystrom C=1,kaggle,cv,dandelion,dandelion,602,81.68249660786974
+Nystrom C=1,kaggle,cv,dandelion,rose,14,1.8995929443690638
+Nystrom C=1,kaggle,cv,dandelion,sunflower,42,5.698778833107191
+Nystrom C=1,kaggle,cv,dandelion,tulip,24,3.2564450474898234
+Nystrom C=1,kaggle,cv,rose,daisy,34,6.227106227106227
+Nystrom C=1,kaggle,cv,rose,dandelion,38,6.95970695970696
+Nystrom C=1,kaggle,cv,rose,rose,388,71.06227106227107
+Nystrom C=1,kaggle,cv,rose,sunflower,17,3.1135531135531136
+Nystrom C=1,kaggle,cv,rose,tulip,69,12.637362637362637
+Nystrom C=1,kaggle,cv,sunflower,daisy,20,3.90625
+Nystrom C=1,kaggle,cv,sunflower,dandelion,29,5.6640625
+Nystrom C=1,kaggle,cv,sunflower,rose,11,2.1484375
+Nystrom C=1,kaggle,cv,sunflower,sunflower,431,84.1796875
+Nystrom C=1,kaggle,cv,sunflower,tulip,21,4.1015625
+Nystrom C=1,kaggle,cv,tulip,daisy,32,4.664723032069971
+Nystrom C=1,kaggle,cv,tulip,dandelion,35,5.1020408163265305
+Nystrom C=1,kaggle,cv,tulip,rose,76,11.078717201166182
+Nystrom C=1,kaggle,cv,tulip,sunflower,31,4.518950437317784
+Nystrom C=1,kaggle,cv,tulip,tulip,512,74.63556851311954
+Nystrom C=1,kaggle,train,daisy,daisy,467,87.1268656716418
+Nystrom C=1,kaggle,train,daisy,dandelion,36,6.7164179104477615
+Nystrom C=1,kaggle,train,daisy,rose,14,2.611940298507463
+Nystrom C=1,kaggle,train,daisy,sunflower,9,1.6791044776119404
+Nystrom C=1,kaggle,train,daisy,tulip,10,1.8656716417910448
+Nystrom C=1,kaggle,train,dandelion,daisy,15,2.03527815468114
+Nystrom C=1,kaggle,train,dandelion,dandelion,682,92.53731343283582
+Nystrom C=1,kaggle,train,dandelion,rose,7,0.9497964721845319
+Nystrom C=1,kaggle,train,dandelion,sunflower,22,2.985074626865672
+Nystrom C=1,kaggle,train,dandelion,tulip,11,1.492537313432836
+Nystrom C=1,kaggle,train,rose,daisy,14,2.5641025641025643
+Nystrom C=1,kaggle,train,rose,dandelion,19,3.47985347985348
+Nystrom C=1,kaggle,train,rose,rose,477,87.36263736263736
+Nystrom C=1,kaggle,train,rose,sunflower,5,0.9157509157509157
+Nystrom C=1,kaggle,train,rose,tulip,31,5.677655677655678
+Nystrom C=1,kaggle,train,sunflower,daisy,5,0.9765625
+Nystrom C=1,kaggle,train,sunflower,dandelion,16,3.125
+Nystrom C=1,kaggle,train,sunflower,rose,5,0.9765625
+Nystrom C=1,kaggle,train,sunflower,sunflower,479,93.5546875
+Nystrom C=1,kaggle,train,sunflower,tulip,7,1.3671875
+Nystrom C=1,kaggle,train,tulip,daisy,9,1.3119533527696794
+Nystrom C=1,kaggle,train,tulip,dandelion,18,2.623906705539359
+Nystrom C=1,kaggle,train,tulip,rose,26,3.7900874635568513
+Nystrom C=1,kaggle,train,tulip,sunflower,12,1.749271137026239
+Nystrom C=1,kaggle,train,tulip,tulip,621,90.52478134110787
+Nystrom C=1,kaggle,validation,daisy,daisy,80,70.17543859649123
+Nystrom C=1,kaggle,validation,daisy,dandelion,21,18.42105263157895
+Nystrom C=1,kaggle,validation,daisy,rose,4,3.508771929824561
+Nystrom C=1,kaggle,validation,daisy,sunflower,3,2.6315789473684212
+Nystrom C=1,kaggle,validation,daisy,tulip,6,5.2631578947368425
+Nystrom C=1,kaggle,validation,dandelion,daisy,10,6.369426751592357
+Nystrom C=1,kaggle,validation,dandelion,dandelion,117,74.52229299363057
+Nystrom C=1,kaggle,validation,dandelion,rose,3,1.910828025477707
+Nystrom C=1,kaggle,validation,dandelion,sunflower,17,10.828025477707007
+Nystrom C=1,kaggle,validation,dandelion,tulip,10,6.369426751592357
+Nystrom C=1,kaggle,validation,rose,daisy,14,11.965811965811966
+Nystrom C=1,kaggle,validation,rose,dandelion,3,2.5641025641025643
+Nystrom C=1,kaggle,validation,rose,rose,75,64.1025641025641
+Nystrom C=1,kaggle,validation,rose,sunflower,8,6.837606837606837
+Nystrom C=1,kaggle,validation,rose,tulip,17,14.52991452991453
+Nystrom C=1,kaggle,validation,sunflower,daisy,5,4.545454545454546
+Nystrom C=1,kaggle,validation,sunflower,dandelion,9,8.181818181818182
+Nystrom C=1,kaggle,validation,sunflower,rose,1,0.9090909090909091
+Nystrom C=1,kaggle,validation,sunflower,sunflower,88,80.0
+Nystrom C=1,kaggle,validation,sunflower,tulip,7,6.363636363636363
+Nystrom C=1,kaggle,validation,tulip,daisy,5,3.401360544217687
+Nystrom C=1,kaggle,validation,tulip,dandelion,3,2.0408163265306123
+Nystrom C=1,kaggle,validation,tulip,rose,12,8.16326530612245
+Nystrom C=1,kaggle,validation,tulip,sunflower,4,2.7210884353741496
+Nystrom C=1,kaggle,validation,tulip,tulip,123,83.6734693877551
+Nystrom full frame,field,cv,daisy,daisy,54,56.25
+Nystrom full frame,field,cv,daisy,dandelion,31,32.291666666666664
+Nystrom full frame,field,cv,daisy,rose,4,4.166666666666667
+Nystrom full frame,field,cv,daisy,sunflower,5,5.208333333333333
+Nystrom full frame,field,cv,daisy,tulip,2,2.0833333333333335
+Nystrom full frame,field,cv,dandelion,daisy,5,5.208333333333333
+Nystrom full frame,field,cv,dandelion,dandelion,84,87.5
+Nystrom full frame,field,cv,dandelion,rose,0,0.0
+Nystrom full frame,field,cv,dandelion,sunflower,6,6.25
+Nystrom full frame,field,cv,dandelion,tulip,1,1.0416666666666667
+Nystrom full frame,field,cv,rose,daisy,39,40.625
+Nystrom full frame,field,cv,rose,dandelion,14,14.583333333333334
+Nystrom full frame,field,cv,rose,rose,31,32.291666666666664
+Nystrom full frame,field,cv,rose,sunflower,4,4.166666666666667
+Nystrom full frame,field,cv,rose,tulip,8,8.333333333333334
+Nystrom full frame,field,cv,sunflower,daisy,3,4.545454545454546
+Nystrom full frame,field,cv,sunflower,dandelion,21,31.818181818181817
+Nystrom full frame,field,cv,sunflower,rose,1,1.5151515151515151
+Nystrom full frame,field,cv,sunflower,sunflower,36,54.54545454545455
+Nystrom full frame,field,cv,sunflower,tulip,5,7.575757575757576
+Nystrom full frame,field,cv,tulip,daisy,14,14.583333333333334
+Nystrom full frame,field,cv,tulip,dandelion,52,54.166666666666664
+Nystrom full frame,field,cv,tulip,rose,8,8.333333333333334
+Nystrom full frame,field,cv,tulip,sunflower,9,9.375
+Nystrom full frame,field,cv,tulip,tulip,13,13.541666666666666
+Nystrom full frame,field,validation,daisy,daisy,13,54.166666666666664
+Nystrom full frame,field,validation,daisy,dandelion,10,41.666666666666664
+Nystrom full frame,field,validation,daisy,rose,1,4.166666666666667
+Nystrom full frame,field,validation,daisy,sunflower,0,0.0
+Nystrom full frame,field,validation,daisy,tulip,0,0.0
+Nystrom full frame,field,validation,dandelion,daisy,1,4.166666666666667
+Nystrom full frame,field,validation,dandelion,dandelion,16,66.66666666666667
+Nystrom full frame,field,validation,dandelion,rose,0,0.0
+Nystrom full frame,field,validation,dandelion,sunflower,6,25.0
+Nystrom full frame,field,validation,dandelion,tulip,1,4.166666666666667
+Nystrom full frame,field,validation,rose,daisy,12,50.0
+Nystrom full frame,field,validation,rose,dandelion,2,8.333333333333334
+Nystrom full frame,field,validation,rose,rose,6,25.0
+Nystrom full frame,field,validation,rose,sunflower,2,8.333333333333334
+Nystrom full frame,field,validation,rose,tulip,2,8.333333333333334
+Nystrom full frame,field,validation,sunflower,daisy,4,25.0
+Nystrom full frame,field,validation,sunflower,dandelion,2,12.5
+Nystrom full frame,field,validation,sunflower,rose,1,6.25
+Nystrom full frame,field,validation,sunflower,sunflower,9,56.25
+Nystrom full frame,field,validation,sunflower,tulip,0,0.0
+Nystrom full frame,field,validation,tulip,daisy,2,8.333333333333334
+Nystrom full frame,field,validation,tulip,dandelion,15,62.5
+Nystrom full frame,field,validation,tulip,rose,1,4.166666666666667
+Nystrom full frame,field,validation,tulip,sunflower,1,4.166666666666667
+Nystrom full frame,field,validation,tulip,tulip,5,20.833333333333332
+Nystrom full frame,kaggle,cv,daisy,daisy,376,70.14925373134328
+Nystrom full frame,kaggle,cv,daisy,dandelion,80,14.925373134328359
+Nystrom full frame,kaggle,cv,daisy,rose,42,7.835820895522388
+Nystrom full frame,kaggle,cv,daisy,sunflower,16,2.985074626865672
+Nystrom full frame,kaggle,cv,daisy,tulip,22,4.104477611940299
+Nystrom full frame,kaggle,cv,dandelion,daisy,62,8.412483039348711
+Nystrom full frame,kaggle,cv,dandelion,dandelion,592,80.32564450474898
+Nystrom full frame,kaggle,cv,dandelion,rose,20,2.7137042062415198
+Nystrom full frame,kaggle,cv,dandelion,sunflower,39,5.291723202170964
+Nystrom full frame,kaggle,cv,dandelion,tulip,24,3.2564450474898234
+Nystrom full frame,kaggle,cv,rose,daisy,41,7.509157509157509
+Nystrom full frame,kaggle,cv,rose,dandelion,32,5.86080586080586
+Nystrom full frame,kaggle,cv,rose,rose,392,71.7948717948718
+Nystrom full frame,kaggle,cv,rose,sunflower,13,2.380952380952381
+Nystrom full frame,kaggle,cv,rose,tulip,68,12.454212454212454
+Nystrom full frame,kaggle,cv,sunflower,daisy,14,2.734375
+Nystrom full frame,kaggle,cv,sunflower,dandelion,38,7.421875
+Nystrom full frame,kaggle,cv,sunflower,rose,12,2.34375
+Nystrom full frame,kaggle,cv,sunflower,sunflower,422,82.421875
+Nystrom full frame,kaggle,cv,sunflower,tulip,26,5.078125
+Nystrom full frame,kaggle,cv,tulip,daisy,31,4.518950437317784
+Nystrom full frame,kaggle,cv,tulip,dandelion,25,3.6443148688046647
+Nystrom full frame,kaggle,cv,tulip,rose,64,9.329446064139942
+Nystrom full frame,kaggle,cv,tulip,sunflower,31,4.518950437317784
+Nystrom full frame,kaggle,cv,tulip,tulip,535,77.98833819241983
+Nystrom full frame,kaggle,train,daisy,daisy,528,98.50746268656717
+Nystrom full frame,kaggle,train,daisy,dandelion,2,0.373134328358209
+Nystrom full frame,kaggle,train,daisy,rose,3,0.5597014925373134
+Nystrom full frame,kaggle,train,daisy,sunflower,2,0.373134328358209
+Nystrom full frame,kaggle,train,daisy,tulip,1,0.1865671641791045
+Nystrom full frame,kaggle,train,dandelion,daisy,3,0.40705563093622793
+Nystrom full frame,kaggle,train,dandelion,dandelion,731,99.18588873812755
+Nystrom full frame,kaggle,train,dandelion,rose,0,0.0
+Nystrom full frame,kaggle,train,dandelion,sunflower,1,0.13568521031207598
+Nystrom full frame,kaggle,train,dandelion,tulip,2,0.27137042062415195
+Nystrom full frame,kaggle,train,rose,daisy,3,0.5494505494505495
+Nystrom full frame,kaggle,train,rose,dandelion,1,0.18315018315018314
+Nystrom full frame,kaggle,train,rose,rose,537,98.35164835164835
+Nystrom full frame,kaggle,train,rose,sunflower,1,0.18315018315018314
+Nystrom full frame,kaggle,train,rose,tulip,4,0.7326007326007326
+Nystrom full frame,kaggle,train,sunflower,daisy,0,0.0
+Nystrom full frame,kaggle,train,sunflower,dandelion,1,0.1953125
+Nystrom full frame,kaggle,train,sunflower,rose,0,0.0
+Nystrom full frame,kaggle,train,sunflower,sunflower,510,99.609375
+Nystrom full frame,kaggle,train,sunflower,tulip,1,0.1953125
+Nystrom full frame,kaggle,train,tulip,daisy,3,0.43731778425655976
+Nystrom full frame,kaggle,train,tulip,dandelion,2,0.2915451895043732
+Nystrom full frame,kaggle,train,tulip,rose,0,0.0
+Nystrom full frame,kaggle,train,tulip,sunflower,3,0.43731778425655976
+Nystrom full frame,kaggle,train,tulip,tulip,678,98.83381924198251
+Nystrom full frame,kaggle,validation,daisy,daisy,82,71.9298245614035
+Nystrom full frame,kaggle,validation,daisy,dandelion,19,16.666666666666668
+Nystrom full frame,kaggle,validation,daisy,rose,7,6.140350877192983
+Nystrom full frame,kaggle,validation,daisy,sunflower,6,5.2631578947368425
+Nystrom full frame,kaggle,validation,daisy,tulip,0,0.0
+Nystrom full frame,kaggle,validation,dandelion,daisy,9,5.732484076433121
+Nystrom full frame,kaggle,validation,dandelion,dandelion,116,73.88535031847134
+Nystrom full frame,kaggle,validation,dandelion,rose,5,3.1847133757961785
+Nystrom full frame,kaggle,validation,dandelion,sunflower,18,11.464968152866241
+Nystrom full frame,kaggle,validation,dandelion,tulip,9,5.732484076433121
+Nystrom full frame,kaggle,validation,rose,daisy,8,6.837606837606837
+Nystrom full frame,kaggle,validation,rose,dandelion,4,3.4188034188034186
+Nystrom full frame,kaggle,validation,rose,rose,84,71.7948717948718
+Nystrom full frame,kaggle,validation,rose,sunflower,5,4.273504273504273
+Nystrom full frame,kaggle,validation,rose,tulip,16,13.675213675213675
+Nystrom full frame,kaggle,validation,sunflower,daisy,2,1.8181818181818181
+Nystrom full frame,kaggle,validation,sunflower,dandelion,7,6.363636363636363
+Nystrom full frame,kaggle,validation,sunflower,rose,1,0.9090909090909091
+Nystrom full frame,kaggle,validation,sunflower,sunflower,92,83.63636363636364
+Nystrom full frame,kaggle,validation,sunflower,tulip,8,7.2727272727272725
+Nystrom full frame,kaggle,validation,tulip,daisy,4,2.7210884353741496
+Nystrom full frame,kaggle,validation,tulip,dandelion,5,3.401360544217687
+Nystrom full frame,kaggle,validation,tulip,rose,14,9.523809523809524
+Nystrom full frame,kaggle,validation,tulip,sunflower,4,2.7210884353741496
+Nystrom full frame,kaggle,validation,tulip,tulip,120,81.63265306122449
+Nystrom mixed,field,cv,daisy,daisy,67,69.79166666666667
+Nystrom mixed,field,cv,daisy,dandelion,10,10.416666666666666
+Nystrom mixed,field,cv,daisy,rose,12,12.5
+Nystrom mixed,field,cv,daisy,sunflower,0,0.0
+Nystrom mixed,field,cv,daisy,tulip,7,7.291666666666667
+Nystrom mixed,field,cv,dandelion,daisy,3,3.125
+Nystrom mixed,field,cv,dandelion,dandelion,74,77.08333333333333
+Nystrom mixed,field,cv,dandelion,rose,1,1.0416666666666667
+Nystrom mixed,field,cv,dandelion,sunflower,10,10.416666666666666
+Nystrom mixed,field,cv,dandelion,tulip,8,8.333333333333334
+Nystrom mixed,field,cv,rose,daisy,23,23.958333333333332
+Nystrom mixed,field,cv,rose,dandelion,3,3.125
+Nystrom mixed,field,cv,rose,rose,61,63.541666666666664
+Nystrom mixed,field,cv,rose,sunflower,0,0.0
+Nystrom mixed,field,cv,rose,tulip,9,9.375
+Nystrom mixed,field,cv,sunflower,daisy,1,1.5151515151515151
+Nystrom mixed,field,cv,sunflower,dandelion,18,27.272727272727273
+Nystrom mixed,field,cv,sunflower,rose,1,1.5151515151515151
+Nystrom mixed,field,cv,sunflower,sunflower,37,56.06060606060606
+Nystrom mixed,field,cv,sunflower,tulip,9,13.636363636363637
+Nystrom mixed,field,cv,tulip,daisy,9,9.375
+Nystrom mixed,field,cv,tulip,dandelion,30,31.25
+Nystrom mixed,field,cv,tulip,rose,11,11.458333333333334
+Nystrom mixed,field,cv,tulip,sunflower,10,10.416666666666666
+Nystrom mixed,field,cv,tulip,tulip,36,37.5
+Nystrom mixed,field,train,daisy,daisy,95,98.95833333333333
+Nystrom mixed,field,train,daisy,dandelion,1,1.0416666666666667
+Nystrom mixed,field,train,daisy,rose,0,0.0
+Nystrom mixed,field,train,daisy,sunflower,0,0.0
+Nystrom mixed,field,train,daisy,tulip,0,0.0
+Nystrom mixed,field,train,dandelion,daisy,0,0.0
+Nystrom mixed,field,train,dandelion,dandelion,95,98.95833333333333
+Nystrom mixed,field,train,dandelion,rose,0,0.0
+Nystrom mixed,field,train,dandelion,sunflower,1,1.0416666666666667
+Nystrom mixed,field,train,dandelion,tulip,0,0.0
+Nystrom mixed,field,train,rose,daisy,3,3.125
+Nystrom mixed,field,train,rose,dandelion,1,1.0416666666666667
+Nystrom mixed,field,train,rose,rose,91,94.79166666666667
+Nystrom mixed,field,train,rose,sunflower,0,0.0
+Nystrom mixed,field,train,rose,tulip,1,1.0416666666666667
+Nystrom mixed,field,train,sunflower,daisy,0,0.0
+Nystrom mixed,field,train,sunflower,dandelion,1,1.5151515151515151
+Nystrom mixed,field,train,sunflower,rose,0,0.0
+Nystrom mixed,field,train,sunflower,sunflower,64,96.96969696969697
+Nystrom mixed,field,train,sunflower,tulip,1,1.5151515151515151
+Nystrom mixed,field,train,tulip,daisy,1,1.0416666666666667
+Nystrom mixed,field,train,tulip,dandelion,1,1.0416666666666667
+Nystrom mixed,field,train,tulip,rose,0,0.0
+Nystrom mixed,field,train,tulip,sunflower,1,1.0416666666666667
+Nystrom mixed,field,train,tulip,tulip,93,96.875
+Nystrom mixed,field,validation,daisy,daisy,14,58.333333333333336
+Nystrom mixed,field,validation,daisy,dandelion,4,16.666666666666668
+Nystrom mixed,field,validation,daisy,rose,5,20.833333333333332
+Nystrom mixed,field,validation,daisy,sunflower,0,0.0
+Nystrom mixed,field,validation,daisy,tulip,1,4.166666666666667
+Nystrom mixed,field,validation,dandelion,daisy,1,4.166666666666667
+Nystrom mixed,field,validation,dandelion,dandelion,13,54.166666666666664
+Nystrom mixed,field,validation,dandelion,rose,0,0.0
+Nystrom mixed,field,validation,dandelion,sunflower,4,16.666666666666668
+Nystrom mixed,field,validation,dandelion,tulip,6,25.0
+Nystrom mixed,field,validation,rose,daisy,3,12.5
+Nystrom mixed,field,validation,rose,dandelion,0,0.0
+Nystrom mixed,field,validation,rose,rose,15,62.5
+Nystrom mixed,field,validation,rose,sunflower,3,12.5
+Nystrom mixed,field,validation,rose,tulip,3,12.5
+Nystrom mixed,field,validation,sunflower,daisy,2,12.5
+Nystrom mixed,field,validation,sunflower,dandelion,1,6.25
+Nystrom mixed,field,validation,sunflower,rose,0,0.0
+Nystrom mixed,field,validation,sunflower,sunflower,11,68.75
+Nystrom mixed,field,validation,sunflower,tulip,2,12.5
+Nystrom mixed,field,validation,tulip,daisy,4,16.666666666666668
+Nystrom mixed,field,validation,tulip,dandelion,10,41.666666666666664
+Nystrom mixed,field,validation,tulip,rose,2,8.333333333333334
+Nystrom mixed,field,validation,tulip,sunflower,0,0.0
+Nystrom mixed,field,validation,tulip,tulip,8,33.333333333333336
+Nystrom mixed,kaggle,cv,daisy,daisy,384,71.64179104477611
+Nystrom mixed,kaggle,cv,daisy,dandelion,62,11.567164179104477
+Nystrom mixed,kaggle,cv,daisy,rose,36,6.7164179104477615
+Nystrom mixed,kaggle,cv,daisy,sunflower,25,4.664179104477612
+Nystrom mixed,kaggle,cv,daisy,tulip,29,5.41044776119403
+Nystrom mixed,kaggle,cv,dandelion,daisy,65,8.819538670284938
+Nystrom mixed,kaggle,cv,dandelion,dandelion,582,78.96879240162822
+Nystrom mixed,kaggle,cv,dandelion,rose,19,2.5780189959294435
+Nystrom mixed,kaggle,cv,dandelion,sunflower,31,4.2062415196743554
+Nystrom mixed,kaggle,cv,dandelion,tulip,40,5.4274084124830395
+Nystrom mixed,kaggle,cv,rose,daisy,35,6.410256410256411
+Nystrom mixed,kaggle,cv,rose,dandelion,26,4.761904761904762
+Nystrom mixed,kaggle,cv,rose,rose,397,72.71062271062272
+Nystrom mixed,kaggle,cv,rose,sunflower,20,3.663003663003663
+Nystrom mixed,kaggle,cv,rose,tulip,68,12.454212454212454
+Nystrom mixed,kaggle,cv,sunflower,daisy,13,2.5390625
+Nystrom mixed,kaggle,cv,sunflower,dandelion,35,6.8359375
+Nystrom mixed,kaggle,cv,sunflower,rose,13,2.5390625
+Nystrom mixed,kaggle,cv,sunflower,sunflower,430,83.984375
+Nystrom mixed,kaggle,cv,sunflower,tulip,21,4.1015625
+Nystrom mixed,kaggle,cv,tulip,daisy,29,4.227405247813411
+Nystrom mixed,kaggle,cv,tulip,dandelion,26,3.7900874635568513
+Nystrom mixed,kaggle,cv,tulip,rose,78,11.370262390670554
+Nystrom mixed,kaggle,cv,tulip,sunflower,33,4.810495626822157
+Nystrom mixed,kaggle,cv,tulip,tulip,520,75.80174927113703
+Nystrom mixed,kaggle,train,daisy,daisy,522,97.38805970149254
+Nystrom mixed,kaggle,train,daisy,dandelion,5,0.9328358208955224
+Nystrom mixed,kaggle,train,daisy,rose,4,0.746268656716418
+Nystrom mixed,kaggle,train,daisy,sunflower,3,0.5597014925373134
+Nystrom mixed,kaggle,train,daisy,tulip,2,0.373134328358209
+Nystrom mixed,kaggle,train,dandelion,daisy,3,0.40705563093622793
+Nystrom mixed,kaggle,train,dandelion,dandelion,726,98.50746268656717
+Nystrom mixed,kaggle,train,dandelion,rose,2,0.27137042062415195
+Nystrom mixed,kaggle,train,dandelion,sunflower,3,0.40705563093622793
+Nystrom mixed,kaggle,train,dandelion,tulip,3,0.40705563093622793
+Nystrom mixed,kaggle,train,rose,daisy,1,0.18315018315018314
+Nystrom mixed,kaggle,train,rose,dandelion,2,0.3663003663003663
+Nystrom mixed,kaggle,train,rose,rose,541,99.08424908424908
+Nystrom mixed,kaggle,train,rose,sunflower,0,0.0
+Nystrom mixed,kaggle,train,rose,tulip,2,0.3663003663003663
+Nystrom mixed,kaggle,train,sunflower,daisy,0,0.0
+Nystrom mixed,kaggle,train,sunflower,dandelion,1,0.1953125
+Nystrom mixed,kaggle,train,sunflower,rose,0,0.0
+Nystrom mixed,kaggle,train,sunflower,sunflower,511,99.8046875
+Nystrom mixed,kaggle,train,sunflower,tulip,0,0.0
+Nystrom mixed,kaggle,train,tulip,daisy,1,0.1457725947521866
+Nystrom mixed,kaggle,train,tulip,dandelion,3,0.43731778425655976
+Nystrom mixed,kaggle,train,tulip,rose,5,0.7288629737609329
+Nystrom mixed,kaggle,train,tulip,sunflower,2,0.2915451895043732
+Nystrom mixed,kaggle,train,tulip,tulip,675,98.39650145772595
+Nystrom mixed,kaggle,validation,daisy,daisy,77,67.54385964912281
+Nystrom mixed,kaggle,validation,daisy,dandelion,18,15.789473684210526
+Nystrom mixed,kaggle,validation,daisy,rose,7,6.140350877192983
+Nystrom mixed,kaggle,validation,daisy,sunflower,7,6.140350877192983
+Nystrom mixed,kaggle,validation,daisy,tulip,5,4.385964912280702
+Nystrom mixed,kaggle,validation,dandelion,daisy,9,5.732484076433121
+Nystrom mixed,kaggle,validation,dandelion,dandelion,120,76.43312101910828
+Nystrom mixed,kaggle,validation,dandelion,rose,6,3.821656050955414
+Nystrom mixed,kaggle,validation,dandelion,sunflower,9,5.732484076433121
+Nystrom mixed,kaggle,validation,dandelion,tulip,13,8.280254777070065
+Nystrom mixed,kaggle,validation,rose,daisy,8,6.837606837606837
+Nystrom mixed,kaggle,validation,rose,dandelion,6,5.128205128205129
+Nystrom mixed,kaggle,validation,rose,rose,82,70.08547008547009
+Nystrom mixed,kaggle,validation,rose,sunflower,6,5.128205128205129
+Nystrom mixed,kaggle,validation,rose,tulip,15,12.820512820512821
+Nystrom mixed,kaggle,validation,sunflower,daisy,2,1.8181818181818181
+Nystrom mixed,kaggle,validation,sunflower,dandelion,5,4.545454545454546
+Nystrom mixed,kaggle,validation,sunflower,rose,3,2.727272727272727
+Nystrom mixed,kaggle,validation,sunflower,sunflower,93,84.54545454545455
+Nystrom mixed,kaggle,validation,sunflower,tulip,7,6.363636363636363
+Nystrom mixed,kaggle,validation,tulip,daisy,8,5.442176870748299
+Nystrom mixed,kaggle,validation,tulip,dandelion,6,4.081632653061225
+Nystrom mixed,kaggle,validation,tulip,rose,15,10.204081632653061
+Nystrom mixed,kaggle,validation,tulip,sunflower,2,1.3605442176870748
+Nystrom mixed,kaggle,validation,tulip,tulip,116,78.91156462585035
+Nystrom mixed balanced,field,cv,daisy,daisy,67,69.79166666666667
+Nystrom mixed balanced,field,cv,daisy,dandelion,6,6.25
+Nystrom mixed balanced,field,cv,daisy,rose,15,15.625
+Nystrom mixed balanced,field,cv,daisy,sunflower,1,1.0416666666666667
+Nystrom mixed balanced,field,cv,daisy,tulip,7,7.291666666666667
+Nystrom mixed balanced,field,cv,dandelion,daisy,3,3.125
+Nystrom mixed balanced,field,cv,dandelion,dandelion,73,76.04166666666667
+Nystrom mixed balanced,field,cv,dandelion,rose,1,1.0416666666666667
+Nystrom mixed balanced,field,cv,dandelion,sunflower,9,9.375
+Nystrom mixed balanced,field,cv,dandelion,tulip,10,10.416666666666666
+Nystrom mixed balanced,field,cv,rose,daisy,19,19.791666666666668
+Nystrom mixed balanced,field,cv,rose,dandelion,3,3.125
+Nystrom mixed balanced,field,cv,rose,rose,63,65.625
+Nystrom mixed balanced,field,cv,rose,sunflower,1,1.0416666666666667
+Nystrom mixed balanced,field,cv,rose,tulip,10,10.416666666666666
+Nystrom mixed balanced,field,cv,sunflower,daisy,0,0.0
+Nystrom mixed balanced,field,cv,sunflower,dandelion,17,25.757575757575758
+Nystrom mixed balanced,field,cv,sunflower,rose,1,1.5151515151515151
+Nystrom mixed balanced,field,cv,sunflower,sunflower,37,56.06060606060606
+Nystrom mixed balanced,field,cv,sunflower,tulip,11,16.666666666666668
+Nystrom mixed balanced,field,cv,tulip,daisy,11,11.458333333333334
+Nystrom mixed balanced,field,cv,tulip,dandelion,27,28.125
+Nystrom mixed balanced,field,cv,tulip,rose,9,9.375
+Nystrom mixed balanced,field,cv,tulip,sunflower,11,11.458333333333334
+Nystrom mixed balanced,field,cv,tulip,tulip,38,39.583333333333336
+Nystrom mixed balanced,field,train,daisy,daisy,96,100.0
+Nystrom mixed balanced,field,train,daisy,dandelion,0,0.0
+Nystrom mixed balanced,field,train,daisy,rose,0,0.0
+Nystrom mixed balanced,field,train,daisy,sunflower,0,0.0
+Nystrom mixed balanced,field,train,daisy,tulip,0,0.0
+Nystrom mixed balanced,field,train,dandelion,daisy,0,0.0
+Nystrom mixed balanced,field,train,dandelion,dandelion,96,100.0
+Nystrom mixed balanced,field,train,dandelion,rose,0,0.0
+Nystrom mixed balanced,field,train,dandelion,sunflower,0,0.0
+Nystrom mixed balanced,field,train,dandelion,tulip,0,0.0
+Nystrom mixed balanced,field,train,rose,daisy,0,0.0
+Nystrom mixed balanced,field,train,rose,dandelion,0,0.0
+Nystrom mixed balanced,field,train,rose,rose,96,100.0
+Nystrom mixed balanced,field,train,rose,sunflower,0,0.0
+Nystrom mixed balanced,field,train,rose,tulip,0,0.0
+Nystrom mixed balanced,field,train,sunflower,daisy,0,0.0
+Nystrom mixed balanced,field,train,sunflower,dandelion,0,0.0
+Nystrom mixed balanced,field,train,sunflower,rose,0,0.0
+Nystrom mixed balanced,field,train,sunflower,sunflower,66,100.0
+Nystrom mixed balanced,field,train,sunflower,tulip,0,0.0
+Nystrom mixed balanced,field,train,tulip,daisy,0,0.0
+Nystrom mixed balanced,field,train,tulip,dandelion,0,0.0
+Nystrom mixed balanced,field,train,tulip,rose,0,0.0
+Nystrom mixed balanced,field,train,tulip,sunflower,0,0.0
+Nystrom mixed balanced,field,train,tulip,tulip,96,100.0
+Nystrom mixed balanced,field,validation,daisy,daisy,12,50.0
+Nystrom mixed balanced,field,validation,daisy,dandelion,4,16.666666666666668
+Nystrom mixed balanced,field,validation,daisy,rose,7,29.166666666666668
+Nystrom mixed balanced,field,validation,daisy,sunflower,0,0.0
+Nystrom mixed balanced,field,validation,daisy,tulip,1,4.166666666666667
+Nystrom mixed balanced,field,validation,dandelion,daisy,1,4.166666666666667
+Nystrom mixed balanced,field,validation,dandelion,dandelion,13,54.166666666666664
+Nystrom mixed balanced,field,validation,dandelion,rose,1,4.166666666666667
+Nystrom mixed balanced,field,validation,dandelion,sunflower,4,16.666666666666668
+Nystrom mixed balanced,field,validation,dandelion,tulip,5,20.833333333333332
+Nystrom mixed balanced,field,validation,rose,daisy,4,16.666666666666668
+Nystrom mixed balanced,field,validation,rose,dandelion,0,0.0
+Nystrom mixed balanced,field,validation,rose,rose,16,66.66666666666667
+Nystrom mixed balanced,field,validation,rose,sunflower,2,8.333333333333334
+Nystrom mixed balanced,field,validation,rose,tulip,2,8.333333333333334
+Nystrom mixed balanced,field,validation,sunflower,daisy,2,12.5
+Nystrom mixed balanced,field,validation,sunflower,dandelion,1,6.25
+Nystrom mixed balanced,field,validation,sunflower,rose,0,0.0
+Nystrom mixed balanced,field,validation,sunflower,sunflower,11,68.75
+Nystrom mixed balanced,field,validation,sunflower,tulip,2,12.5
+Nystrom mixed balanced,field,validation,tulip,daisy,4,16.666666666666668
+Nystrom mixed balanced,field,validation,tulip,dandelion,10,41.666666666666664
+Nystrom mixed balanced,field,validation,tulip,rose,2,8.333333333333334
+Nystrom mixed balanced,field,validation,tulip,sunflower,0,0.0
+Nystrom mixed balanced,field,validation,tulip,tulip,8,33.333333333333336
+Nystrom mixed balanced,kaggle,cv,daisy,daisy,382,71.26865671641791
+Nystrom mixed balanced,kaggle,cv,daisy,dandelion,60,11.194029850746269
+Nystrom mixed balanced,kaggle,cv,daisy,rose,40,7.462686567164179
+Nystrom mixed balanced,kaggle,cv,daisy,sunflower,26,4.850746268656716
+Nystrom mixed balanced,kaggle,cv,daisy,tulip,28,5.223880597014926
+Nystrom mixed balanced,kaggle,cv,dandelion,daisy,63,8.548168249660787
+Nystrom mixed balanced,kaggle,cv,dandelion,dandelion,578,78.42605156037992
+Nystrom mixed balanced,kaggle,cv,dandelion,rose,22,2.985074626865672
+Nystrom mixed balanced,kaggle,cv,dandelion,sunflower,36,4.884667571234735
+Nystrom mixed balanced,kaggle,cv,dandelion,tulip,38,5.156037991858887
+Nystrom mixed balanced,kaggle,cv,rose,daisy,36,6.593406593406593
+Nystrom mixed balanced,kaggle,cv,rose,dandelion,29,5.311355311355311
+Nystrom mixed balanced,kaggle,cv,rose,rose,389,71.24542124542124
+Nystrom mixed balanced,kaggle,cv,rose,sunflower,24,4.395604395604396
+Nystrom mixed balanced,kaggle,cv,rose,tulip,68,12.454212454212454
+Nystrom mixed balanced,kaggle,cv,sunflower,daisy,16,3.125
+Nystrom mixed balanced,kaggle,cv,sunflower,dandelion,34,6.640625
+Nystrom mixed balanced,kaggle,cv,sunflower,rose,15,2.9296875
+Nystrom mixed balanced,kaggle,cv,sunflower,sunflower,424,82.8125
+Nystrom mixed balanced,kaggle,cv,sunflower,tulip,23,4.4921875
+Nystrom mixed balanced,kaggle,cv,tulip,daisy,36,5.247813411078718
+Nystrom mixed balanced,kaggle,cv,tulip,dandelion,23,3.3527696793002915
+Nystrom mixed balanced,kaggle,cv,tulip,rose,81,11.807580174927114
+Nystrom mixed balanced,kaggle,cv,tulip,sunflower,33,4.810495626822157
+Nystrom mixed balanced,kaggle,cv,tulip,tulip,513,74.78134110787173
+Nystrom mixed balanced,kaggle,train,daisy,daisy,505,94.21641791044776
+Nystrom mixed balanced,kaggle,train,daisy,dandelion,14,2.611940298507463
+Nystrom mixed balanced,kaggle,train,daisy,rose,7,1.3059701492537314
+Nystrom mixed balanced,kaggle,train,daisy,sunflower,4,0.746268656716418
+Nystrom mixed balanced,kaggle,train,daisy,tulip,6,1.1194029850746268
+Nystrom mixed balanced,kaggle,train,dandelion,daisy,6,0.8141112618724559
+Nystrom mixed balanced,kaggle,train,dandelion,dandelion,707,95.92944369063773
+Nystrom mixed balanced,kaggle,train,dandelion,rose,3,0.40705563093622793
+Nystrom mixed balanced,kaggle,train,dandelion,sunflower,8,1.0854816824966078
+Nystrom mixed balanced,kaggle,train,dandelion,tulip,13,1.7639077340569878
+Nystrom mixed balanced,kaggle,train,rose,daisy,2,0.3663003663003663
+Nystrom mixed balanced,kaggle,train,rose,dandelion,2,0.3663003663003663
+Nystrom mixed balanced,kaggle,train,rose,rose,525,96.15384615384616
+Nystrom mixed balanced,kaggle,train,rose,sunflower,3,0.5494505494505495
+Nystrom mixed balanced,kaggle,train,rose,tulip,14,2.5641025641025643
+Nystrom mixed balanced,kaggle,train,sunflower,daisy,3,0.5859375
+Nystrom mixed balanced,kaggle,train,sunflower,dandelion,6,1.171875
+Nystrom mixed balanced,kaggle,train,sunflower,rose,1,0.1953125
+Nystrom mixed balanced,kaggle,train,sunflower,sunflower,498,97.265625
+Nystrom mixed balanced,kaggle,train,sunflower,tulip,4,0.78125
+Nystrom mixed balanced,kaggle,train,tulip,daisy,3,0.43731778425655976
+Nystrom mixed balanced,kaggle,train,tulip,dandelion,5,0.7288629737609329
+Nystrom mixed balanced,kaggle,train,tulip,rose,14,2.0408163265306123
+Nystrom mixed balanced,kaggle,train,tulip,sunflower,6,0.8746355685131195
+Nystrom mixed balanced,kaggle,train,tulip,tulip,658,95.91836734693878
+Nystrom mixed balanced,kaggle,validation,daisy,daisy,75,65.78947368421052
+Nystrom mixed balanced,kaggle,validation,daisy,dandelion,17,14.912280701754385
+Nystrom mixed balanced,kaggle,validation,daisy,rose,9,7.894736842105263
+Nystrom mixed balanced,kaggle,validation,daisy,sunflower,6,5.2631578947368425
+Nystrom mixed balanced,kaggle,validation,daisy,tulip,7,6.140350877192983
+Nystrom mixed balanced,kaggle,validation,dandelion,daisy,11,7.006369426751593
+Nystrom mixed balanced,kaggle,validation,dandelion,dandelion,115,73.2484076433121
+Nystrom mixed balanced,kaggle,validation,dandelion,rose,6,3.821656050955414
+Nystrom mixed balanced,kaggle,validation,dandelion,sunflower,10,6.369426751592357
+Nystrom mixed balanced,kaggle,validation,dandelion,tulip,15,9.554140127388536
+Nystrom mixed balanced,kaggle,validation,rose,daisy,10,8.547008547008547
+Nystrom mixed balanced,kaggle,validation,rose,dandelion,4,3.4188034188034186
+Nystrom mixed balanced,kaggle,validation,rose,rose,84,71.7948717948718
+Nystrom mixed balanced,kaggle,validation,rose,sunflower,6,5.128205128205129
+Nystrom mixed balanced,kaggle,validation,rose,tulip,13,11.11111111111111
+Nystrom mixed balanced,kaggle,validation,sunflower,daisy,2,1.8181818181818181
+Nystrom mixed balanced,kaggle,validation,sunflower,dandelion,6,5.454545454545454
+Nystrom mixed balanced,kaggle,validation,sunflower,rose,4,3.6363636363636362
+Nystrom mixed balanced,kaggle,validation,sunflower,sunflower,91,82.72727272727273
+Nystrom mixed balanced,kaggle,validation,sunflower,tulip,7,6.363636363636363
+Nystrom mixed balanced,kaggle,validation,tulip,daisy,9,6.122448979591836
+Nystrom mixed balanced,kaggle,validation,tulip,dandelion,5,3.401360544217687
+Nystrom mixed balanced,kaggle,validation,tulip,rose,13,8.843537414965986
+Nystrom mixed balanced,kaggle,validation,tulip,sunflower,2,1.3605442176870748
+Nystrom mixed balanced,kaggle,validation,tulip,tulip,118,80.27210884353741

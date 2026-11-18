@@ -1,0 +1,4 @@
+candidate,source,split,accuracy,macro_f1,n
+Archived KNN,new_field,fresh_test,0.4293193717277487,0.40047997596841106,191
+Frozen Logistic Regression,new_field,fresh_test,0.6230366492146597,0.6205475375688142,191
+Selected KNN,new_field,fresh_test,0.6335078534031413,0.6292885609884697,191

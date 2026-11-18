@@ -1,0 +1,226 @@
+source,actual,predicted,baseline_count,final_count,error_reduction,scope,family,candidate
+kaggle,daisy,daisy,81,83,-2,primary,Logistic Regression,C=3
+kaggle,daisy,dandelion,18,18,0,primary,Logistic Regression,C=3
+kaggle,daisy,rose,7,4,3,primary,Logistic Regression,C=3
+kaggle,daisy,sunflower,5,4,1,primary,Logistic Regression,C=3
+kaggle,daisy,tulip,3,5,-2,primary,Logistic Regression,C=3
+kaggle,dandelion,daisy,11,13,-2,primary,Logistic Regression,C=3
+kaggle,dandelion,dandelion,115,118,-3,primary,Logistic Regression,C=3
+kaggle,dandelion,rose,4,3,1,primary,Logistic Regression,C=3
+kaggle,dandelion,sunflower,16,15,1,primary,Logistic Regression,C=3
+kaggle,dandelion,tulip,11,8,3,primary,Logistic Regression,C=3
+kaggle,rose,daisy,10,12,-2,primary,Logistic Regression,C=3
+kaggle,rose,dandelion,3,3,0,primary,Logistic Regression,C=3
+kaggle,rose,rose,81,79,2,primary,Logistic Regression,C=3
+kaggle,rose,sunflower,5,6,-1,primary,Logistic Regression,C=3
+kaggle,rose,tulip,18,17,1,primary,Logistic Regression,C=3
+kaggle,sunflower,daisy,3,5,-2,primary,Logistic Regression,C=3
+kaggle,sunflower,dandelion,4,6,-2,primary,Logistic Regression,C=3
+kaggle,sunflower,rose,2,1,1,primary,Logistic Regression,C=3
+kaggle,sunflower,sunflower,95,91,4,primary,Logistic Regression,C=3
+kaggle,sunflower,tulip,6,7,-1,primary,Logistic Regression,C=3
+kaggle,tulip,daisy,4,4,0,primary,Logistic Regression,C=3
+kaggle,tulip,dandelion,5,3,2,primary,Logistic Regression,C=3
+kaggle,tulip,rose,13,11,2,primary,Logistic Regression,C=3
+kaggle,tulip,sunflower,4,4,0,primary,Logistic Regression,C=3
+kaggle,tulip,tulip,121,125,-4,primary,Logistic Regression,C=3
+kaggle,daisy,daisy,71,80,-9,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,daisy,dandelion,27,21,6,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,daisy,rose,8,4,4,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,daisy,sunflower,5,3,2,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,daisy,tulip,3,6,-3,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,dandelion,daisy,18,7,11,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,dandelion,dandelion,106,128,-22,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,dandelion,rose,7,4,3,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,dandelion,sunflower,20,12,8,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,dandelion,tulip,6,6,0,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,rose,daisy,8,14,-6,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,rose,dandelion,6,5,1,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,rose,rose,69,79,-10,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,rose,sunflower,5,4,1,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,rose,tulip,29,15,14,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,sunflower,daisy,4,4,0,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,sunflower,dandelion,11,9,2,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,sunflower,rose,2,1,1,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,sunflower,sunflower,87,89,-2,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,sunflower,tulip,6,7,-1,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,tulip,daisy,7,5,2,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,tulip,dandelion,12,4,8,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,tulip,rose,29,12,17,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,tulip,sunflower,7,2,5,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,tulip,tulip,92,124,-32,primary,KNN Classifier,neighbor sweep/euclidean/k=31/uniform
+kaggle,daisy,daisy,54,44,10,primary,K-Means,Local PCA20 clusters=10
+kaggle,daisy,dandelion,43,29,14,primary,K-Means,Local PCA20 clusters=10
+kaggle,daisy,rose,11,17,-6,primary,K-Means,Local PCA20 clusters=10
+kaggle,daisy,sunflower,2,7,-5,primary,K-Means,Local PCA20 clusters=10
+kaggle,daisy,tulip,4,17,-13,primary,K-Means,Local PCA20 clusters=10
+kaggle,dandelion,daisy,50,4,46,primary,K-Means,Local PCA20 clusters=10
+kaggle,dandelion,dandelion,45,91,-46,primary,K-Means,Local PCA20 clusters=10
+kaggle,dandelion,rose,25,23,2,primary,K-Means,Local PCA20 clusters=10
+kaggle,dandelion,sunflower,34,22,12,primary,K-Means,Local PCA20 clusters=10
+kaggle,dandelion,tulip,3,17,-14,primary,K-Means,Local PCA20 clusters=10
+kaggle,rose,daisy,31,3,28,primary,K-Means,Local PCA20 clusters=10
+kaggle,rose,dandelion,12,22,-10,primary,K-Means,Local PCA20 clusters=10
+kaggle,rose,rose,18,47,-29,primary,K-Means,Local PCA20 clusters=10
+kaggle,rose,sunflower,3,11,-8,primary,K-Means,Local PCA20 clusters=10
+kaggle,rose,tulip,53,34,19,primary,K-Means,Local PCA20 clusters=10
+kaggle,sunflower,daisy,7,4,3,primary,K-Means,Local PCA20 clusters=10
+kaggle,sunflower,dandelion,27,12,15,primary,K-Means,Local PCA20 clusters=10
+kaggle,sunflower,rose,13,11,2,primary,K-Means,Local PCA20 clusters=10
+kaggle,sunflower,sunflower,62,79,-17,primary,K-Means,Local PCA20 clusters=10
+kaggle,sunflower,tulip,1,4,-3,primary,K-Means,Local PCA20 clusters=10
+kaggle,tulip,daisy,24,1,23,primary,K-Means,Local PCA20 clusters=10
+kaggle,tulip,dandelion,31,13,18,primary,K-Means,Local PCA20 clusters=10
+kaggle,tulip,rose,15,36,-21,primary,K-Means,Local PCA20 clusters=10
+kaggle,tulip,sunflower,20,13,7,primary,K-Means,Local PCA20 clusters=10
+kaggle,tulip,tulip,57,84,-27,primary,K-Means,Local PCA20 clusters=10
+field,daisy,daisy,14,15,-1,supplemental,Logistic Regression,C=5
+field,daisy,dandelion,4,3,1,supplemental,Logistic Regression,C=5
+field,daisy,rose,5,4,1,supplemental,Logistic Regression,C=5
+field,daisy,sunflower,0,0,0,supplemental,Logistic Regression,C=5
+field,daisy,tulip,1,2,-1,supplemental,Logistic Regression,C=5
+field,dandelion,daisy,1,1,0,supplemental,Logistic Regression,C=5
+field,dandelion,dandelion,13,13,0,supplemental,Logistic Regression,C=5
+field,dandelion,rose,0,0,0,supplemental,Logistic Regression,C=5
+field,dandelion,sunflower,4,4,0,supplemental,Logistic Regression,C=5
+field,dandelion,tulip,6,6,0,supplemental,Logistic Regression,C=5
+field,rose,daisy,3,3,0,supplemental,Logistic Regression,C=5
+field,rose,dandelion,0,0,0,supplemental,Logistic Regression,C=5
+field,rose,rose,15,15,0,supplemental,Logistic Regression,C=5
+field,rose,sunflower,3,3,0,supplemental,Logistic Regression,C=5
+field,rose,tulip,3,3,0,supplemental,Logistic Regression,C=5
+field,sunflower,daisy,2,2,0,supplemental,Logistic Regression,C=5
+field,sunflower,dandelion,1,1,0,supplemental,Logistic Regression,C=5
+field,sunflower,rose,0,0,0,supplemental,Logistic Regression,C=5
+field,sunflower,sunflower,11,11,0,supplemental,Logistic Regression,C=5
+field,sunflower,tulip,2,2,0,supplemental,Logistic Regression,C=5
+field,tulip,daisy,4,4,0,supplemental,Logistic Regression,C=5
+field,tulip,dandelion,10,11,-1,supplemental,Logistic Regression,C=5
+field,tulip,rose,2,1,1,supplemental,Logistic Regression,C=5
+field,tulip,sunflower,0,0,0,supplemental,Logistic Regression,C=5
+field,tulip,tulip,8,8,0,supplemental,Logistic Regression,C=5
+kaggle,daisy,daisy,77,78,-1,supplemental,Logistic Regression,C=5
+kaggle,daisy,dandelion,18,19,-1,supplemental,Logistic Regression,C=5
+kaggle,daisy,rose,7,6,1,supplemental,Logistic Regression,C=5
+kaggle,daisy,sunflower,7,6,1,supplemental,Logistic Regression,C=5
+kaggle,daisy,tulip,5,5,0,supplemental,Logistic Regression,C=5
+kaggle,dandelion,daisy,9,10,-1,supplemental,Logistic Regression,C=5
+kaggle,dandelion,dandelion,120,119,1,supplemental,Logistic Regression,C=5
+kaggle,dandelion,rose,6,6,0,supplemental,Logistic Regression,C=5
+kaggle,dandelion,sunflower,9,10,-1,supplemental,Logistic Regression,C=5
+kaggle,dandelion,tulip,13,12,1,supplemental,Logistic Regression,C=5
+kaggle,rose,daisy,8,10,-2,supplemental,Logistic Regression,C=5
+kaggle,rose,dandelion,6,5,1,supplemental,Logistic Regression,C=5
+kaggle,rose,rose,82,82,0,supplemental,Logistic Regression,C=5
+kaggle,rose,sunflower,6,6,0,supplemental,Logistic Regression,C=5
+kaggle,rose,tulip,15,14,1,supplemental,Logistic Regression,C=5
+kaggle,sunflower,daisy,2,3,-1,supplemental,Logistic Regression,C=5
+kaggle,sunflower,dandelion,5,6,-1,supplemental,Logistic Regression,C=5
+kaggle,sunflower,rose,3,3,0,supplemental,Logistic Regression,C=5
+kaggle,sunflower,sunflower,93,92,1,supplemental,Logistic Regression,C=5
+kaggle,sunflower,tulip,7,6,1,supplemental,Logistic Regression,C=5
+kaggle,tulip,daisy,8,7,1,supplemental,Logistic Regression,C=5
+kaggle,tulip,dandelion,6,6,0,supplemental,Logistic Regression,C=5
+kaggle,tulip,rose,15,13,2,supplemental,Logistic Regression,C=5
+kaggle,tulip,sunflower,2,2,0,supplemental,Logistic Regression,C=5
+kaggle,tulip,tulip,116,119,-3,supplemental,Logistic Regression,C=5
+field,daisy,daisy,15,15,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,daisy,dandelion,4,4,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,daisy,rose,4,5,-1,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,daisy,sunflower,0,0,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,daisy,tulip,1,0,1,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,dandelion,daisy,2,1,1,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,dandelion,dandelion,18,18,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,dandelion,rose,0,1,-1,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,dandelion,sunflower,1,1,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,dandelion,tulip,3,3,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,rose,daisy,6,4,2,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,rose,dandelion,0,0,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,rose,rose,18,20,-2,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,rose,sunflower,0,0,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,rose,tulip,0,0,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,sunflower,daisy,1,1,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,sunflower,dandelion,3,3,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,sunflower,rose,0,0,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,sunflower,sunflower,8,8,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,sunflower,tulip,4,4,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,tulip,daisy,2,2,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,tulip,dandelion,8,9,-1,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,tulip,rose,1,1,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,tulip,sunflower,2,2,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,tulip,tulip,11,10,1,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,daisy,daisy,78,74,4,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,daisy,dandelion,18,19,-1,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,daisy,rose,8,10,-2,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,daisy,sunflower,3,5,-2,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,daisy,tulip,7,6,1,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,dandelion,daisy,11,10,1,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,dandelion,dandelion,106,107,-1,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,dandelion,rose,7,7,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,dandelion,sunflower,18,20,-2,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,dandelion,tulip,15,13,2,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,rose,daisy,9,9,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,rose,dandelion,8,7,1,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,rose,rose,76,77,-1,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,rose,sunflower,3,3,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,rose,tulip,21,21,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,sunflower,daisy,7,6,1,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,sunflower,dandelion,5,7,-2,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,sunflower,rose,3,3,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,sunflower,sunflower,86,86,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,sunflower,tulip,9,8,1,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,tulip,daisy,5,9,-4,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,tulip,dandelion,9,7,2,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,tulip,rose,15,13,2,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,tulip,sunflower,4,4,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+kaggle,tulip,tulip,114,114,0,supplemental,KNN Classifier,neighbor sweep/euclidean/k=31/distance
+field,daisy,daisy,7,7,0,supplemental,K-Means,baseline
+field,daisy,dandelion,12,12,0,supplemental,K-Means,baseline
+field,daisy,rose,3,3,0,supplemental,K-Means,baseline
+field,daisy,sunflower,1,1,0,supplemental,K-Means,baseline
+field,daisy,tulip,1,1,0,supplemental,K-Means,baseline
+field,dandelion,daisy,0,0,0,supplemental,K-Means,baseline
+field,dandelion,dandelion,18,18,0,supplemental,K-Means,baseline
+field,dandelion,rose,0,0,0,supplemental,K-Means,baseline
+field,dandelion,sunflower,5,5,0,supplemental,K-Means,baseline
+field,dandelion,tulip,1,1,0,supplemental,K-Means,baseline
+field,rose,daisy,4,4,0,supplemental,K-Means,baseline
+field,rose,dandelion,11,11,0,supplemental,K-Means,baseline
+field,rose,rose,6,6,0,supplemental,K-Means,baseline
+field,rose,sunflower,1,1,0,supplemental,K-Means,baseline
+field,rose,tulip,2,2,0,supplemental,K-Means,baseline
+field,sunflower,daisy,1,1,0,supplemental,K-Means,baseline
+field,sunflower,dandelion,11,11,0,supplemental,K-Means,baseline
+field,sunflower,rose,1,1,0,supplemental,K-Means,baseline
+field,sunflower,sunflower,3,3,0,supplemental,K-Means,baseline
+field,sunflower,tulip,0,0,0,supplemental,K-Means,baseline
+field,tulip,daisy,1,1,0,supplemental,K-Means,baseline
+field,tulip,dandelion,17,17,0,supplemental,K-Means,baseline
+field,tulip,rose,3,3,0,supplemental,K-Means,baseline
+field,tulip,sunflower,1,1,0,supplemental,K-Means,baseline
+field,tulip,tulip,2,2,0,supplemental,K-Means,baseline
+kaggle,daisy,daisy,59,59,0,supplemental,K-Means,baseline
+kaggle,daisy,dandelion,21,21,0,supplemental,K-Means,baseline
+kaggle,daisy,rose,24,24,0,supplemental,K-Means,baseline
+kaggle,daisy,sunflower,7,7,0,supplemental,K-Means,baseline
+kaggle,daisy,tulip,3,3,0,supplemental,K-Means,baseline
+kaggle,dandelion,daisy,12,12,0,supplemental,K-Means,baseline
+kaggle,dandelion,dandelion,99,99,0,supplemental,K-Means,baseline
+kaggle,dandelion,rose,26,26,0,supplemental,K-Means,baseline
+kaggle,dandelion,sunflower,17,17,0,supplemental,K-Means,baseline
+kaggle,dandelion,tulip,3,3,0,supplemental,K-Means,baseline
+kaggle,rose,daisy,2,2,0,supplemental,K-Means,baseline
+kaggle,rose,dandelion,22,22,0,supplemental,K-Means,baseline
+kaggle,rose,rose,58,58,0,supplemental,K-Means,baseline
+kaggle,rose,sunflower,11,11,0,supplemental,K-Means,baseline
+kaggle,rose,tulip,24,24,0,supplemental,K-Means,baseline
+kaggle,sunflower,daisy,7,7,0,supplemental,K-Means,baseline
+kaggle,sunflower,dandelion,26,26,0,supplemental,K-Means,baseline
+kaggle,sunflower,rose,21,21,0,supplemental,K-Means,baseline
+kaggle,sunflower,sunflower,51,51,0,supplemental,K-Means,baseline
+kaggle,sunflower,tulip,5,5,0,supplemental,K-Means,baseline
+kaggle,tulip,daisy,8,8,0,supplemental,K-Means,baseline
+kaggle,tulip,dandelion,20,20,0,supplemental,K-Means,baseline
+kaggle,tulip,rose,46,46,0,supplemental,K-Means,baseline
+kaggle,tulip,sunflower,6,6,0,supplemental,K-Means,baseline
+kaggle,tulip,tulip,67,67,0,supplemental,K-Means,baseline

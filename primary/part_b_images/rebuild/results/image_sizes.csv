@@ -1,0 +1,8 @@
+,width,width,width,height,height,height
+,min,median,max,min,median,max
+label,,,,,,
+daisy,134,320.0,640,134,240.0,442
+dandelion,134,320.0,500,98,240.0,436
+rose,150,320.0,500,80,240.0,434
+sunflower,152,320.0,640,134,240.0,400
+tulip,134,320.0,1024,134,240.0,441

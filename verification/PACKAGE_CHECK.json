@@ -1,0 +1,14 @@
+{
+  "result": "passed",
+  "copied_file_hashes_verified": 1689,
+  "finalized_model_hashes_verified": 3,
+  "final_experiments": 124,
+  "primary_training": 3017,
+  "primary_validation": 645,
+  "primary_internal_test": 645,
+  "grouped_cv_folds": 3,
+  "raw_dataset_images_verified": 0,
+  "field_observer_and_cohort_separation": "passed",
+  "training_executed": false,
+  "clone_reset_verified": true
+}

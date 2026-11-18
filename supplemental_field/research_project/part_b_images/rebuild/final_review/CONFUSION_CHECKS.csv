@@ -1,0 +1,9 @@
+file,matrices,cells,result
+results/confusion_matrices.csv,109,2725,matches saved predictions
+generalization/development_confusions.csv,111,2775,matches saved predictions
+generalization/fresh_test_confusions.csv,5,125,matches saved predictions
+knn_study/development_confusions.csv,16,400,matches saved predictions
+knn_study/fresh_confusions.csv,3,75,matches saved predictions
+logistic_study/development_confusions.csv,144,3600,matches saved predictions
+logistic_study/fresh_confusions.csv,3,75,matches saved predictions
+kmeans_study/development_confusions.csv,12,300,matches saved predictions

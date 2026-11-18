@@ -1,0 +1,2 @@
+stage,representation,mode,groups,weights,scale,pca,kernel,landmarks,projector,fit_balance,neighbor_pool,metric,k,vote,kaggle_cv_accuracy,kaggle_cv_macro_f1,field_cv_accuracy,field_cv_macro_f1,selection_f1
+supervised projection,Global and local polynomial,crop,"('color', 'hog', 'lbp', 'edges', 'local')","(2.0, 0.55, 0.7, 0.7, 1.25)",standard,0,poly,500,lda,True,all,manhattan,15,distance,0.7219057133154637,0.7205083526181876,0.6333333333333333,0.6195767011211117,0.6700425268696497

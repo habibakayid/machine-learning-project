@@ -1,0 +1,467 @@
+[
+  {
+    "scope": "primary",
+    "family": "Logistic Regression",
+    "path": "part_b_images/rebuild/final_optimization/primary/logistic_regression/selected.joblib",
+    "sha256": "7e8ad361e2b95314cd9f87785196f5ca74dad84b32555d64c7ab3b097fa0c749",
+    "candidate": "C=3",
+    "promoted": true,
+    "fit_sources": [
+      "kaggle"
+    ],
+    "fit_counts": {
+      "kaggle": 3017
+    },
+    "class_order": [
+      "daisy",
+      "dandelion",
+      "rose",
+      "sunflower",
+      "tulip"
+    ],
+    "development_manifest_sha256": "9922d697701f450d2cdcfa6ca61bcf9a1e772c6653a59d9747f12d34b11daf02",
+    "steps": [
+      "feature_groups",
+      "similarities",
+      "estimator"
+    ],
+    "experiment": {
+      "name": "C=3",
+      "model": "Logistic Regression",
+      "mode": "crop",
+      "groups": [
+        "color",
+        "hog",
+        "lbp",
+        "edges",
+        "local"
+      ],
+      "weights": [
+        2.0,
+        0.55,
+        0.7,
+        0.7,
+        1.25
+      ],
+      "scale": "standard",
+      "c": 3.0,
+      "pca": 0,
+      "kernel": "poly",
+      "gamma": 0.18,
+      "components": 1300,
+      "augment": [],
+      "neighbors": 11,
+      "metric": "euclidean",
+      "vote": "distance",
+      "n_init": 15,
+      "local_words": 24,
+      "one_to_one": false
+    },
+    "input_features": 10299,
+    "estimator_features": 1300,
+    "estimator_parameters": {
+      "C": 3.0,
+      "class_weight": null,
+      "dual": false,
+      "fit_intercept": true,
+      "intercept_scaling": 1,
+      "l1_ratio": 0.0,
+      "max_iter": 1000,
+      "n_jobs": null,
+      "penalty": "deprecated",
+      "random_state": 42,
+      "solver": "lbfgs",
+      "tol": 0.0001,
+      "verbose": 0,
+      "warm_start": false
+    },
+    "mapping": null
+  },
+  {
+    "scope": "primary",
+    "family": "KNN Classifier",
+    "path": "part_b_images/rebuild/final_optimization/primary/knn_classifier/selected.joblib",
+    "sha256": "fc94e73de04305badfe5a7e7495b602f45f7f1c6b24bbeadbe0ece8b2ad3e2fa",
+    "candidate": "neighbor sweep/euclidean/k=31/uniform",
+    "promoted": true,
+    "fit_sources": [
+      "kaggle"
+    ],
+    "fit_counts": {
+      "kaggle": 3017
+    },
+    "class_order": [
+      "daisy",
+      "dandelion",
+      "rose",
+      "sunflower",
+      "tulip"
+    ],
+    "development_manifest_sha256": "9922d697701f450d2cdcfa6ca61bcf9a1e772c6653a59d9747f12d34b11daf02",
+    "steps": [
+      "feature_groups",
+      "similarities",
+      "projection",
+      "estimator"
+    ],
+    "experiment": {
+      "name": "KNN with local descriptors",
+      "model": "KNN Classifier",
+      "mode": "crop",
+      "groups": [
+        "color",
+        "hog",
+        "lbp",
+        "edges",
+        "local"
+      ],
+      "weights": [
+        2.0,
+        0.55,
+        0.7,
+        0.7,
+        1.25
+      ],
+      "scale": "standard",
+      "c": 10.0,
+      "pca": 0,
+      "kernel": "poly",
+      "gamma": 0.18,
+      "components": 500,
+      "augment": [],
+      "neighbors": 31,
+      "metric": "euclidean",
+      "vote": "uniform",
+      "n_init": 15,
+      "local_words": 24,
+      "one_to_one": false
+    },
+    "input_features": 10299,
+    "estimator_features": 4,
+    "estimator_parameters": {
+      "algorithm": "brute",
+      "leaf_size": 30,
+      "metric": "euclidean",
+      "metric_params": null,
+      "n_jobs": null,
+      "n_neighbors": 31,
+      "p": 2,
+      "weights": "uniform"
+    },
+    "mapping": null
+  },
+  {
+    "scope": "primary",
+    "family": "K-Means",
+    "path": "part_b_images/rebuild/final_optimization/primary/k-means/selected.joblib",
+    "sha256": "1c944c902e6092ecb80511af9441724e330fc74a5d833cf7c656d626c3c5b20e",
+    "candidate": "Local PCA20 clusters=10",
+    "promoted": true,
+    "fit_sources": [
+      "kaggle"
+    ],
+    "fit_counts": {
+      "kaggle": 3017
+    },
+    "class_order": [
+      "daisy",
+      "dandelion",
+      "rose",
+      "sunflower",
+      "tulip"
+    ],
+    "development_manifest_sha256": "9922d697701f450d2cdcfa6ca61bcf9a1e772c6653a59d9747f12d34b11daf02",
+    "steps": [
+      "feature_groups",
+      "pca",
+      "estimator"
+    ],
+    "experiment": {
+      "name": "Local visual words",
+      "model": "K-Means",
+      "mode": "crop",
+      "groups": [
+        "local"
+      ],
+      "weights": [
+        1.0
+      ],
+      "scale": "l2",
+      "c": 1.0,
+      "pca": 20,
+      "kernel": "",
+      "gamma": 0.45,
+      "components": 700,
+      "augment": [],
+      "neighbors": 11,
+      "metric": "euclidean",
+      "vote": "distance",
+      "n_init": 10,
+      "local_words": 24,
+      "one_to_one": false
+    },
+    "input_features": 5488,
+    "estimator_features": 20,
+    "estimator_parameters": {
+      "algorithm": "lloyd",
+      "copy_x": true,
+      "init": "k-means++",
+      "max_iter": 300,
+      "n_clusters": 10,
+      "n_init": 10,
+      "random_state": 42,
+      "tol": 0.0001,
+      "verbose": 0
+    },
+    "mapping": [
+      "dandelion",
+      "sunflower",
+      "tulip",
+      "rose",
+      "tulip",
+      "dandelion",
+      "dandelion",
+      "sunflower",
+      "dandelion",
+      "daisy"
+    ]
+  },
+  {
+    "scope": "supplemental",
+    "family": "Logistic Regression",
+    "path": "part_b_images/rebuild/final_optimization/supplemental/logistic_regression/selected.joblib",
+    "sha256": "58198b813827eb1323133c893657449ac4e06b83848e83bce31366d09bc0fe8c",
+    "candidate": "C=5",
+    "promoted": true,
+    "fit_sources": [
+      "kaggle",
+      "field"
+    ],
+    "fit_counts": {
+      "field": 450,
+      "kaggle": 3017
+    },
+    "class_order": [
+      "daisy",
+      "dandelion",
+      "rose",
+      "sunflower",
+      "tulip"
+    ],
+    "development_manifest_sha256": "9922d697701f450d2cdcfa6ca61bcf9a1e772c6653a59d9747f12d34b11daf02",
+    "steps": [
+      "feature_groups",
+      "similarities",
+      "estimator"
+    ],
+    "experiment": {
+      "name": "C=5",
+      "model": "Logistic Regression",
+      "mode": "crop",
+      "groups": [
+        "color",
+        "hog",
+        "lbp",
+        "edges",
+        "local"
+      ],
+      "weights": [
+        2.0,
+        0.55,
+        0.7,
+        0.7,
+        1.25
+      ],
+      "scale": "standard",
+      "c": 5.0,
+      "pca": 0,
+      "kernel": "poly",
+      "gamma": 0.18,
+      "components": 1300,
+      "augment": [],
+      "neighbors": 11,
+      "metric": "euclidean",
+      "vote": "distance",
+      "n_init": 15,
+      "local_words": 24,
+      "one_to_one": false
+    },
+    "input_features": 10299,
+    "estimator_features": 1300,
+    "estimator_parameters": {
+      "C": 5.0,
+      "class_weight": null,
+      "dual": false,
+      "fit_intercept": true,
+      "intercept_scaling": 1,
+      "l1_ratio": 0.0,
+      "max_iter": 1000,
+      "n_jobs": null,
+      "penalty": "deprecated",
+      "random_state": 42,
+      "solver": "lbfgs",
+      "tol": 0.0001,
+      "verbose": 0,
+      "warm_start": false
+    },
+    "mapping": null
+  },
+  {
+    "scope": "supplemental",
+    "family": "KNN Classifier",
+    "path": "part_b_images/rebuild/final_optimization/supplemental/knn_classifier/selected.joblib",
+    "sha256": "8716e2b06b2a1563d5258ccd36af12571710475b3f4850f63995c301571d8a1e",
+    "candidate": "neighbor sweep/euclidean/k=31/distance",
+    "promoted": true,
+    "fit_sources": [
+      "kaggle",
+      "field"
+    ],
+    "fit_counts": {
+      "field": 450,
+      "kaggle": 3017
+    },
+    "class_order": [
+      "daisy",
+      "dandelion",
+      "rose",
+      "sunflower",
+      "tulip"
+    ],
+    "development_manifest_sha256": "9922d697701f450d2cdcfa6ca61bcf9a1e772c6653a59d9747f12d34b11daf02",
+    "steps": [
+      "feature_groups",
+      "similarities",
+      "projection",
+      "estimator"
+    ],
+    "experiment": {
+      "name": "Selected KNN",
+      "model": "KNN Classifier",
+      "mode": "crop",
+      "groups": [
+        "color",
+        "hog",
+        "lbp",
+        "edges",
+        "local"
+      ],
+      "weights": [
+        2.0,
+        0.55,
+        0.7,
+        0.7,
+        1.25
+      ],
+      "scale": "standard",
+      "c": 1.0,
+      "pca": 0,
+      "kernel": "poly",
+      "gamma": 0.18,
+      "components": 500,
+      "augment": [],
+      "neighbors": 31,
+      "metric": "euclidean",
+      "vote": "distance",
+      "n_init": 15,
+      "local_words": 24,
+      "one_to_one": false
+    },
+    "input_features": 10299,
+    "estimator_features": 4,
+    "estimator_parameters": {
+      "algorithm": "brute",
+      "leaf_size": 30,
+      "metric": "euclidean",
+      "metric_params": null,
+      "n_jobs": null,
+      "n_neighbors": 31,
+      "p": 2,
+      "weights": "distance"
+    },
+    "mapping": null
+  },
+  {
+    "scope": "supplemental",
+    "family": "K-Means",
+    "path": "part_b_images/rebuild/final_optimization/supplemental/k-means/selected.joblib",
+    "sha256": "984de856d80cce87f3331fc39e0d7ec239817f18ca804707faef5a915320140e",
+    "candidate": "baseline",
+    "promoted": false,
+    "fit_sources": [
+      "kaggle",
+      "field"
+    ],
+    "fit_counts": {
+      "field": 450,
+      "kaggle": 3017
+    },
+    "class_order": [
+      "daisy",
+      "dandelion",
+      "rose",
+      "sunflower",
+      "tulip"
+    ],
+    "development_manifest_sha256": "9922d697701f450d2cdcfa6ca61bcf9a1e772c6653a59d9747f12d34b11daf02",
+    "steps": [
+      "feature_groups",
+      "pca",
+      "estimator"
+    ],
+    "experiment": {
+      "name": "Local visual words",
+      "model": "K-Means",
+      "mode": "crop",
+      "groups": [
+        "local"
+      ],
+      "weights": [
+        1.0
+      ],
+      "scale": "l2",
+      "c": 1.0,
+      "pca": 20,
+      "kernel": "",
+      "gamma": 0.45,
+      "components": 700,
+      "augment": [],
+      "neighbors": 11,
+      "metric": "euclidean",
+      "vote": "distance",
+      "n_init": 10,
+      "local_words": 24,
+      "one_to_one": false
+    },
+    "input_features": 5488,
+    "estimator_features": 20,
+    "estimator_parameters": {
+      "algorithm": "lloyd",
+      "copy_x": true,
+      "init": "k-means++",
+      "max_iter": 300,
+      "n_clusters": 15,
+      "n_init": 10,
+      "random_state": 42,
+      "tol": 0.0001,
+      "verbose": 0
+    },
+    "mapping": [
+      "dandelion",
+      "dandelion",
+      "daisy",
+      "dandelion",
+      "tulip",
+      "rose",
+      "sunflower",
+      "dandelion",
+      "dandelion",
+      "dandelion",
+      "rose",
+      "daisy",
+      "rose",
+      "tulip",
+      "sunflower"
+    ]
+  }
+]

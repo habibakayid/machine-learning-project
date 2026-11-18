@@ -1,0 +1,76 @@
+candidate,source,split,actual,predicted,count,row_percent
+Archived KNN,new_field,fresh_test,daisy,daisy,25,62.5
+Archived KNN,new_field,fresh_test,daisy,dandelion,8,20.0
+Archived KNN,new_field,fresh_test,daisy,rose,2,5.0
+Archived KNN,new_field,fresh_test,daisy,sunflower,1,2.5
+Archived KNN,new_field,fresh_test,daisy,tulip,4,10.0
+Archived KNN,new_field,fresh_test,dandelion,daisy,8,20.0
+Archived KNN,new_field,fresh_test,dandelion,dandelion,28,70.0
+Archived KNN,new_field,fresh_test,dandelion,rose,0,0.0
+Archived KNN,new_field,fresh_test,dandelion,sunflower,3,7.5
+Archived KNN,new_field,fresh_test,dandelion,tulip,1,2.5
+Archived KNN,new_field,fresh_test,rose,daisy,15,38.46153846153846
+Archived KNN,new_field,fresh_test,rose,dandelion,5,12.820512820512821
+Archived KNN,new_field,fresh_test,rose,rose,14,35.8974358974359
+Archived KNN,new_field,fresh_test,rose,sunflower,1,2.5641025641025643
+Archived KNN,new_field,fresh_test,rose,tulip,4,10.256410256410257
+Archived KNN,new_field,fresh_test,sunflower,daisy,5,15.151515151515152
+Archived KNN,new_field,fresh_test,sunflower,dandelion,14,42.42424242424242
+Archived KNN,new_field,fresh_test,sunflower,rose,0,0.0
+Archived KNN,new_field,fresh_test,sunflower,sunflower,13,39.39393939393939
+Archived KNN,new_field,fresh_test,sunflower,tulip,1,3.0303030303030303
+Archived KNN,new_field,fresh_test,tulip,daisy,10,25.641025641025642
+Archived KNN,new_field,fresh_test,tulip,dandelion,19,48.717948717948715
+Archived KNN,new_field,fresh_test,tulip,rose,4,10.256410256410257
+Archived KNN,new_field,fresh_test,tulip,sunflower,4,10.256410256410257
+Archived KNN,new_field,fresh_test,tulip,tulip,2,5.128205128205129
+Frozen Logistic Regression,new_field,fresh_test,daisy,daisy,30,75.0
+Frozen Logistic Regression,new_field,fresh_test,daisy,dandelion,5,12.5
+Frozen Logistic Regression,new_field,fresh_test,daisy,rose,3,7.5
+Frozen Logistic Regression,new_field,fresh_test,daisy,sunflower,0,0.0
+Frozen Logistic Regression,new_field,fresh_test,daisy,tulip,2,5.0
+Frozen Logistic Regression,new_field,fresh_test,dandelion,daisy,3,7.5
+Frozen Logistic Regression,new_field,fresh_test,dandelion,dandelion,28,70.0
+Frozen Logistic Regression,new_field,fresh_test,dandelion,rose,1,2.5
+Frozen Logistic Regression,new_field,fresh_test,dandelion,sunflower,6,15.0
+Frozen Logistic Regression,new_field,fresh_test,dandelion,tulip,2,5.0
+Frozen Logistic Regression,new_field,fresh_test,rose,daisy,9,23.076923076923077
+Frozen Logistic Regression,new_field,fresh_test,rose,dandelion,3,7.6923076923076925
+Frozen Logistic Regression,new_field,fresh_test,rose,rose,23,58.97435897435897
+Frozen Logistic Regression,new_field,fresh_test,rose,sunflower,1,2.5641025641025643
+Frozen Logistic Regression,new_field,fresh_test,rose,tulip,3,7.6923076923076925
+Frozen Logistic Regression,new_field,fresh_test,sunflower,daisy,1,3.0303030303030303
+Frozen Logistic Regression,new_field,fresh_test,sunflower,dandelion,5,15.151515151515152
+Frozen Logistic Regression,new_field,fresh_test,sunflower,rose,0,0.0
+Frozen Logistic Regression,new_field,fresh_test,sunflower,sunflower,23,69.6969696969697
+Frozen Logistic Regression,new_field,fresh_test,sunflower,tulip,4,12.121212121212121
+Frozen Logistic Regression,new_field,fresh_test,tulip,daisy,5,12.820512820512821
+Frozen Logistic Regression,new_field,fresh_test,tulip,dandelion,13,33.333333333333336
+Frozen Logistic Regression,new_field,fresh_test,tulip,rose,3,7.6923076923076925
+Frozen Logistic Regression,new_field,fresh_test,tulip,sunflower,3,7.6923076923076925
+Frozen Logistic Regression,new_field,fresh_test,tulip,tulip,15,38.46153846153846
+Selected KNN,new_field,fresh_test,daisy,daisy,30,75.0
+Selected KNN,new_field,fresh_test,daisy,dandelion,3,7.5
+Selected KNN,new_field,fresh_test,daisy,rose,6,15.0
+Selected KNN,new_field,fresh_test,daisy,sunflower,0,0.0
+Selected KNN,new_field,fresh_test,daisy,tulip,1,2.5
+Selected KNN,new_field,fresh_test,dandelion,daisy,3,7.5
+Selected KNN,new_field,fresh_test,dandelion,dandelion,30,75.0
+Selected KNN,new_field,fresh_test,dandelion,rose,1,2.5
+Selected KNN,new_field,fresh_test,dandelion,sunflower,3,7.5
+Selected KNN,new_field,fresh_test,dandelion,tulip,3,7.5
+Selected KNN,new_field,fresh_test,rose,daisy,7,17.94871794871795
+Selected KNN,new_field,fresh_test,rose,dandelion,0,0.0
+Selected KNN,new_field,fresh_test,rose,rose,28,71.7948717948718
+Selected KNN,new_field,fresh_test,rose,sunflower,1,2.5641025641025643
+Selected KNN,new_field,fresh_test,rose,tulip,3,7.6923076923076925
+Selected KNN,new_field,fresh_test,sunflower,daisy,0,0.0
+Selected KNN,new_field,fresh_test,sunflower,dandelion,8,24.242424242424242
+Selected KNN,new_field,fresh_test,sunflower,rose,0,0.0
+Selected KNN,new_field,fresh_test,sunflower,sunflower,18,54.54545454545455
+Selected KNN,new_field,fresh_test,sunflower,tulip,7,21.21212121212121
+Selected KNN,new_field,fresh_test,tulip,daisy,3,7.6923076923076925
+Selected KNN,new_field,fresh_test,tulip,dandelion,17,43.58974358974359
+Selected KNN,new_field,fresh_test,tulip,rose,3,7.6923076923076925
+Selected KNN,new_field,fresh_test,tulip,sunflower,1,2.5641025641025643
+Selected KNN,new_field,fresh_test,tulip,tulip,15,38.46153846153846

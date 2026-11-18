@@ -1,0 +1,12 @@
+{
+  "images_verified": 4317,
+  "classes": {
+    "dandelion": 1052,
+    "tulip": 984,
+    "rose": 784,
+    "daisy": 764,
+    "sunflower": 733
+  },
+  "hash_and_image_validation": "passed",
+  "research_tree_restored": false
+}

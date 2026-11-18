@@ -1,0 +1,11 @@
+{
+  "scanned": 5610,
+  "unreadable": [],
+  "raw_count": 4317,
+  "retained_kaggle": 4307,
+  "kaggle_groups": 4284,
+  "legacy_related_groups_crossing_splits": 8,
+  "rebuilt_related_groups_crossing_splits": 0,
+  "related_groups_crossing_cv_folds": 0,
+  "active_cross_partition_matches": []
+}

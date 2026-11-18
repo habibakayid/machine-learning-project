@@ -1,0 +1,99 @@
+{
+  "result": "passed",
+  "model_hashes_verified": 3,
+  "original_inference_expectations_matched": 15,
+  "cases": [
+    {
+      "model": "Logistic Regression",
+      "actual": "daisy",
+      "prediction": "daisy",
+      "status": "passed"
+    },
+    {
+      "model": "Logistic Regression",
+      "actual": "dandelion",
+      "prediction": "dandelion",
+      "status": "passed"
+    },
+    {
+      "model": "Logistic Regression",
+      "actual": "rose",
+      "prediction": "rose",
+      "status": "passed"
+    },
+    {
+      "model": "Logistic Regression",
+      "actual": "sunflower",
+      "prediction": "sunflower",
+      "status": "passed"
+    },
+    {
+      "model": "Logistic Regression",
+      "actual": "tulip",
+      "prediction": "tulip",
+      "status": "passed"
+    },
+    {
+      "model": "KNN Classifier",
+      "actual": "daisy",
+      "prediction": "daisy",
+      "status": "passed"
+    },
+    {
+      "model": "KNN Classifier",
+      "actual": "dandelion",
+      "prediction": "dandelion",
+      "status": "passed"
+    },
+    {
+      "model": "KNN Classifier",
+      "actual": "rose",
+      "prediction": "rose",
+      "status": "passed"
+    },
+    {
+      "model": "KNN Classifier",
+      "actual": "sunflower",
+      "prediction": "sunflower",
+      "status": "passed"
+    },
+    {
+      "model": "KNN Classifier",
+      "actual": "tulip",
+      "prediction": "tulip",
+      "status": "passed"
+    },
+    {
+      "model": "K-Means",
+      "actual": "daisy",
+      "prediction": "daisy",
+      "status": "passed"
+    },
+    {
+      "model": "K-Means",
+      "actual": "dandelion",
+      "prediction": "dandelion",
+      "status": "passed"
+    },
+    {
+      "model": "K-Means",
+      "actual": "rose",
+      "prediction": "rose",
+      "status": "passed"
+    },
+    {
+      "model": "K-Means",
+      "actual": "sunflower",
+      "prediction": "sunflower",
+      "status": "passed"
+    },
+    {
+      "model": "K-Means",
+      "actual": "tulip",
+      "prediction": "tulip",
+      "status": "passed"
+    }
+  ],
+  "python": "3.11.9",
+  "model_training_performed": false
+}

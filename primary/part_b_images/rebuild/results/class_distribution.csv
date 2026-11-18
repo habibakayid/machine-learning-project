@@ -1,0 +1,6 @@
+label,train,validation,test,raw
+daisy,536,114,114,764
+dandelion,737,157,158,1052
+rose,546,117,117,784
+sunflower,512,110,109,733
+tulip,686,147,147,984
