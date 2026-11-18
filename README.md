@@ -29,7 +29,7 @@ git lfs pull
 
 Python **3.11 x64** and the Windows Python Launcher are required. `app/models/logistic_regression.joblib`, `app/models/knn_classifier.joblib`, and `app/models/kmeans.joblib` are the frozen application bundles. The oversized historical `supplemental_field/research_project/models/part_b_knn_96.joblib` uses Git LFS. Downloading GitHub's automatic source ZIP does not guarantee retrieval of LFS content; use a full clone plus `git lfs pull`, or the complete team ZIP from [GitHub Releases](https://github.com/malakmohamed172/machine-learning-project/releases) when available.
 
-The Git working tree includes the licensed supplemental photos omitted by inherited research ignore rules. The giant team ZIP is a release asset, never an ordinary Git commit. Verification inventories describe the frozen team ZIP; Git-specific README, ignore rules and attributes are documented changes and do not change models or experiment evidence.
+Git attributes preserve original file bytes across platforms so frozen provenance checks do not fail solely because of automatic line-ending conversion. The Git working tree includes the licensed supplemental photos omitted by inherited research ignore rules. The giant team ZIP is a release asset, never an ordinary Git commit. Verification inventories describe the frozen team ZIP; Git-specific README, ignore rules and attributes are documented changes and do not change models or experiment evidence.
 
 ## Reproducible project guide
 
