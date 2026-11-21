@@ -1,4 +1,0 @@
-candidate,source,split,accuracy,macro_f1,n
-Compact benchmark,fresh field,fresh test,0.6538461538461539,0.6440750477592583,156
-Current Nystrom,fresh field,fresh test,0.6410256410256411,0.626610130915463,156
-Source and class balanced C=3,fresh field,fresh test,0.6923076923076923,0.6738980289206172,156

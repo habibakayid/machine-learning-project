@@ -1,5 +1,0 @@
-.venv/
-.qa/
-__pycache__/
-*.pyc
-cache/
