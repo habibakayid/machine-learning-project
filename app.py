@@ -1,87 +1,14 @@
+
 import pickle
 from pathlib import Path
 
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(
-    page_title="Medical Insurance Cost Predictor",
-    page_icon="🏥",
-    layout="wide",
-)
+st.set_page_config(page_title="Medical Insurance Cost Predictor", layout="wide")
 
-
-st.markdown(
-    """
-    <style>
-    .block-container {padding-top: 2rem; max-width: 1150px;}
-    #MainMenu {visibility: hidden;}
-    footer {visibility: hidden;}
-
-    .hero {
-        background: linear-gradient(120deg, #0f766e 0%, #2563eb 100%);
-        border-radius: 20px;
-        padding: 28px 34px;
-        color: #ffffff;
-        margin-bottom: 1.4rem;
-        box-shadow: 0 10px 30px rgba(37, 99, 235, 0.25);
-    }
-    .hero h1 {color: #ffffff; margin: 0; font-size: 2.1rem; padding: 0;}
-    .hero p  {color: #e0f2fe; margin: 6px 0 0 0; font-size: 1.05rem;}
-
-    .section-title {
-        font-size: 1.1rem; font-weight: 700; margin-bottom: .4rem;
-    }
-
-    .result-card {
-        background: linear-gradient(135deg, #059669 0%, #0d9488 100%);
-        border-radius: 20px;
-        padding: 30px 24px;
-        text-align: center;
-        color: #ffffff;
-        box-shadow: 0 10px 30px rgba(5, 150, 105, 0.30);
-        margin-bottom: 1rem;
-    }
-    .result-card .label {font-size: .95rem; opacity: .9; letter-spacing: .5px;}
-    .result-card .amount {font-size: 2.9rem; font-weight: 800; line-height: 1.2;}
-    .result-card .sub {font-size: .85rem; opacity: .85; margin-top: 4px;}
-
-    .placeholder-card {
-        border: 2px dashed rgba(100, 116, 139, 0.5);
-        border-radius: 20px;
-        padding: 60px 24px;
-        text-align: center;
-        opacity: .75;
-    }
-
-    .chip {
-        display: inline-block; padding: 4px 14px; border-radius: 999px;
-        font-weight: 600; font-size: .85rem; color: #ffffff;
-    }
-
-    div[data-testid="stFormSubmitButton"] button {
-        background: linear-gradient(120deg, #0f766e, #2563eb);
-        color: #ffffff; border: none; border-radius: 12px;
-        padding: .6rem 1.2rem; font-weight: 700; width: 100%;
-    }
-    div[data-testid="stFormSubmitButton"] button:hover {
-        filter: brightness(1.1); color: #ffffff;
-    }
-    div[data-testid="stForm"] {border-radius: 18px; padding: 1.4rem;}
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
-
-st.markdown(
-    """
-    <div class="hero">
-        <h1>🏥 Medical Insurance Charges Predictor</h1>
-        <p>Enter the patient's information and get an instant estimate of the yearly insurance charges.</p>
-    </div>
-    """,
-    unsafe_allow_html=True,
-)
+st.title("Medical Insurance Charges Predictor")
+st.write("Enter the patient's information to estimate the yearly insurance charges.")
 
 
 BASE_DIR = Path(__file__).parent
@@ -109,14 +36,12 @@ if not available_models:
     st.stop()
 
 with st.sidebar:
-    st.markdown("### ⚙️ Settings")
+    st.header("Settings")
     model_name = st.selectbox("Choose model", list(available_models.keys()))
     st.caption(
-        "The Voting Regressor averages Linear Regression and KNN predictions, "
-        "while Linear Regression is the simpler baseline."
+        "The Voting Regressor averages the predictions of Linear Regression "
+        "and KNN. Linear Regression is the simpler baseline."
     )
-    st.divider()
-    st.caption("Built with Streamlit and scikit-learn.")
 
 artifacts = load_artifacts(available_models[model_name])
 preprocessor = artifacts["preprocessor"]
@@ -128,21 +53,21 @@ def predict_charges(patient: pd.DataFrame) -> float:
     return max(float(model.predict(processed)[0]), 0.0)
 
 
-def bmi_category(value: float):
+def bmi_category(value: float) -> str:
     if value < 18.5:
-        return "Underweight", "#2563eb"
+        return "Underweight"
     if value < 25:
-        return "Normal", "#059669"
+        return "Normal"
     if value < 30:
-        return "Overweight", "#d97706"
-    return "Obese", "#dc2626"
+        return "Overweight"
+    return "Obese"
 
 
 
-left, right = st.columns([1.15, 1], gap="large")
+left, right = st.columns(2, gap="large")
 
 with left:
-    st.markdown('<div class="section-title">👤 Patient information</div>', unsafe_allow_html=True)
+    st.subheader("Patient information")
     with st.form("patient_form"):
         c1, c2 = st.columns(2)
         with c1:
@@ -154,17 +79,14 @@ with left:
             smoker = st.selectbox("Smoker", ["no", "yes"])
             region = st.selectbox("Region", ["southwest", "southeast", "northwest", "northeast"])
 
-        submitted = st.form_submit_button("🔮 Predict charges")
+        submitted = st.form_submit_button("Predict")
 
 with right:
-    st.markdown('<div class="section-title">💰 Estimated charges</div>', unsafe_allow_html=True)
+    st.subheader("Result")
 
     if not submitted:
-        st.markdown(
-            '<div class="placeholder-card">Fill in the form and press <b>Predict charges</b><br>'
-            "to see the estimate here.</div>",
-            unsafe_allow_html=True,
-        )
+        with st.container(border=True):
+            st.write("Fill in the form and press Predict to see the estimate here.")
     else:
         patient = pd.DataFrame(
             {
@@ -177,52 +99,31 @@ with right:
             }
         )
         prediction = predict_charges(patient)
-        category, colour = bmi_category(bmi)
 
-        st.markdown(
-            f"""
-            <div class="result-card">
-                <div class="label">PREDICTED YEARLY CHARGES</div>
-                <div class="amount">${prediction:,.2f}</div>
-                <div class="sub">Model: {model_name}</div>
-            </div>
-            """,
-            unsafe_allow_html=True,
-        )
+        with st.container(border=True):
+            st.metric("Predicted yearly charges", f"${prediction:,.2f}")
+            m1, m2 = st.columns(2)
+            m1.metric("Approx. monthly", f"${prediction / 12:,.2f}")
+            m2.metric("BMI category", bmi_category(bmi))
+        st.caption(f"Model used: {model_name}")
 
-        m1, m2 = st.columns(2)
-        m1.metric("Monthly (approx.)", f"${prediction / 12:,.0f}")
-        m2.markdown(
-            f'BMI category<br><span class="chip" style="background:{colour}">{category}</span>',
-            unsafe_allow_html=True,
-        )
 
-# ----------------------------------------------------------------------------
-# Extra insight: how smoking changes the estimate
-# ----------------------------------------------------------------------------
 if submitted:
     st.divider()
-    st.markdown('<div class="section-title">📊 What-if: effect of smoking</div>', unsafe_allow_html=True)
+    st.subheader("Effect of smoking on the estimate")
+    st.write("Same patient, same model, only the smoker value is changed.")
 
     smoker_no = predict_charges(patient.assign(smoker="no"))
     smoker_yes = predict_charges(patient.assign(smoker="yes"))
 
-    chart_df = pd.DataFrame(
-        {"Predicted charges ($)": [smoker_no, smoker_yes]},
-        index=["Non-smoker", "Smoker"],
+    comparison = pd.DataFrame(
+        {
+            "Smoker": ["no", "yes"],
+            "Predicted charges": [f"${smoker_no:,.2f}", f"${smoker_yes:,.2f}"],
+        }
     )
-
-    w1, w2 = st.columns([1, 1.4], gap="large")
-    with w1:
-        st.metric("Non-smoker", f"${smoker_no:,.0f}")
-        st.metric(
-            "Smoker",
-            f"${smoker_yes:,.0f}",
-            delta=f"{smoker_yes - smoker_no:+,.0f} vs non-smoker",
-            delta_color="inverse",
-        )
-    with w2:
-        st.bar_chart(chart_df)
+    st.dataframe(comparison, hide_index=True)
+    st.write(f"Difference: ${smoker_yes - smoker_no:+,.2f} per year")
 
     with st.expander("Input summary"):
         st.dataframe(patient, hide_index=True)
