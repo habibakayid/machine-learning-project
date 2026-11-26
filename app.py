@@ -102,9 +102,8 @@ with right:
 
         with st.container(border=True):
             st.metric("Predicted yearly charges", f"${prediction:,.2f}")
-            m1, m2 = st.columns(2)
-            m1.metric("Approx. monthly", f"${prediction / 12:,.2f}")
-            m2.metric("BMI category", bmi_category(bmi))
+            st.metric("Approx. monthly", f"${prediction / 12:,.2f}")
+            st.write(f"BMI category: **{bmi_category(bmi)}**")
         st.caption(f"Model used: {model_name}")
 
 
